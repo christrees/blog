@@ -9,7 +9,7 @@
       fetch("https://12Me21.github.io/test.txt")
         .then( response => response.text() )
         .then( testtext => console.log(testtext) )
-      function Editor(input, preview) {
+      function Editor(testtext, preview) {
         this.update = function () {
           preview.innerHTML = markdown.toHTML(testtext);
         };
