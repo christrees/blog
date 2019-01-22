@@ -6,6 +6,9 @@
     <div id="preview"> </div>
     <script src="markdown.js"></script>
     <script>
+      fetch("https://12Me21.github.io/test.txt")
+        .then( response => response.text() )
+        .then( input.value => console.log(text) )
       function Editor(input, preview) {
         this.update = function () {
           preview.innerHTML = markdown.toHTML(input.value);
