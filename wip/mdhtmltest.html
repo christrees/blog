@@ -2,7 +2,7 @@
 <html>
   <body>
     <textarea id="text-input" oninput="this.editor.update()"
-              rows="6" cols="60">Update this **Markdown** here.</textarea>
+              rows="6" cols="60">Testing [markdowntest.md](http://blog.christrees.com/wip/markdowntest.md)</textarea>
     <div id="preview"> </div>
     <div id="testmd"> </div>
     <script src="markdown.js"></script>
@@ -22,7 +22,7 @@
       function Checkmd(testmd, mdtext) { 
         testmd.innerHTML = markdown.toHTML(mdtext); 
       }
-      fetch("https://12Me21.github.io/test.txt")
+      fetch("http://blog.christrees.com/wip/markdowntest.md")
             .then( response => response.text() )
             .then( text => new Checkmd($("testmd"), text) ) );
     </script>
