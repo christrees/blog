@@ -1,5 +1,6 @@
 
 # H1 - Markdown Test Sheet - H1
+---
 
 ```
 Below is heading H1 '# H1'
@@ -7,14 +8,14 @@ Below is heading H1 '# H1'
 # H1
 
 ```
-Below is heading H2 '# H2'
+Below is heading H2 '## H2'
 ```
 ## H2
 
 ```
-Below is heading H3 with custom-id '# H3 {#custom-id}'
+Below is heading H3 with custom-id '### H3'
 ```
-### H3 {#custom-id}
+### H3 
 
 ```
 The next text **is BOLD text**
@@ -52,6 +53,8 @@ The next text is code block
 ```
 'code block'
 
+---
+
 ```
 The next table: 
 | Syntax | Description |
@@ -59,10 +62,13 @@ The next table:
 | Header | Title |
 | Paragraph | Text |
 ```
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+---
 
 ```
 Task list: 
@@ -70,6 +76,7 @@ Task list:
 - [ ] Update the website
 - [ ] Contact the media
 ```
+
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
@@ -108,3 +115,10 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
+
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
