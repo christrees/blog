@@ -4,6 +4,7 @@
     <textarea id="text-input" oninput="this.editor.update()"
               rows="6" cols="60">Test Type **Markdown** here.</textarea>
     <div id="preview"> </div>
+    <div id="testmd"> </div>
     <script src="markdown.js"></script>
     <script>
 
@@ -15,7 +16,8 @@
         this.update();
       }
       var $ = function (id) { return document.getElementById(id); };
-      new Editor($("text-input").load("https://12Me21.github.io/test.txt"), $("preview"));
+      new Editor($("text-input"), $("preview"));
+      function () { testmd.innerHTML = markdown.toHTML("# TEST ME") };
     </script>
   </body>
 </html>
