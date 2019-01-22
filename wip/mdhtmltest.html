@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
   <body>
+    <div id="dynamictest">Dynamic Test Input</div>
+    <hr/>
     <textarea id="text-input" oninput="this.editor.update()"
               rows="6" cols="60">Testing markdowntest.md</textarea>
     <div id="preview"> </div>
-    <div id="testmd"> </div>
+    <hr/><br/><hr/>
+    <div id="displayfile">Below is http://blog.christrees.com/wip/markdowntest.md</div>
+    <hr/>
+    <div id="mdtestfile"> </div>
     <script src="markdown.js"></script>
     <script>
 
@@ -24,7 +29,7 @@
       }
       fetch("http://blog.christrees.com/wip/markdowntest.md")
             .then( response => response.text() )
-            .then( text => new Checkmd($("testmd"), text) );
+            .then( text => new Checkmd($("mdtestfile"), text) );
     </script>
   </body>
 </html>
