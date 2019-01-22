@@ -6,12 +6,14 @@
     <div id="preview"> </div>
     <script src="markdown.js"></script>
     <script>
-      fetch("https://12Me21.github.io/test.txt")
-        .then( response => response.text() )
-        .then( testtext => console.log(testtext) )
-      function Editor(testtext, preview) {
+
+      function Editor(input, preview) {
         this.update = function () {
-          preview.innerHTML = markdown.toHTML(testtext);
+          preview.innerHTML = markdown.toHTML(
+            fetch("https://12Me21.github.io/test.txt")
+              .then( response => response.text() )
+              .then( testtext => console.log(testtext) )
+          );
         };
         input.editor = this;
         this.update();
