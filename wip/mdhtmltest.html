@@ -17,7 +17,9 @@
       }
       var $ = function (id) { return document.getElementById(id); };
       new Editor($("text-input"), $("preview"));
-      function () { testmd.innerHTML = markdown.toHTML("# TEST ME"); };
+      
+      function Checkmd(testmd) { testmd.innerHTML = markdown.toHTML("# TEST ME"); };
+      new Checkmd($("testmd"));
     </script>
   </body>
 </html>
