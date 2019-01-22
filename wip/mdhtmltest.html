@@ -8,10 +8,10 @@
     <script>
       fetch("https://12Me21.github.io/test.txt")
         .then( response => response.text() )
-        .then( input.value => console.log(text) )
+        .then( testtext => console.log(text) )
       function Editor(input, preview) {
         this.update = function () {
-          preview.innerHTML = markdown.toHTML(input.value);
+          preview.innerHTML = markdown.toHTML(testtext);
         };
         input.editor = this;
         this.update();
