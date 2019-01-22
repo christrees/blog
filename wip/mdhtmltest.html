@@ -2,7 +2,7 @@
 <html>
   <body>
     <textarea id="text-input" oninput="this.editor.update()"
-              rows="6" cols="60">Test Type **Markdown** here.</textarea>
+              rows="6" cols="60">Update - Type **Markdown** here.</textarea>
     <div id="preview"> </div>
     <div id="testmd"> </div>
     <script src="markdown.js"></script>
@@ -18,7 +18,9 @@
       var $ = function (id) { return document.getElementById(id); };
       new Editor($("text-input"), $("preview"));
       
-      function Checkmd(testmd) { testmd.innerHTML = markdown.toHTML("# TEST ME"); };
+      function Checkmd(testmd) { 
+        testmd.innerHTML = markdown.toHTML("hello-world"); 
+      }
       new Checkmd($("testmd"));
     </script>
   </body>
