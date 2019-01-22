@@ -19,7 +19,11 @@
       new Editor($("text-input"), $("preview"));
       
       function Checkmd(testmd) { 
-        testmd.innerHTML = markdown.toHTML("hello-world"); 
+        testmd.innerHTML = markdown.toHTML(
+          fetch("https://12Me21.github.io/test.txt")
+            .then( response => response.text() )
+            .then( text => console.log(text) )
+        ); 
       }
       new Checkmd($("testmd"));
     </script>
