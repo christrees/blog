@@ -12,7 +12,7 @@
           preview.innerHTML = markdown.toHTML(
             fetch("https://12Me21.github.io/test.txt")
               .then( response => response.text() )
-              .then( testtext => console.log(testtext) )
+              .then( input.value => console.log(input.value) )
           );
         };
         input.editor = this;
