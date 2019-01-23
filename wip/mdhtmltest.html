@@ -10,9 +10,12 @@
     <div id="displayfile">Below is http://blog.christrees.com/wip/markdowntest.md</div>
     <hr/>
     <div id="mdtestfile"> </div>
+    <!-- https://github.com/evilstreak/markdown-js -->
     <script src="markdown.js"></script>
+    <!-- https://github.com/showdownjs/showdown -->
+    <!-- https://cdn.rawgit.com/showdownjs/showdown/1.9.0/dist/showdown.min.js -->
+    <script src="showdown.min.js"></script>
     <script>
-
       function Editor(input, preview) {
         this.update = function () {
           preview.innerHTML = markdown.toHTML(input.value);
@@ -24,12 +27,17 @@
       new Editor($("text-input"), $("preview"));
       
       var mdtext;    
+      var converter = new showdown.Converter();
+      converter.setFlavor('github');
       function Checkmd(testmd, mdtext) { 
-        testmd.innerHTML = markdown.toHTML(mdtext); 
+        //testmd.innerHTML = markdown.toHTML(mdtext, 'Gruber'); 
+        testmd.innerHTML = converter.makeHtml(mdtext, 'Gruber'); 
       }
+      // https://www.markdownguide.org/cheat-sheet/
       fetch("http://blog.christrees.com/wip/markdowntest.md")
             .then( response => response.text() )
             .then( text => new Checkmd($("mdtestfile"), text) );
     </script>
   </body>
 </html>
+
