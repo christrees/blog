@@ -12,6 +12,7 @@
     <script src="showdown.min.js"></script>
     <script>
       var mdtext;    
+      var $ = function (id) { return document.getElementById(id); };
       var converter = new showdown.Converter();
       converter.setFlavor('github');
       function Checkmd(testmd, mdtext) { 
