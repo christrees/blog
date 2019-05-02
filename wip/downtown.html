@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    
+    <div id="displayfile">Below is http://blog.christrees.com/wip/downtown.md</div>
+    <hr/>
+    <div id="mdfile"> </div>
+    <!-- https://github.com/evilstreak/markdown-js -->
+    <script src="markdown.js"></script>
+    <!-- https://github.com/showdownjs/showdown -->
+    <!-- https://cdn.rawgit.com/showdownjs/showdown/1.9.0/dist/showdown.min.js -->
+    <script src="showdown.min.js"></script>
+    <script>
+      var mdtext;    
+      var converter = new showdown.Converter();
+      converter.setFlavor('github');
+      function Checkmd(testmd, mdtext) { 
+        //testmd.innerHTML = markdown.toHTML(mdtext, 'Gruber'); 
+        testmd.innerHTML = converter.makeHtml(mdtext, 'Gruber'); 
+      }
+      // https://www.markdownguide.org/cheat-sheet/
+      fetch("http://blog.christrees.com/wip/downtown.md")
+            .then( response => response.text() )
+            .then( text => new Checkmd($("mdfile"), text) );
+    </script>
+  </body>
+</html>
