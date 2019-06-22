@@ -1,5 +1,19 @@
 # Game Development research
 
+## Stuff with Jordan
+- Glitch user - [https://glitch.com/@christrees](https://glitch.com/@christrees)
+  - [https://radial-bars.glitch.me/](https://radial-bars.glitch.me/) - original
+  - [https://radial-bars-0.glitch.me/](https://radial-bars-0.glitch.me/) - svg with click
+    -[radial-bars0 edit](https://glitch.com/edit/#!/radial-bars-0?path=README.md:1:0)
+  - [https://radial-bars-1.glitch.me/](https://radial-bars-1.glitch.me/) - multiple bars
+    -[radial-bars1 edit](https://glitch.com/edit/#!/radial-bars-1?path=README.md:1:0)
+  - [https://radial-bars-2.glitch.me/](https://radial-bars-2.glitch.me/) - Scoreboard and gameStore refactor
+    -[radial-bars2 edit](https://glitch.com/edit/#!/radial-bars-2?path=README.md:1:0)
+- codepen user [https://codepen.io/christrees/](https://codepen.io/christrees/)
+  - runner game [https://codepen.io/christrees/pen/MMeydN](https://codepen.io/christrees/pen/MMeydN)
+  - partical pool [https://codepen.io/christrees/pen/LKZVdZ](https://codepen.io/christrees/pen/LKZVdZ?editors=1000)
+  - radial-bars [https://codepen.io/christrees/pen/OeNMxb](https://codepen.io/christrees/pen/OeNMxb)
+
 ### Whack-a-mole (lots of examples... just google)
 - HTML/js [codepen - whack-a-mole](https://codepen.io/michaelwhyte/pen/jydNeJ)
 - Github react
@@ -18,3 +32,7 @@
 - [Game Dev Pure HTML/JS](https://www.youtube.com/channel/UCdS3ojA8RL8t1r18Gj1cl6w)
 - [Unity](https://unity.com/)
 - [GameMaker](https://www.yoyogames.com/get)
+
+### new user stuff
+- [codepen.io - christrees](https://codepen.io/christrees/)
+- [glitch.com - christrees](https://glitch.com/@christrees)
