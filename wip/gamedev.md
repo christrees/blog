@@ -36,3 +36,6 @@
 ### new user stuff
 - [codepen.io - christrees](https://codepen.io/christrees/)
 - [glitch.com - christrees](https://glitch.com/@christrees)
+- [zeit.co - christrees](https://zeit.co/christrees)
+- [darksky api dev account](https://darksky.net/dev/account)
+
