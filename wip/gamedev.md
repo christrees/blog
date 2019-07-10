@@ -24,6 +24,9 @@
   - [newer and complex](https://github.com/vhlongon/react-whack-a-mole)
 
 ### Research Links
+- [Google Stania](https://store.google.com/product/stadia_founders_edition)
+- [Google Streams - uplay by ubisoft](https://uplay.ubisoft.com/en-US)
+- [NVIdea Shield](https://www.nvidia.com/en-us/shield/)
 - [godotengine.org](https://godotengine.org/) Open Source Game Development - GoDot
   - [godot documentation](http://docs.godotengine.org/en/3.1/#)
   - [Making a 2D game with Godot in less than an hour](https://www.youtube.com/watch?v=xQIaRSXh4ic)
