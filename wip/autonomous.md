@@ -14,4 +14,5 @@
 
 ### AWS DeepRacer
 
+- [Donkey vs Deep](https://medium.com/datadriveninvestor/comparing-the-amazon-deepracer-donkey-car-approach-to-artificial-intelligence-d46f0e155974)
 - [AWS DeepRacer](https://www.amazon.com/AWS-DeepRacer-Fully-autonomous-developers/dp/B07JMHRKQG/ref=as_sl_pc_qf_sp_asin_til)
