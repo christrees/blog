@@ -6,3 +6,5 @@
 - [GPU server for Deep Learning](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)
 - [Practical Deep Learning for Coders](https://course.fast.ai/index.html)
 - [ML Environments in 5 steps](https://medium.com/@bbloks/a-machine-learning-environment-with-ubuntu-and-gpu-acceleration-in-5-steps-765608325356)
+- [How I build an ai to play dion](https://medium.com/acing-ai/how-i-build-an-ai-to-play-dino-run-e37f37bdf153)
+- [Build AI to play dino](https://blog.paperspace.com/dino-run/)
