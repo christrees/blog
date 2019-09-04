@@ -9,3 +9,6 @@
   - [Joe Scott](https://www.noxinfluencer.com/youtube/channel/UC-2YHgc363EdcusLIBbgxzg)
   - [Joe Scott - TMI](https://www.noxinfluencer.com/youtube/channel/UCqi721JsXlf0wq3Z_cNA_Ew)
   - [Linus Tech Tips](https://www.noxinfluencer.com/youtube/channel-calculator/UCXuqSBlHAE6Xw-yeJA0Tunw)
+  
+## YouTube Instructional Video Creation
+- [MyVideo101](https://www.youtube.com/channel/UCXBi4sAc9QXfTkhjT0cUrTg)
