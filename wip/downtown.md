@@ -27,3 +27,7 @@ Everbody running retail in a 'downtown' area needs the same basic services:
 - [bigCommerce](https://www.bigcommerce.com/)
 - [zen cart](https://www.zen-cart.com/)
 - [X-Cart](https://www.x-cart.com/)
+
+### Connections
+- [packmoose](https://www.packmoose.com/team)
+- [redcedarcv](https://redcedarcv.com/)
