@@ -42,3 +42,8 @@
 - [zeit.co - christrees](https://zeit.co/christrees)
 - [darksky api dev account](https://darksky.net/dev/account)
 
+### Rendering grids
+- [Golem](https://golem.network/rendering/)
+- [Crowdrender](https://www.crowd-render.com)
+- [Crowdrender download](https://discovery.crowd-render.com/download#)
+
