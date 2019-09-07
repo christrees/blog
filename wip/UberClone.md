@@ -1,3 +1,15 @@
+# Create Uber Clone using Flutter
+
+## [Santos Enoque](https://www.youtube.com/channel/UCRl79zOEtiLCglAFZJJzEZQ/videos)
+
+### Santos Enoque - Flutter Uber Clone
+1. [Uber clone with Flutter - into](https://www.youtube.com/watch?v=ya1lsXS2Wvw)
+2. [Uber clone with Flutter - firebase setup](https://www.youtube.com/watch?v=zP5TXHQ8PZw)
+3. [Uber clone with Flutter - google maps setup](https://www.youtube.com/watch?v=mYTcA15Do3Q)
+4. [Uber clone with Flutter - map markers](https://www.youtube.com/watch?v=Bpf0hRDsm48)
+5. [Uber clone with Flutter - show routes 1](https://www.youtube.com/watch?v=IAIDZxwnEdI)
+6. [Uber clone with Flutter - show routes 2](https://www.youtube.com/watch?v=uir-x_w-O7U)
+
 # Create Uber Clone using React Native
 
 ## [Hays Stanford YouTube](https://www.youtube.com/channel/UCNNDrNICU4-8oW5DyI5TmNA/videos)
@@ -29,7 +41,7 @@
     3. [tc 5:26](https://youtu.be/sv7_io9PP4k?t=326) remaining components/Driver.js
     4. [tc 5:41](https://youtu.be/sv7_io9PP4k?t=341) Edit App.js to import Driver
     5. [tc 6:50](https://youtu.be/sv7_io9PP4k?t=410) Add driver element tag
-    6. [tc ]()
+    6. [docs Marker](https://github.com/react-native-community/react-native-maps/blob/master/docs/marker.md)
     
 5. [Uber Clone 5 - CAR Simulation](https://www.youtube.com/watch?v=0UfZ1JBloaw&t=324s)
 
@@ -52,3 +64,7 @@
 2. [React Native Firebase 2 - API](https://www.youtube.com/watch?v=bYQplAH5B7Q)
 3. [React Native Firebase 3 - Login Nav](https://www.youtube.com/watch?v=K-ih7oz_O1s)
 4. [React Native Firebase 4 - Cleanup](https://www.youtube.com/watch?v=A6EIM3ema4c)
+
+### React Native D3
+1. [The 5 minutes React Native D3 & SVG Animation](https://www.youtube.com/watch?v=uSucm5jjkRI)
+
