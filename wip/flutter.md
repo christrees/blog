@@ -10,3 +10,4 @@
 
 ## Notes
 - [Add bluetooth](https://medium.com/flutter-community/flutter-adding-bluetooth-functionality-1b9715ccc698)
+- [Flutter meets IoT](https://www.youtube.com/watch?v=X-4LJSqCPzM)
