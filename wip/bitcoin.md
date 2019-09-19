@@ -26,6 +26,19 @@
 2. [Get Started - Bitcoin.com - https://www.bitcoin.com/get-started/](https://www.bitcoin.com/get-started/)
 3. [Bitcoin.com Wallet Install](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet&pli=1)
 
+## Markets
+
+1. [https://www.coinbase.com/price](https://www.coinbase.com/price)
+2. [https://www.binance.com/en/markets](https://www.binance.com/en/markets)
+3. []()
+
+## 
+
+1. 17M BTH (5-7M lost) 
+2. 5M market cap -> 10B market cap (500 -> 5000000 3months)
+3. 10B cripto... increase in hash complexity
+4. Chainlink ? LINK
+
 
 ### Support things
 
