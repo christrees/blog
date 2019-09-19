@@ -38,7 +38,9 @@
 2. 5M market cap -> 10B market cap (500 -> 5000000 3months)
 3. 10B cripto... increase in hash complexity
 4. Chainlink ? LINK
-
+5. [Teeka Tiwari - 5 coins $5M](https://www.youtube.com/watch?v=ZRzleCRpdUY)
+6. [TT Webinar for service 2.5K](https://webinar.palmbeachgroup.com/#/client/5coins)
+7. [London Real - TT promo](https://londonreal.tv/e/teeka-tiwari-2/)
 
 ### Support things
 
