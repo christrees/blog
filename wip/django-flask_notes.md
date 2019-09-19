@@ -30,3 +30,10 @@
 ## IoT stuff
 
 - [twillo pricing](https://www.twilio.com/wireless/pricing)
+
+### notes
+- [The Flask Mega-Tutorial Part 1](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Rest vs grapql](https://medium.com/codingthesmartway-com-blog/rest-vs-graphql-418eac2e3083)
+- [Graphql python](https://medium.com/@fasterpancakes/graphql-server-up-and-running-with-50-lines-of-python-85e8ada9f637)
+- [sqlalchemy.org](https://www.sqlalchemy.org)
+
