@@ -44,7 +44,7 @@
 2. [https://coin360.com/](https://coin360.com/)
 3. [Bitcoin Trading Challenge](https://www.youtube.com/channel/UC-dLWl8etTtPSGdbbcYffGw)
 4. [Bookmap - market liquidity platform](https://www.youtube.com/channel/UC3HKlZ_7gxRgef9SCxu54Lw/videos)
-5. []()
+5. [Top 10 Coins to watch](https://www.youtube.com/watch?v=00jzAId-yIw)
 
 
 ## Notes
