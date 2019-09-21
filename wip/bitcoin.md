@@ -8,6 +8,12 @@
 
 - [Mining Store](https://miningstore.com/about/) - Jim O'Regan thing
 - [Planning Your Bitcoin Mining](https://blockoperations.com/planning-your-bitcoin-mining-operation/#infrastructure)
+- [ASIC Miner Value](https://www.asicminervalue.com/)
+- [https://hut8mining.com/operations](https://hut8mining.com/operations)
+- [https://cryptomining.tools/](https://cryptomining.tools/)
+- [https://v3.antpool.com/home](https://v3.antpool.com/home)
+- [https://account.bitmain.com/](https://account.bitmain.com/)
+- [Red Panda Mining](https://www.youtube.com/channel/UCAGsnTCpw7pvhR4RAlEQGzg)
 
 ### Equipment notes
 
@@ -30,9 +36,18 @@
 
 1. [https://www.coinbase.com/price](https://www.coinbase.com/price)
 2. [https://www.binance.com/en/markets](https://www.binance.com/en/markets)
-3. []()
+3. [https://cointelegraph.com/](https://cointelegraph.com/)
 
-## 
+## Trading
+
+1. [Coinbase](https://www.coinbase.com/signin)
+2. [https://coin360.com/](https://coin360.com/)
+3. [Bitcoin Trading Challenge](https://www.youtube.com/channel/UC-dLWl8etTtPSGdbbcYffGw)
+4. [Bookmap - market liquidity platform](https://www.youtube.com/channel/UC3HKlZ_7gxRgef9SCxu54Lw/videos)
+5. []()
+
+
+## Notes
 
 1. 17M BTH (5-7M lost) 
 2. 5M market cap -> 10B market cap (500 -> 5000000 3months)
