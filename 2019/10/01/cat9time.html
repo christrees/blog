@@ -8,7 +8,35 @@
 <body>
 <h1>2019.10.01</h1>
   <a href="http://christrees.com">Back to christrees.com</a>
-<hr/>
+<hr/><hr/>
+<ol>Inventory Test
+    <li>T2TSH+ - SN: xxx399 ? <!-- SN: NA41T08A199031399 -->
+    <ol>Notes - 
+      <li>After powerup, was able to access the device</li>
+      <li>http://192.168.1.136 - Configured</li>
+      <li>Factory setting</li>
+      <li>Drawing 12.1A at 240VAC with 13.01VDC</li>
+      <li>TSTSH+  reports 24.19TH/s</li>
+      <li>ANTPool reports 22.26TH/s</li>
+      <li>Preformance setting</li>
+      <li>Drawing 13.3A at 240VAC with 13.21VDC</li>
+      <li>TSTSH+  reports 34.94TH/s</li>
+      <li>ANTPool reports 31.58TH/s</li>                
+    </ol>
+  </li>
+  <li>S9 - SN: xxx329 <!-- SN: YDFT14PAHJBJC1329 -->
+    <ol>Notes - 
+      <li>Nick on ASIC logic wire</li>
+      <li>Fan ingested hearing plug (froze fan would not boot) replaced fan with other unit</li>
+      <li>Booted but did not DHCP</li>
+      <li>Reset Proceedure</li>
+      <li>After reset, was able to access the device</li>
+      <li>http://192.168.1.96 - Configured</li>
+      <li>Drawing 6.03A at 240VAC 13.8TH/s reported by miner</li>
+      <li>ANTPool reports 13.4TH/s</li>
+    </ol>
+  </li>
+</ol>
   <ol>Timeline (max 40hr)
     <!--
     <li>2019.10.04 - Day 4 (xhr)
@@ -87,10 +115,49 @@
       </ul> 
     </li>
     -->
-    <li>2019.10.01 - Day 1 (10hr) Begin Project
+    <li>2019.10.01 - Day 1 (12hr) Begin Project
       <ul>Day Total: xhr
-        <li>4pm - 7pm (3hr) Setup S3 testbench (no power cords for T2TSH+ so move to P2)
-          <ul>
+        <li>7pm - 10pm (3hr) Perf Monitor
+          <ol>Inventory Test
+            <li>T2TSH+ - SN: xxx399 ? <!-- SN: NA41T08A199031399 -->
+              <ol>Notes - 
+                <li>After powerup, was able to access the device</li>
+                <li>http://192.168.1.136 - Configured</li>
+                <li>Factory setting</li>
+                <li>Drawing 12.1A at 240VAC with 13.01VDC</li>
+                <li>TSTSH+  reports 24.19TH/s</li>
+                <li>ANTPool reports 22.26TH/s</li>
+                <li>Preformance setting</li>
+                <li>Drawing 13.3A at 240VAC with 13.21VDC</li>
+                <li>TSTSH+  reports 34.94TH/s</li>
+                <li>ANTPool reports 31.58TH/s</li>                
+              </ol>
+            </li>
+          </ol>
+          <ol>Notes
+            <li>S3 fixed and joined antpool for feedback</li>
+            <li>T2TSH+ Jim dropped cord by and was able to fire-up</li>
+          </ol>
+        </li>
+        <li>4pm - 6pm (2hr) Setup testbench (no power cords for T2TSH+ so move to P2)
+          <ol>Inventory Test
+            <li>S9 - SN: xxx329 <!-- SN: YDFT14PAHJBJC1329 -->
+              <ol>Notes - 
+                <li>Nick on ASIC logic wire</li>
+                <li>Fan ingested hearing plug (froze fan would not boot) replaced fan with other unit</li>
+                <li>Booted but did not DHCP</li>
+                <li>Reset Proceedure</li>
+                <li>After reset, was able to access the device</li>
+                <li>http://192.168.1.96 - Configured</li>
+                <li>Drawing 6.03A at 240VAC 13.8TH/s reported by miner</li>
+                <li>ANTPool reports 13.4TH/s</li>
+              </ol>
+            </li>
+          </ol>
+          <ul>Other
+            <li>Sorting out power for T2TSH+ no UL listing on Unit (Jim Matt) <a href="https://www.techsupportpk.com/2017/10/power-cord-plug-connector.html">C19-C20 Connection Spec</a></li>
+            <li>Finding maintaince and restore proceedures</li>
+            <li>fs.com has a C14 to C19... so if you go with the C20 on the PDU that would be best</li>
           </ul>
         </li>
         <li>11am - 3pm (4hr) Meet with Jim, pick up devices to test
