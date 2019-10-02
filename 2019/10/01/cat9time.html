@@ -91,24 +91,58 @@
     </li>
     -->
 
-    <li>2019.10.02 - Day 2 (xhr) 
-       <ul>Day Total: xhr
+    <li>2019.10.02 - Day 2 (26/40hr) 
+       <ul>Day Total: 14hr
 <!--
-        <li>7pm - 10pm (5hr) Session
+        <li>8pm - 10pm (2hr) Session
           <ol>Notes - 
-            <li>note</li>
-            <li>note</li>
-            <li>note</li>
+            <li>Clean up docs</li>
+            <li>Kill power for the night</li>
+            <li>Assemble parts and Electrical for more detailed perf test in better power/monitor location</li>
+            <li>Send Jim email</li>
           </ol>        
         </li>
-        <li>1pm - 6pm (5hr) Session
+-->
+        <li>1pm - 7pm (6hr) Session
           <ol>Notes - 
+            <li>Recorded more Perf numbers... first hr was a LOT of bouncing</li>
+            <li>Started to look into alternate F/W <a href="https://feeds.braiins-os.org/">braiins-os downloads</a></li>
+            <li>Looked at <a href="https://docs.braiins-os.org/#option-b-install-using-ssh">Braiins Documents</a></li>
+            <li>Looked at <a href="https://github.com/braiins/braiins/tree/bos-devel/open">Braiins Github</a></li>
+            <li>Block hashing Algo <a href="https://en.bitcoin.it/wiki/Block_hashing_algorithm">Bitcoin Hash</a></li>
+            <li>Block format <a href="https://en.bitcoin.it/wiki/Block">Block Format</a></li>
+            <li>Looked at ASIC docs <a href="https://www.innosilicon.com/html/mining-asic/17.html">ASIC info</a></li>
+            <li>Pulling up <a href="https://www.innosilicon.com/html/support_en/tool.html">Innosilicon tools</a></li>
+            <li>Xilinx <a href="https://www.xilinx.com/video/corporate/bitmain-technologies-bitcoin-mining.html">promo of Bitmain</a> using Xilinx</li>
+            <li>Rigged up AC adaptor to run out of 240V 30A outlet</li>
+            <li>https://www.ebay.com/c/1000236488</li>
+            <li>https://www.fs.com/products/69363.html</li>
+            <li>Fired up DragonMint 1 - admin - dragonadmin - got UI seems OK... power down</li>
+            <li>Fired up DragonMint 2 - admin - dragonadmin - got UI seems OK... power down</li>
+            <li>S9 n3 192.168.1.100 WAS: stratum+tcp://us-east.stratum.slushpool.com:3333 MS018.37x214 - had bad fans</li>
+            <li>S9 n4 VERY rusty... bad fan... megga dust inside</li>
+            <li>S9 n3 - removed rear fan, used n2 (rat damage) rear fan</li>
+            <li>S9 n3 - up 189 ASIC... 12TH/s ... </li>
+            <li>S9 n2 - reassembled... took cable and fan off on n4 would not DHCP... reset... got in...</li>
             <li>note</li>
             <li>note</li>
             <li>note</li>
+            <li>note</li>
+<!--
+https://www.eastshore.xyz/tutorial-innosilicon-t2-turbo-bitcoin-miner/
+https://github.com/eastshoremining/Innosilicon/tree/master/T2T-30T
+https://www.eastshore.xyz/tour/
+https://www.eastshore.xyz/tutorial-general-mining-guide-troubleshoot-for-antminer-models/
+https://www.eastshore.xyz/troubleshooting-for-antminer-hashing-board/
+https://www.eastshore.xyz/miner-virus-prevention-and-solutions/
+https://www.eastshore.xyz/operation-and-maintenance-manual-of-cryptocurrency-mining-farms/
+https://www.eastshore.xyz/tutorial-general-mining-guide-troubleshoot-for-antminer-models/
+https://www.google.com/search?q=data+center+power+plug+types&rlz=1C5CHFA_enUS777US777&sxsrf=ACYBGNSRY3lXwz-p37W-iTnqywi0CQtfjg:1569968777413&tbm=isch&source=iu&ictx=1&fir=2eTtsaaxRvPVFM%253A%252Cx24g-Rm7VrCpnM%252C_&vet=1&usg=AI4_-kRXrKlunGdm-kbytnOSXIAtgST0Xw&sa=X&ved=2ahUKEwjxzKS6jfzkAhUMlawKHUr0AjcQ9QEwA3oECAcQCQ#imgrc=aJoFW6zXNGH0dM:&vet=1
+https://www.ebay.com/c/1000236488
+-->
+
           </ol>
         </li>
--->
         <li>6am - noon (6hr) Session
           <ol>Notes - 
             <li>disassembled 'Rat' unit to look at chips</li>
@@ -117,18 +151,22 @@
             <li>Research S9 controller H/W compile tools</li>
             <li>STARTED T2TSH+ settings are retained (fash) it seems to take over an hour to 'settle in'</li>
             <li>Controller HASH rate and Pool Hash Rate reports vary ALOT</li>
-            <li>note</li>
-            <li>note</li>
-            <li>note</li>
-            <li>note</li>
-            <li>note</li>
+            <li>Realistically... each of the T2TSH+ should be run for 4 hrs on each setting to get a reasonable baseline</li>
+            <li>SSH port is THERE but UI user/pass does not work</li>
+            <li>Attempted to set an admin pw via UI (successful) but user/pw still is blocked</li>
+            <li>Some IP tools and docs from innosilicon.com <a href="https://www.innosilicon.com/html/support_en/tool.html">Tools and Documents Link</a></li>
+            <li><a href="https://www.avnet.com/shop/us/products/xilinx/ek-z7-zc706-g-3074457345625850601/">Xilinx Dev Kit</a></li>
+            <li><a href="https://www.xilinx.com/products/boards-and-kits/device-family/nav-zynq-7000.html">Xilinx Dev Kit at Xilinx</a></li>
+            <li>Call with Jim... status update... tried root-admin on ssh for T2 failed</li>
+            <li>Switched T2 to Performance setting in FW</li>
+            <li>Recorded end and beginning perf numbers...</li>
          </ol>
          </li>
       </ul> 
     </li>
 
-    <li>2019.10.01 - Day 1 (12hr) Begin Project
-      <ul>Day Total: xhr
+    <li>2019.10.01 - Day 1 (12/40hr) Begin Project
+      <ul>Day Total: 12hr
         <li>7pm - 10pm (3hr) Perf Monitor
           <ol>Inventory Test
             <li>T2TSH+ - SN: xxx399 ? <!-- SN: NA41T08A199031399 -->
@@ -178,7 +216,8 @@
             <li>T2TSH+ Validate F/W, H/W and hashrate, inspect F/W version</li>
             <li>T2TSH+ Research Overclocking and document proceedure</li>
             <li>T2TSH+ Research Firmware updates and document proceedure</li>
-            <li>S9 Inspect and repair</li>
+            <li>S9 n1 RAT Damage... took apart to slavage fans for other units</li>
+            <li>S9 n2 Inspect and repair had bad fan removed replace with n1 fan</li>
             <li>S9 Validate F/W, H/W and hashrate, inspect F/W version</li>
             <li>S9 Research Overclocking and document proceedure</li>
             <li>S9 Research Firmware updates and document proceedure</li> 
