@@ -9,17 +9,37 @@
 <h1>2019.10.01</h1>
   <a href="http://christrees.com">Back to christrees.com</a>
 <hr/><hr/>
-  <ol>
-    <li>T2TH+ new ps is better</li>
-    <li>T2TH+ Watts observed</li>
-    <li>T2TH+ ROM update avalible</li>
-    <li>T2TH+ performance summary</li>
-    <li>S9 Fixing</li>
-    <li>S9 Watts observed</li>
-    <li>S9 ROM options</li>
-    <li>DC IPAM suggestions</li>
-    <li>DC VLAN suggestions</li>
-    <li>DC Monitoring suggestions</li>
+  <ol>T2TH+
+    <li>T2TH+ new ps is significant improvement for DC power distribution</li>
+    <li>T2TH+ IEC320 C20 to IEC320 C19 12AWG 250V/20A cord <a href="https://www.fs.com/products/36027.html">FS Cord Link</a></li>
+    <li>T2TH+ does not have a UL or WATTS rating</li>
+    <li>T2TH+ max observed 14Amps at 240V = 3360W in Performance Plus setting</li>
+    <li>T2TH+ ROM update is avalible through the UI</li>
+    <li>T2TH+ has no ssh access port seems to be there but no auth</li>
+    <li>T2TH+ performance summary
+      <ul>
+        <li>37.18 TH/s Performance Plus (14A max observed)</li>
+        <li>36.72 TH/s Performance</li>
+        <li>34.36 TH/s Factory</li>
+        <li>32.02 TH/s Balanced</li>
+        <li>29.91 TH/s Efficiency</li>
+      </ul>
+    </li>
+  </ol>
+  <ol>S9
+    <li>S9 One was disassembled to clean and salvage parts for another</li>
+    <li>S9 Verified that controler board contained XC7Z010 Xilinx ZYNQ chip <a href='https://www.xilinx.com/support/documentation/data_sheets/ds190-Zynq-7000-Overview.pdf'>Spec</a></li>
+    <li>S9 Verified ssh access which will allow scripted control</li>
+    <li>S9 We should be able to modify the Xilinx control firmware</li>
+  </ol>
+  <ol>DragonMint
+    <li>Was able to power up and access</li>
+    <li>Requires Slushpool to run... I have not setup a slushpool account</li>
+  </ol>
+  <ol>General Datacenter Suggestions
+    <li>DC IPAM suggestions: I would use an opensource IPAM via DHCP to manage the units</li>
+    <li>DC VLAN suggestions: I would separate clients via VLAN or physical network for security and managment</li>
+    <li>DC Monitoring suggestions: I would monitor network activity logs, temp, hashrate, and current draw to each unit if practical</li>
   </ol>
 <hr/><hr/>
 <ol>Inventory Test
