@@ -7,3 +7,9 @@
 - [Binance](https://www.binance.com/en)
 - [Coinbase](https://www.coinbase.com/)
 - [Coin360](https://coin360.com/)
+
+## Commodity
+- [tbd]()
+- [tbd]()
+- [Hedging for Risk Mitigation](https://www.agriculture.com/news/business/why-farmers-should-have-a-hedging-strategy)
+- [USDA Hedging Futures for Farmers](https://www.ers.usda.gov/webdocs/publications/40946/51066_aer774h.pdf?v=0)
