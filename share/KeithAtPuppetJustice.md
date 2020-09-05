@@ -1,0 +1,7 @@
+# Keith visits Puppet Justice
+
+![Keith and Chris on PJ](KeithAtPuppetJustice_WP_20200905_11_58_23_Pro.jpg)
+
+Keith and Chris on the Puppet Justice Set.
+
+- [Kyle Edgar and Shayne Trifecta Link](http://blog.christrees.com/share/KyleEdgarShayne-Trifecta.html)
