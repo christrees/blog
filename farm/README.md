@@ -15,7 +15,9 @@
 
 ## Market Data
 - [Corn Prices 59 Year Historical Chart](https://www.macrotrends.net/2532/corn-prices-historical-chart-data)
+- [Corn Futures Contract Profile](https://www.barchart.com/futures/quotes/ZC*0/profile)
 - [Soybean Prices 45 Year Historical Chart](https://www.macrotrends.net/2531/soybean-prices-historical-chart-data)
+- [Soybean Futures Contract Profile](https://www.barchart.com/futures/quotes/ZS*0/profile)
 - TDAmeritrade /ZC - Corn with Options  /ZS - Soybean with Options
 - [Soybean Futures Dec 2020](https://www.tradingview.com/symbols/CBOT-ZSH2020/)
 - [Soybean Futures MAR 2021](https://www.tradingview.com/symbols/CBOT-ZSH2021/)
