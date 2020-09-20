@@ -10,8 +10,8 @@
 ## Market Trading
 - [Grain Hedgers Guide](https://www.cmegroup.com/trading/agricultural/files/grain-oilseed-hedgers-guide.pdf)
 - [Contango Backwardation](https://www.investopedia.com/articles/07/contango_backwardation.asp)
-- []()
-- []()
+- [Use contango and storge for profit](https://www.investopedia.com/ask/answers/041315/how-can-traders-use-contango-take-advantage-storage-shortage-crude-oil.asp)
+- [Hedging vs Speculation](https://www.investopedia.com/ask/answers/difference-between-hedging-and-speculation/)
 
 ## Market Data
 - [Corn Prices 59 Year Historical Chart](https://www.macrotrends.net/2532/corn-prices-historical-chart-data)
