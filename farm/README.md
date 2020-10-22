@@ -9,6 +9,7 @@
 - [Yougblut Ag](https://www.youngblutag.com/)
 
 ## Market Trading
+- [Soybean2Corn Price Ratios Projected](https://farmdocdaily.illinois.edu/2017/03/relationships-of-soybean-to-corn-price-ratios.html)
 - [Grain Hedgers Guide](https://www.cmegroup.com/trading/agricultural/files/grain-oilseed-hedgers-guide.pdf)
 - [Contango Backwardation](https://www.investopedia.com/articles/07/contango_backwardation.asp)
 - [Use contango and storge for profit](https://www.investopedia.com/ask/answers/041315/how-can-traders-use-contango-take-advantage-storage-shortage-crude-oil.asp)
