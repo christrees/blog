@@ -1,5 +1,8 @@
 # Fixing stuff
 
+## Reference
+- [HP Envy 6 Ultrabook](./HPEnvy6Ultrabook/)
+- [Dell Inspiron 15 Brians Laptop](./DellInspron15Laptop/)
 
 ## [HP Envy 6 Ultrabook](https://www.youtube.com/watch?v=H0j-Lj0nTrc)
   - 2 srews on LCD bezel [TC 0:44](https://youtu.be/H0j-Lj0nTrc?t=44)
