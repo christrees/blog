@@ -1,4 +1,63 @@
 # blog.christrees.com
+[Back to christrees.com](http://christrees.com)
 
 Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
+
+  <hr/><hr/>
+  <!--
+  <h1>... Sometimes it's what NOT todo ...</h1>
+  <img src="Burnout-Attitudes.png" alt="burnout" height="10%" width="10%"/>
+  <hr/>
+  -->
+  
+## Chris Trees 
+  - [Github - christrees](https://github.com/christrees) Github for a geek.
+  - [Linkedin - christrees](https://linkedin.com/in/christrees) Linkedin Profile for those types.
+  - [Resume PDF - christrees](https://christrees.com/docs/resume_christrees.pdf) Chris Trees - Resume PDF for HR.
+
+  <hr/><hr/>
+  
+## 2020.09.29 - 2020.11.?? 
+Farm'n with the Trees side [T3Farms](./farm/T3Farms/).  Cousin [Mike with grandkids](./share/MikeTrees/) Wyate and Drake.
+
+## 2020.08.15 - Derecho info:  
+Storm passed north of Winfield, and South of Cedar Falls.  No known farm damage for Mom.  Lots of damage and power out between Cedar Falls and Winfield.  
+  <ol> Derecho 2020
+    <li><a target="_blank" href="https://www.npr.org/2020/08/16/902868884/the-devastation-is-widespread-iowans-continue-to-struggle-in-aftermath-of-storm">NPR - Derecho aftermath</a></li>
+    <li><a target="_blank" href="https://www.npr.org/2020/08/13/902106373/after-devastating-derecho-midwest-takes-stock-of-the-damage">NPR - After Devastating Derecho, Midwest Takes Stock Of The Damage</a></li>
+    <li><a target="_blank" href="https://www.thegazette.com/subject/news/iowa-storm-derecho-recovery-cedar-rapids-federal-disaster-aid-national-guard-20200814">The Gazette - Gov. Reynolds</a></li>
+    <li><a target="_blank" href="https://www.thegazette.com/derecho-storm-recovery-cleanup-20200815">The Gazette - Saturday Cleanup Cedar Rapids</a></li>
+  </ol>
+  <ol> Youtube clips
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=FYbP_bZvUcg">Live Iowa Derecho Coverage 8/10/20 - KGAN CBS2 Iowa's News Now</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=pBkPichBlt8">Cedar Rapids Derecho Live Camera Aug 10, 2020</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=gPdUslndvVI">Cole The Cornstar - Our Farm Got Destroyed</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=Lw-MkxqYX5k">Cole The Cornstar - Assessing MAJOR Storm Damage</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=e7M4VG7JpRQ">Cole The Cornstar - Our Worst Crop Ever</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=q7w2TPgOAi0">How Farms Work - Flat Corn Derecho Farm Damage</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=n-Z83cn9sck">Car by cornfield</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=xQNvTqB0NYg">Newton</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=2mtpj6lZR9M">Des Moines</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=8fYQOnGt9EI">Dewitt</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=Bfy4nmpf5Jg">Cedar Rapids</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=V4YY9YMaQOU">Clinton</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=qZKxxlFGIDc">Madrid</a></li>
+  </ol>
+  
+  <hr/><hr/>
+  
+## 2019.10.09 Dad
+  For info about Dad, [Click here](http://blog.christrees.com/dad/)
+
+  <hr/><hr/>
+ 
+### Scratch space
+  <ul>
+    <li>Storm on Rownd St <a href="https://photos.app.goo.gl/vFe2VnTEjaBLV5o69">Pictures</a></li>
+    <li>Comet Neowise first magnitude from now through July 11; second magnitude from July 12 through July 17 and third magnitude from July 18 through July 22<a href="https://www.space.com/comet-neowise-visibility-july-2020.html">See Link</a></li>
+    <li>July 11 - 10 degrees above the northeast horizon, 80 minutes before sunrise</li>
+    <li>July 14 its altitude will have already doubled to 10 degrees, and by July 19 it will have doubled yet again to 20 degrees up by the end of nautical twilight.</li>
+    <li>On Tuesday morning, July 14, 2020, the planet Jupiter will appear opposite the Sun as seen from the Earth. The best time to look for the planet is between midnight and 2 a.m. (local time) when it is at its highest point in the sky.</li>
+    <li>July 10 - Saturn, while not as bright, will be easy to spot as it will be next to Jupiter throughout the entire night. The ringed planet will be reaching opposition about one week after Jupiter on Monday, July 20.</li>
+  </ul>
 
