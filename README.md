@@ -4,6 +4,7 @@
 Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
 
   <hr/><hr/>
+  
   <!--
   <h1>... Sometimes it's what NOT todo ...</h1>
   <img src="Burnout-Attitudes.png" alt="burnout" height="10%" width="10%"/>
