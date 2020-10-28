@@ -5,12 +5,6 @@ Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
 
   <hr/><hr/>
   
-  <!--
-  <h1>... Sometimes it's what NOT todo ...</h1>
-  <img src="Burnout-Attitudes.png" alt="burnout" height="10%" width="10%"/>
-  <hr/>
-  -->
-  
 ## Chris Trees 
   - [Github - christrees](https://github.com/christrees) Github for a geek.
   - [Linkedin - christrees](https://linkedin.com/in/christrees) Linkedin Profile for those types.
