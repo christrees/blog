@@ -1,5 +1,7 @@
 # Streaming Studio Setup
-
+## Quickstart [Video Stream Studio Setup](https://youtu.be/XpUJWuSWywg)
+1. Start OBS
+2. Verify
 ## Install (catmini)
 1. Install [OBS](https://obsproject.com/) on catmini catalina
 2. Install [iShowU Audio](https://support.shinywhitebox.com/hc/en-us/articles/360030800592)
