@@ -46,7 +46,15 @@
 10. Setup Scenes
   - Streaming (Screen, WebCam, Mic, Streaming)
   - Talking Head (WebCam, Mic)
-  
+
+## Remote
+When streaming it's better to setup a remote workstation and remote in and show that screen in OBS.  Google remote desktop has been the most reliable, but if you can get microsoft remote desktop to connect it has better screen and device managemenet.
+
+- [https://remotedesktop.google.com/](https://remotedesktop.google.com/)
+- [Microsoft Remote Desktop - Microsoft Store](https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab)
+- [Microsoft Remote Desktop - Apple Store](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
+- Remote Workstations using [https://my.zerotier.com/](https://my.zerotier.com/)
+
 ### Reference
 - [OBS](https://obsproject.com/)
 - [iShowU Audio Capture](https://support.shinywhitebox.com/hc/en-us/articles/360030800592)
