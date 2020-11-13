@@ -1,5 +1,14 @@
 # Video Chat using WebRTC
 
+## Debuging
+- When I connect with another computer I get in console:
+```
+script.js:10 Uncaught TypeError: Cannot read property 'getUserMedia' of undefined
+    at script.js:10
+```
+- This Issue on github seems important [Github peerjs Issue 693](https://github.com/peers/peerjs/issues/693)
+- Found this [https://github.com/RishitPandey/zoom-app-clone](https://github.com/RishitPandey/zoom-app-clone)
+
 Based on [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
   - [GitHub Code: https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC](https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC)
   - [PERR JS - https://peerjs.com/](https://peerjs.com/)
