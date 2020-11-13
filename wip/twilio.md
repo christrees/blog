@@ -1,4 +1,6 @@
-#Twilio
+# Twilio
+- [twilio console](https://www.twilio.com/console)
+- [twilio video sessions](https://www.twilio.com/console/video/logs/rooms)
 
 ## References
 - [twilio video react app](https://github.com/twilio/twilio-video-app-react)
