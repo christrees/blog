@@ -1,0 +1,15 @@
+
+- [RPi Surveillance Camera - old](https://www.instructables.com/Raspberry-Pi-as-low-cost-HD-surveillance-camera/)
+- [Motion - old](http://www.lavrsen.dk/foswiki/bin/view/Motion) [Motion - github new](https://motion-project.github.io/)
+- [Balena Cloud](https://www.balena.io/blog/make-yourself-a-security-camera-system-in-30-minutes-or-less/) using [Kerberos.io](https://kerberos.io/)
+- [Kerberos.io](https://kerberos.io/) with [kerberos demo](https://demo.kerberos.io/)
+- [ZoneMinder](https://zoneminder.com/features/)
+- [Linus Tech Tips - DIY Security Camera](https://www.youtube.com/watch?v=H7p5YEOrlSc)
+- [DIY Home Surveillance PC Build](https://www.youtube.com/watch?v=PLOcfW3yDG0)
+- [RPi Home Surveillance with MotionEyeOS](https://www.youtube.com/watch?v=O5ifTks4w4U)
+- [Crosstalk - RPi Surveillance Monitor V2](https://www.youtube.com/watch?v=0tvX_gsv2ZU)
+- [Contaware Download](https://www.contaware.com/download.html)
+- [RPi MotionEyeOS Netowrk Camera](https://www.youtube.com/watch?v=8YUM7jio6dk)
+- [Amazon Rpi 5M 1080P Senso OV5647 $8.39](https://www.amazon.com/Raspberry-Camera-Module-Megapixels-Sensor/dp/B07L82XBNM/ref=asc_df_B07L82XBNM/?tag=hyprod-20&linkCode=df0&hvadid=343234125040&hvpos=&hvnetw=g&hvrand=13488208645384760965&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9018109&hvtargid=pla-717544328579&psc=1&tag=&ref=&adgrpid=68968886317&hvpone=&hvptwo=&hvadid=343234125040&hvpos=&hvnetw=g&hvrand=13488208645384760965&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9018109&hvtargid=pla-717544328579)
+- [4 HQ on one RPi](https://www.youtube.com/watch?v=I_6uKSLOpNw) module from [Arducam Mulit Module V2.2](https://www.arducam.com/product/multi-camera-v2-1-adapter-raspberry-pi/?utm_source=youtubevid&utm_medium=viddescription) cost [$49.99](https://www.uctronics.com/arducam-multi-camera-adapter-module-v2-2-for-raspberry-pi-4-3b-3b-5mp-and-8mp-cameras-compatible-with-arducam-mipi-cameras.html)
+
