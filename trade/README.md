@@ -17,7 +17,7 @@
 - [Coinbase](https://www.coinbase.com/)
 - [Coin360](https://coin360.com/)
 
-
+- [Hidden Alpha - Offer](https://secure.altimetry.com/?cid=MKT481069&eid=MKT487820&step=start&assetId=AST155316&page=3) used yahoo
 
 ## Commodity
 - [tbd]()
