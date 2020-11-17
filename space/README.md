@@ -2,7 +2,7 @@
 
 - Watch [chris watches crewdragon 1 approach and dock](https://youtu.be/5XWF8bvF8Aw)
 - Watch [chris watches ISS crew prep access hatches](https://youtu.be/69FebfNMju0)
-- Watch [chris watches crewdragon 1 enter ISS]()
+- Watch [chris watches crewdragon 1 enter ISS](https://youtu.be/CozfE08jrZ4)
 
 ## Crew Dragon 1 Docked
 ![SpaceXCrewDragon1-Docked-2020-11-16at10.53.09PM](./SpaceXCrewDragon1-Docked-2020-11-16at10.53.09PM.png)
