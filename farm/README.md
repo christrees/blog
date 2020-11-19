@@ -12,6 +12,20 @@
 - [Tile Dranage Finance - ISU](https://www.extension.iastate.edu/agdm/wholefarm/html/c2-90.html)
 - [Farm Storage Facility Loan Program](https://www.fsa.usda.gov/programs-and-services/price-support/facility-loans/farm-storage/)
 
+### Andy Questions
+- Buyout folks through LLC
+- IRA Distribution for Mom (2020)
+- Go back in taxes to recover SE tax that Dad did ?
+- Remote Accounting datacenter (with Apps)
+- FSA Grain Storage Loans
+- Tile Loans
+- Winfield Retirement Community build-out golf-course buy-out 'retirement farm zero energy green houses'
+- Farm Seed and Equipment Sales (localized)
+- Vet Accounting App
+- Farm Accounting App
+- Commodity Trade App
+- Stuff at ISU (Brian on Business Board for EE, Grasshorse doing enrollement video, ISU extension stuff)
+
 ## Market Trading
 - [Soybean2Corn Price Ratios Projected](https://farmdocdaily.illinois.edu/2017/03/relationships-of-soybean-to-corn-price-ratios.html)
 - [Grain Hedgers Guide](https://www.cmegroup.com/trading/agricultural/files/grain-oilseed-hedgers-guide.pdf)
