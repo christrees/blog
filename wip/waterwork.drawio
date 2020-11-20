@@ -1,14 +1,164 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T23:25:06.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Aesh8YGUjAgp84pMQGuL" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T22:28:11.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6bgi9i9i7GVpRYoSM1kG" version="13.10.0" type="github">
   <diagram id="MlxEJMGc6Qe_grwrSPus" name="Page-1">
     <mxGraphModel dx="1039" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="71ctzH5ucimZ-1lSlwq9-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="520" y="100" width="80" height="80" as="geometry" />
+        <mxCell id="71ctzH5ucimZ-1lSlwq9-1" value="3/4 T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="800" y="320" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="71ctzH5ucimZ-1lSlwq9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="71ctzH5ucimZ-1lSlwq9-2" value="3/4&lt;br&gt;CU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="10" width="40" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-9" value="Pex/CI" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="785" y="570" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-10" value="3/4 Pex to Filters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-11" value="3/4 T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-12" value="1/2 Pex to Hydrant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-13" value="Pex/CI" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="430" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-14" value="1/2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="430" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-15" value="1/2 Pex to Hydrant" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="750" y="660" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-16" value="1/2" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="800" y="540" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="460" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-18" value="3/4&lt;br&gt;1/2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-6" value="Pex/CI" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-3" value="3/4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-20" value="3/4 Pex Filter in" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-21" value="3/4 Pex&lt;br&gt;1 FIP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-22" value="3/4 Pex Filter out" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="493.75" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-23" value="3/4 Pex&lt;br&gt;1 FIP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-24" value="Filter" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="455" y="320" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-25" value="3/4 pipe&lt;br&gt;Pex" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-26" value="3/4 pipe&lt;br&gt;Pex" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="320" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-19" value="3/4 90" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-29" value="1/2 Pex cold tub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-30" value="1/2 Pex cold sink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="65" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-31" value="1/2 Pex cold toilet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-32" value="1/2 Pex cold sink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="115" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-33" value="1/2 Pex cold toilet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-34" value="1/2 Pex cold wash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="165" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-28" value="Pex&lt;br&gt;Cold&lt;br&gt;Water&lt;br&gt;Dist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-36" value="3/4 T" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-37" value="3/4&lt;br&gt;CU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-39" value="3/4 pipe&lt;br&gt;Pex" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="305" y="410" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-41" value="3/4&lt;br&gt;CU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-42" value="3/4 Pex to Hot Water Heater" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-43" value="Pex/CI" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-38" value="3/4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-44" value="1/2 Pex hot tub" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="123.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-45" value="1/2 Pex hot sink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="415" width="123.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-46" value="1/2 Pex hot sink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="123.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-47" value="1/2 Pex hot kitchen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="465" width="123.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-48" value="1/2 Pex&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="123.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-49" value="1/2 Pex hot wash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="515" width="123.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-50" value="Pex&lt;br&gt;Hot&lt;br&gt;Water&lt;br&gt;Dist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153.75" y="390" width="56.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-51" value="3/4&lt;br&gt;CU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-52" value="Hot Water Heater" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="98.75" y="790" width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-53" value="3/4&lt;br&gt;Pipe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268.75" y="760" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-54" value="3/4 Pex&lt;br&gt;3/4 FIP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="263.75" y="710" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-58" value="3/4 Pex from Filters" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="233.75" y="640" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-59" value="3/4&lt;br&gt;Pipe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-61" value="3/4 Flex" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="123.75" y="683.75" width="112.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL8-JAgR0SSCa-hMXGhG-62" value="sweat&lt;br&gt;3/4 Pipe" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="155" y="600" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
