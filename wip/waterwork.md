@@ -33,6 +33,8 @@
 - run pex along cinder wall (east side)
 - water filter and distribution by drain pipes
 
+![waterwork.svg](./waterwork.svg)
+
 ### Concider
 - Create useable basement shower and sinks
 - fix basement drain system
