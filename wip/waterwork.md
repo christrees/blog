@@ -20,6 +20,8 @@
 - Gut and remodel kitchen
 - Put in forced air (or alternate heating)
 - Convert to Propane boiler radiant
+- Radiant Heat Flooring [youtube](https://www.youtube.com/results?search_query=radiant+heat+flooring)
+- Plug and Play Radian Floor [youtube](https://www.youtube.com/watch?v=qWvoYMf5iC4)
 - [Ultra-Fin radian floor retro-fit](https://www.homedepot.com/p/Ultra-Fin-10-in-Aluminum-Plates-with-Turn-Keys-for-1-2-in-Tubing-Box-of-100-UF4010/206412320?source=shoppingads&locale=en-US&mtc=Shopping-B-F_D26P-G-D26P-26_2_AIR_CIRCULATION_ACCES-NA-NA-Feed-SMART-NA-NA-New_Engen&cm_mmc=Shopping-B-F_D26P-G-D26P-26_2_AIR_CIRCULATION_ACCES-NA-NA-Feed-SMART-NA-NA-New_Engen-71700000072275519-58700006336256927-92700057184004073&gclid=Cj0KCQiAkuP9BRCkARIsAKGLE8WwWn6bOLkQ5pARsZnV8d1maycgtL1KB7dM9NU1c-DbpXTpksNHOS8aAox0EALw_wcB&gclsrc=aw.ds)
 
 ## Andi House
@@ -35,6 +37,7 @@
 - run pex along cinder wall (east side)
 - water filter and distribution by drain pipes
 
+[diagrams.net - waterwork.svg](https://app.diagrams.net/#Hchristrees%2Fblog%2Fmaster%2Fwip%2Fwaterwork.svg)
 ![waterwork.svg](./waterwork.svg)
 
 ### Parts List
