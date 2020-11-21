@@ -14,6 +14,21 @@ Based on [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
   - [PERR JS - https://peerjs.com/](https://peerjs.com/)
   - [Node.js - https://nodejs.org/en/](https://nodejs.org/en/)
   
+## Resources
+- [https://gitpod.io/workspaces](https://gitpod.io/workspaces/)
+- [https://test.webrtc.org/](https://test.webrtc.org/)
+- [RTC Tools at webrtc.github.com](https://webrtc.github.com/)
+- Interactive Connectivity Establishment (ICE) [youtube](https://youtu.be/Y1mx7cx6ckI?t=908) uses STUN (Session Traversal Utilities for NAT) or TURN (Traversal using Relay NAT) servers solution for the NAT issue with WebRTC
+    - ICE server candidate types
+        1. host - local address
+        2. srflx - address from STUN server
+        3. relay - address of TURN server
+    - Media servers
+        1. Mesh [youtube](https://youtu.be/Y1mx7cx6ckI?t=1745) - too much cpu for muliple parties
+        2. MCU - [youtube](https://youtu.be/Y1mx7cx6ckI?t=1795) - Mulitple Control Unit - layout issues and server intensive
+        3. SFU - [youtube](https://youtu.be/Y1mx7cx6ckI?t=1910) - Selective Forwarding Unit - subpub media streams router
+        4. SFU with Simulcast- [youtube](https://youtu.be/Y1mx7cx6ckI?t=2018) - Selective Forwarding Unit - subpub media streams router
+
 ## Setup
 1. Install [Node.js - https://nodejs.org/en/](https://nodejs.org/en/) 
 2. Create catchat dir init node load packages
