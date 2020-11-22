@@ -4,7 +4,8 @@ Also see [gh/docs/blender/ - Grasshorse Blender Notes](https://github.com/2cld/g
 
 ## Blender Packages
 - [blender-archipack.org](https://blender-archipack.org/)
-
+- [blender-HomeBuilder-AndrewPeel](https://creativedesigner3d.com/)
+- [youtube - Andrew Peel](https://www.youtube.com/channel/UC3ZAUNu__wZZumBBy3tCMBQ/videos)
 
 ## Blender Tutorials
 - [Stephen Leger - archipack guy tutorials](https://www.youtube.com/channel/UCecdw78pgsch0FWaNhdwbgg/videos)
