@@ -11,6 +11,8 @@
 - [Shetty V SG Blocks - SGBX](https://www.courtlistener.com/docket/16786656/shetty-v-sg-blocks-inc/)
 - [SGBX Investor Roadshow](https://www.bamsec.com/filing/121390020010948)
 - [SGBX Institutional](https://fintel.io/sos/us/sgbx)
+- [SGBX StockTwits](https://stocktwits.com/symbol/SGBX)
+- [SGBX 11-23-2020 - HighRisk - VAtrader youtube](https://youtu.be/NzZWJEwdJ2g?t=491)
 
 - [The Bubble Board](https://thebubbleboard.com/)
 - [Binance](https://www.binance.com/en)
