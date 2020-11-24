@@ -8,6 +8,11 @@
 - [USGS Wind Turbine Database around 2000 E Ave Gladbrook](https://eerscmap.usgs.gov/uswtdb/viewer/#10.63/42.1426/-92.7044)
 - [Yougblut Ag](https://www.youngblutag.com/)
 
+### from wip
+- [USDA Market News Daily](https://www.ams.usda.gov/mnreports/nw_gr110.txt)
+- [Farmlogs](https://farmlogs.com/)
+- [Farmlogs AutoHedge](https://www.autohedgegrain.com/)
+
 ## Finance
 - [Tile Dranage Finance - ISU](https://www.extension.iastate.edu/agdm/wholefarm/html/c2-90.html)
 - [Farm Storage Facility Loan Program](https://www.fsa.usda.gov/programs-and-services/price-support/facility-loans/farm-storage/)
