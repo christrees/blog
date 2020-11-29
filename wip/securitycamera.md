@@ -11,7 +11,12 @@
 - [Reolink - Outdoor PoE - $49.99 Amazon](https://www.amazon.com/Reolink-Surveillance-Security-Detection-RLC-410-5MP/dp/B07C5JWK4K)
 - [Reolink - Indoor PoE - $49.99 Amazon](https://www.amazon.com/Reolink-Outdoor-Surveillance-Security-RLC-420-5MP/dp/B07FQ2T89L)
 
+## Rpi parts
+- [MakerFocus Rpi 4 Night Vision 5MP $21.99](https://www.amazon.com/Makerfocus-Raspberry-Camera-Adjustable-Focus-Raspberry-pi/dp/B06XYDCN5N)
+- [Jun-Electron for Raspberry Pi 4 Camera Infrared Night Vision 5M 1080p $17.89](https://www.amazon.com/Raspberry-Camera-Acrylic-Infrared-Compatible/dp/B07RGKN6QT)
+
 ## Old Reference
+- [Lawrence Systems - Raspberry Pi Motion Detection Surveillance Camera System Using MotionEyeOS](https://www.youtube.com/watch?v=og-zI0CozLs)
 - [RPi Surveillance Camera - old](https://www.instructables.com/Raspberry-Pi-as-low-cost-HD-surveillance-camera/)
 - [Motion - old](http://www.lavrsen.dk/foswiki/bin/view/Motion) [Motion - github new](https://motion-project.github.io/)
 - [Balena Cloud](https://www.balena.io/blog/make-yourself-a-security-camera-system-in-30-minutes-or-less/) using [Kerberos.io](https://kerberos.io/)
