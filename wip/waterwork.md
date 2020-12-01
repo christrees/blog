@@ -40,6 +40,8 @@
 [diagrams.net - waterwork.svg](https://app.diagrams.net/#Hchristrees%2Fblog%2Fmaster%2Fwip%2Fwaterwork.svg)
 ![waterwork.svg](./waterwork.svg)
 
+![waterwork-P3-WasherDryerFloorPlan.svg](./waterwork-P3-WasherDryerFloorPlan.svg)
+
 ### Parts List
 - 2 x Sioux Chief PowerPEX® 1/2" PEX Expansion Brass Manifold - 6 Port Model Number: 672WV0630 Menards® SKU: 6800495 $74.99 (sale 66.74)
 - 2 x Sioux Chief PowerPEX® 3/4" PEX Crimp x 1" FIP Brass Adapter Model Number: 647XG43PK1M Menards® SKU: 6808390 $4.89 (sale 4.35)
