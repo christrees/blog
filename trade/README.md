@@ -23,6 +23,11 @@
 - [Hidden Alpha - Offer](https://secure.altimetry.com/?cid=MKT481069&eid=MKT487820&step=start&assetId=AST155316&page=3) used yahoo
 - [Hidden Alpha - Portfolio](https://altimetry.com/publications/hdn/portfolio)
 
+- [Drewby - Naive Trader](https://www.drewby.com/)
+- [Calculating-Position-Size-based-on-Risk-and-Stop-Loss](https://www.tradingview.com/chart/AAPL/RYt3MFpf-Calculating-Position-Size-based-on-Risk-and-Stop-Loss/)
+
+- [Motley Fool Stock Advisor 2yr $98](https://www.fool.com/order/fe_offers/wf/41423d91-c97e-4bb9-a8cc-ebf00e76c1c5?c=sa-inv-btr-so&source=isaso2eml0004456&u=420416295&mailing_id=350084&mailing_name=20201130_SO_CL-HOP_SF_GoodDay&utm_source=so&utm_medium=email&utm_campaign=sf-goodday&utm_content=20201130-html-bluebuttoncta&testId=so-opa-pt&cellId=3&campaign=sa-flashsale)
+
 ## Commodity
 - [tbd]()
 - [tbd]()
