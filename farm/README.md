@@ -6,6 +6,8 @@
 - [PraxiDyn - Mixmate Fusion](https://www.praxidyn.com/)
 - [USGS Wind Turbine Database](https://eerscmap.usgs.gov/uswtdb/)
 - [USGS Wind Turbine Database around 2000 E Ave Gladbrook](https://eerscmap.usgs.gov/uswtdb/viewer/#10.63/42.1426/-92.7044)
+- 42.14655800807075, -92.68819382245098
+- [Cole](https://www.google.com/maps/dir//42.1462716,-92.6876252/@42.1462576,-92.6875967,180m/data=!3m1!1e3!4m2!4m1!3e0)
 - [Yougblut Ag](https://www.youngblutag.com/)
 
 ### from wip
