@@ -12,6 +12,7 @@
 - [USDA Market News Daily](https://www.ams.usda.gov/mnreports/nw_gr110.txt)
 - [Farmlogs](https://farmlogs.com/)
 - [Farmlogs AutoHedge](https://www.autohedgegrain.com/)
+- [Legacy Plan](https://www.agweb.com/article/5-minute-succession-plan)
 
 ## Finance
 - [Tile Dranage Finance - ISU](https://www.extension.iastate.edu/agdm/wholefarm/html/c2-90.html)
