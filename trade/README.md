@@ -14,6 +14,7 @@
 - [SGBX StockTwits](https://stocktwits.com/symbol/SGBX)
 - [SGBX 11-23-2020 - HighRisk - VAtrader youtube](https://youtu.be/NzZWJEwdJ2g?t=491)
 - [SGBX 11-24-2020 - HighRisk - VAtrader youtube](https://youtu.be/JjkIZkiDCHQ?t=299)
+- [SGBX Seeking Alpha](https://seekingalpha.com/symbol/SGBX)
 
 - [The Bubble Board](https://thebubbleboard.com/)
 - [Binance](https://www.binance.com/en)
