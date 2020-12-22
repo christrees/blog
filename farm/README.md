@@ -10,6 +10,13 @@
 - [Cole](https://www.google.com/maps/dir//42.1462716,-92.6876252/@42.1462576,-92.6875967,180m/data=!3m1!1e3!4m2!4m1!3e0)
 - [Yougblut Ag](https://www.youngblutag.com/)
 
+## Cash Bid 
+- [Agri-Way Wayland](https://www.agriwaypartners.com/)
+- [Prairie Ag WMU](https://prairieagcommodities.com/)
+- [TriOak Foods](https://trioak.com/grain/bids/iowa/)
+- [Farmers Elevator - Wapello](https://farmerseande.com/)
+- [Bunge Meekers Landing](https://www.bungeservices.com/irj/portal/anonymous?NavigationTarget=navurl://ecaba8d422883e7dbde99a395f51fb0c#Corn)
+
 ### from wip
 - [USDA Market News Daily](https://www.ams.usda.gov/mnreports/nw_gr110.txt)
 - [Farmlogs](https://farmlogs.com/)
