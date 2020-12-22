@@ -1,5 +1,10 @@
 # Space, the final frontier
 
+## 2020-12-21 Jupiter Saturn Conjuction
+![JupiterSaturnConjunction2020-12-21](./JupiterSaturnConjunction2020-12-21.png)
+
+## Chris watches crewdragon 1
+
 - Video [chris watches crewdragon 1 approach and dock](https://youtu.be/5XWF8bvF8Aw)
 - Video [chris watches ISS crew prep access hatches](https://youtu.be/69FebfNMju0)
 - Video [chris watches crewdragon 1 enter ISS](https://youtu.be/CozfE08jrZ4)
