@@ -47,8 +47,14 @@
 - [Contango Backwardation](https://www.investopedia.com/articles/07/contango_backwardation.asp)
 - [Use contango and storge for profit](https://www.investopedia.com/ask/answers/041315/how-can-traders-use-contango-take-advantage-storage-shortage-crude-oil.asp)
 - [Hedging vs Speculation](https://www.investopedia.com/ask/answers/difference-between-hedging-and-speculation/)
+- [TDAmeritrade - Youtube - Probability Based Option Strategies | Mike Follett](https://www.youtube.com/watch?v=s1Gj8mM-csw)
 
 ## Market Data
+
+- [Standard Grain Marketing](https://www.standardgrain.com/grain-marketing-plan/)
+    - [Grain Markets - Youtube](https://www.youtube.com/channel/UCcy6azn7vrHgCC-tDMnk6FQ/videos)
+    - [Discussing Past Grain Sales - Guest Ed Usset](https://www.youtube.com/watch?v=CBj5NUVerwk)
+    - [Joe Vaclavik discusses grain markets](https://www.standardgrain.com/podcast/)
 - [Corn Prices 59 Year Historical Chart](https://www.macrotrends.net/2532/corn-prices-historical-chart-data)
 - [Corn Futures Contract Profile](https://www.barchart.com/futures/quotes/ZC*0/profile)
 - [Soybean Prices 45 Year Historical Chart](https://www.macrotrends.net/2531/soybean-prices-historical-chart-data)
