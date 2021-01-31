@@ -29,6 +29,10 @@
 
 - [Motley Fool Stock Advisor 2yr $98](https://www.fool.com/order/fe_offers/wf/41423d91-c97e-4bb9-a8cc-ebf00e76c1c5?c=sa-inv-btr-so&source=isaso2eml0004456&u=420416295&mailing_id=350084&mailing_name=20201130_SO_CL-HOP_SF_GoodDay&utm_source=so&utm_medium=email&utm_campaign=sf-goodday&utm_content=20201130-html-bluebuttoncta&testId=so-opa-pt&cellId=3&campaign=sa-flashsale)
 
+
+## Algos
+- [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
+
 ## Commodity
 - [tbd]()
 - [tbd]()
