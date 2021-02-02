@@ -1,4 +1,4 @@
-# Space, the final frontier
+# Space, the ~~final~~ other frontier
 
 ## 2021-02-02 Starship SN9 Flight test
 - [NASA - Starship SN9 Flight Test](https://youtu.be/wfHqbahPKpY)
