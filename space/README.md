@@ -1,7 +1,13 @@
 # Space, the final frontier
 
 ## 2021-02-02 Starship SN9 Flight test
-- [Starship SN9 Flight Test](https://youtu.be/wfHqbahPKpY)
+- [NASA - Starship SN9 Flight Test](https://youtu.be/wfHqbahPKpY)
+- [SpaceX - Starship SN9 Flight Test](https://youtu.be/_zZ7fIkpBgs)
+    - [Blast OFF - T -0:02](https://youtu.be/_zZ7fIkpBgs?t=323)
+    - [Apogee hover - T +4:01](https://youtu.be/_zZ7fIkpBgs?t=568)
+    - [Belly flop begin - T +4:33](https://youtu.be/_zZ7fIkpBgs?t=599)
+    - [Landing flip - T +6:18](https://youtu.be/_zZ7fIkpBgs?t=704) you can see engine fail to start
+    - [Crash land - T +6:24](https://youtu.be/_zZ7fIkpBgs?t=710)
 
 ## 2020-12-21 Jupiter Saturn Conjuction
 All December closest on 12-21 view SW sky 1 hr after sunset but sets 2 hrs after sunset.
