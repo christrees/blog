@@ -12,6 +12,10 @@ Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
 
   <hr/><hr/>
   
+## 2021.02.09 - Very Cold no rodeo today
+
+![20210209-21below-IMG_0955.JPG](./share/image/20210209-21below-IMG_0955.JPG)
+
 ## 2020.09.29 - 2020.11.?? 
 Farm'n with the Trees side [T3Farms](./farm/T3Farms/).  Cousin [Mike with grandkids](./share/MikeTrees/) Wyate and Drake.
 
