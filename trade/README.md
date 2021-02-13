@@ -20,6 +20,7 @@
 - [Binance](https://www.binance.com/en)
 - [Coinbase](https://www.coinbase.com/)
 - [Coin360](https://coin360.com/)
+- [coindesk](https://www.coindesk.com/)
 
 - [Hidden Alpha - Offer](https://secure.altimetry.com/?cid=MKT481069&eid=MKT487820&step=start&assetId=AST155316&page=3) used yahoo
 - [Hidden Alpha - Portfolio](https://altimetry.com/publications/hdn/portfolio)
@@ -34,7 +35,14 @@
 - [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
 
 ## Commodity
-- [tbd]()
-- [tbd]()
+- [Native Trader - new guy documenting his trading](https://www.drewby.com/)
+- [What is DeFi](https://www.coindesk.com/what-is-defi)
 - [Hedging for Risk Mitigation](https://www.agriculture.com/news/business/why-farmers-should-have-a-hedging-strategy)
 - [USDA Hedging Futures for Farmers](https://www.ers.usda.gov/webdocs/publications/40946/51066_aer774h.pdf?v=0)
+
+## Community
+- [VoskCoin - youtube](https://www.youtube.com/c/VoskCoin/videos)
+- [crypto 1 - EllioTrades Crypto - youtube](https://www.youtube.com/c/FUDTV/videos)
+- [crypto 2 - TylerS - youtube](https://www.youtube.com/channel/UCgBQ6YsN4oUTjbAvIwCFLog/videos)
+- [crypto 3 - Ivan on Tech - youtube](https://www.youtube.com/c/IvanonTech/videos)
+- [crypto 4 - JRNY Crypto - good should rise in ranking - youtube](https://www.youtube.com/c/jrnycrypto/videos)
