@@ -12,6 +12,14 @@ Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
 
   <hr/><hr/>
   
+## 2021.02.15 - Still cold...
+
+![20210215-33below-IMG_0974.JPG](./share/image/20210215-33below-IMG_0974.JPG)
+
+### Digging out in 33 below
+Makes me question why 
+![20210215-33belowAndiDrive-IMG_0403.jpg](./share/image/20210215-33belowAndiDrive-IMG_0403.jpg)
+
 ## 2021.02.09 - Very Cold no rodeo today
 
 ![20210209-21below-IMG_0955.JPG](./share/image/20210209-21below-IMG_0955.JPG)
