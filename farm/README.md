@@ -55,6 +55,8 @@
     - [Grain Markets - Youtube](https://www.youtube.com/channel/UCcy6azn7vrHgCC-tDMnk6FQ/videos)
     - [Discussing Past Grain Sales - Guest Ed Usset](https://www.youtube.com/watch?v=CBj5NUVerwk)
     - [Joe Vaclavik discusses grain markets](https://www.standardgrain.com/podcast/)
+- [Advanced Trading Inc](tbd)
+    - [Advanced Trading - youtube](https://www.youtube.com/c/AdvanceTradingIncBloomington/videos)
 - [Corn Prices 59 Year Historical Chart](https://www.macrotrends.net/2532/corn-prices-historical-chart-data)
 - [Corn Futures Contract Profile](https://www.barchart.com/futures/quotes/ZC*0/profile)
 - [Soybean Prices 45 Year Historical Chart](https://www.macrotrends.net/2531/soybean-prices-historical-chart-data)
