@@ -1,9 +1,11 @@
 # Market Trading links
 
+
 - [E-Trade](http://etrade.com/)
-- [tdAmeritrade](https://www.tdameritrade.com/)
+- [TDAmeritrade](https://www.tdameritrade.com/)
 - [TradingView](https://www.tradingview.com/)
 - [Barchart - Unusual Activity](https://www.barchart.com/options/unusual-activity/stocks)
+- [Nasdaq - Current Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)
 
 - [ChartMill - SGBX](https://www.chartmill.com/stock/quote/SGBX/technical-analysis?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking)
 - [ChartMill - SGBX - Tech](https://www.chartmill.com/stock/analyzer/stock/SGBX?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking&view=technical-analysis)
@@ -27,6 +29,12 @@
 
 - [Drewby - Naive Trader](https://www.drewby.com/)
 - [Calculating-Position-Size-based-on-Risk-and-Stop-Loss](https://www.tradingview.com/chart/AAPL/RYt3MFpf-Calculating-Position-Size-based-on-Risk-and-Stop-Loss/)
+
+
+- [Warrior Trading Website](https://secure.warriortrading.com/)
+- [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
+- [Warrior Trading - Facebook](https://www.facebook.com/warriortrading/)
+
 
 - [Motley Fool Stock Advisor 2yr $98](https://www.fool.com/order/fe_offers/wf/41423d91-c97e-4bb9-a8cc-ebf00e76c1c5?c=sa-inv-btr-so&source=isaso2eml0004456&u=420416295&mailing_id=350084&mailing_name=20201130_SO_CL-HOP_SF_GoodDay&utm_source=so&utm_medium=email&utm_campaign=sf-goodday&utm_content=20201130-html-bluebuttoncta&testId=so-opa-pt&cellId=3&campaign=sa-flashsale)
 
