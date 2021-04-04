@@ -14,7 +14,7 @@ Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
   
 ## 2021.04.04 - Update [ConverseHouse Website](https://conversehouse.com/)
 
-I missed Al's email about the Zoom conference Friday night.  So I figured I'd go test the virtual links I setup to test on 2/24.  I added links to meeting rooms that should never expire BUT will require a conversehouse domain user to enter the room and accept any non-members request to enter.  I also added a room via the webapp I experimented with [https://zoom-app-clone.herokuapp.com/conversehouse](https://zoom-app-clone.herokuapp.com/conversehouse).  It mostly works and if people start using it, I'll fix the issues and make it into an app.
+I missed Al's email about the Zoom conference Friday night.  So I figured I'd go test the virtual links I setup to test on 2/24.  I added links to meeting rooms that should never expire BUT will require a conversehouse domain user to enter the room and accept any non-members request to enter.  I also added a room via the webapp I experimented with [https://zoom-app-clone.herokuapp.com/conversehouse](https://zoom-app-clone.herokuapp.com/conversehouse).  It mostly works and if people start using it, I'll fix the issues and make it into an app.  I also made the main site secure.
   
 ## 2021.04.03 - 2021.03.18 - Farm'n and Clean'n
 Spend a few weeks down on the farm.
