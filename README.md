@@ -12,12 +12,11 @@ Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
 
   <hr/><hr/>
   
-## 2021.04.04 - 
+## 2021.04.04 Project Catchup
 ### Update [Blender Learning Project - Youtube](https://youtu.be/9j9GtWswfwo)
 When I went to [T3 Farms](http://blog.christrees.com/farm/T3Farms/) to help pump poo, I stopped learning blender and the bathroom renovation rendering.  This is my recap to myself.  BTW... I should model the new and improved T3 Farms equipment too.
 
 ### Update [ConverseHouse Website](https://conversehouse.com/)
-
 I missed Al's email about the Zoom conference Friday night.  So I figured I'd go test the virtual links I setup to test on 2/24.  I added links to meeting rooms that should never expire BUT will require a conversehouse domain user to enter the room and accept any non-members request to enter.  I also added a room via the webapp I experimented with [https://zoom-app-clone.herokuapp.com/conversehouse](https://zoom-app-clone.herokuapp.com/conversehouse).  It mostly works and if people start using it, I'll fix the issues and make it into an app.  I also made the main site secure.
   
 ## 2021.04.03 - 2021.03.18 - Farm'n and Clean'n
