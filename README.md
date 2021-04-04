@@ -12,6 +12,22 @@ Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
 
   <hr/><hr/>
   
+## 2021.04.03 - 2021.03.18 - Farm'n and Clean'n
+Spend a few weeks down on the farm.
+### The Bat Kite
+I won the Cub Scout spring kite flying contest with this kite circa 1970... I think.  Found it while cleaning out my basement room at the folks place.
+
+![20210403-ChrisTrees-BatKite-cira1970-IMG_1258.JPG](./share/image/20210403-ChrisTrees-BatKite-cira1970-IMG_1258.JPG)
+
+### Clean'n stuff
+I reached the far SE corner of the basement!  Moved stuff not touched since 1970's I think.
+
+![20210403-ChrisTrees-ClearSECorner-IMG_1244.JPG](./share/image/20210403-ChrisTrees-ClearSECorner-IMG_1244.JPG)
+
+I also reached the far NE corner, which was the office.  I think the stuff in the corner was placed (by me) in 2004.  Maybe I'll try to find a photo before I cleared.  I only cleared about 1/2 square foot, but I did get to the 2 East corners of the basement.  Now I just have to defend and expand the corners until I clear the entire basement.
+
+![20210403-ChrisTrees-ClearNECorner-IMG_1265.JPG](./share/image/20210403-ChrisTrees-ClearNECorner-IMG_1265.JPG)
+
 ## 2021.02.15 - Still cold...
 
 ![20210215-33below-IMG_0974.JPG](./share/image/20210215-33below-IMG_0974.JPG)
