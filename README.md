@@ -15,6 +15,8 @@ Simple blog... a CATaLOG
 ## 2021.04.11 Feeling burnt out
 [Burnout-Attitudes](./Burnout-Attitudes.png)
 
+Going to push on [gh learn-bg-anvil](http://gh.2cld.net/docs/blender/tutorial/learn-bg-anvil).  Need to cleanup my blender links also as I have them in [2cld/gh/docs/blender](https://github.com/2cld/gh/tree/master/docs/blender) and [christrees/blog/blender](https://github.com/christrees/blog/tree/master/blender).  Also need to find and cleanup what I have on the other tests.
+
 ## 2021.04.10 Grasshorse Cleanup
 The intent today was to move more stuff out of the basement, but it was cold and rainly.  Did stop into the house and the roof is leaking between addition and main old house.  Brad, Brayden and myself then took a stab at grasshorse cleaning.  My goal is to keep defending corners and pushing out.  Brad and I got the SW basement corner cleared.  I intended to trace down the chiller unit as I think I can remove it also.  We took what I think is intended to be trash (the old lights) and sat them on the dock and dock-loading area.  We then moved to the NE basement corner and did a first pass clear and clean.  We started on the woodshop area NE corner.  This is the corner Brayden and I cleared last time, so this was the 'defend and expand'.  We did clear the vertical surfaces we had cleared last time, but at that point I had ran into more signs of non-progress I hit the SNAFU limit.
 
