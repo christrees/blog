@@ -1,9 +1,9 @@
 # blog.christrees.com
 [Back to christrees.com](http://christrees.com)
 
-Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
+Simple blog... a CATaLOG
 
-  <hr/><hr/>
+<hr/><hr/>
   
 ## Chris Trees 
   - [Github - christrees](https://github.com/christrees) Github for a geek.
@@ -11,7 +11,16 @@ Simple blog... well CATaLOG (CAT a bLOG ... get it ?... nerd funny)
   - [Resume PDF - christrees](https://christrees.com/docs/resume_christrees.pdf) Chris Trees - Resume PDF for HR.
 
   <hr/><hr/>
-  
+
+## 2021.04.11 Feeling burnt out
+[Burnout-Attitudes](./Burnout-Attitudes.png)
+
+## 2021.04.10 Grasshorse Cleanup
+The intent today was to move more stuff out of the basement, but it was cold and rainly.  Did stop into the house and the roof is leaking between addition and main old house.  Brad, Brayden and myself then took a stab at grasshorse cleaning.  My goal is to keep defending corners and pushing out.  Brad and I got the SW basement corner cleared.  I intended to trace down the chiller unit as I think I can remove it also.  We took what I think is intended to be trash (the old lights) and sat them on the dock and dock-loading area.  We then moved to the NE basement corner and did a first pass clear and clean.  We started on the woodshop area NE corner.  This is the corner Brayden and I cleared last time, so this was the 'defend and expand'.  We did clear the vertical surfaces we had cleared last time, but at that point I had ran into more signs of non-progress I hit the SNAFU limit.
+
+## 2021.04.09 More Maintainance
+Cleared some more basement.  Got to the old leak pipe runs.  Thinking the leak was the laundry water I pulled drywall to get to it.  I think the water actually came from some sort of laundry overflow, not a leak in the supply pipe.  I pulled the washer and found the water was reversed Hot to Cold.  I also found the supply hot hose screen was corroded shut.  I pulled the screens and replace rubber washers.  That seemed to fix the washer.  The dryer vent was off.  I pulled the Dryer, attached the exhaust hoses. There was a lot of lint build up.  I pulled the front face of the dryer and vacumed the lint from everywhere including the felt seals both front and back.  Removing the front also made attaching the exhaust easier.  Dryer worked and also blew out a wad of lint from the exhaust pipe.
+
 ## 2021.04.04 Project Catchup
 ### Update [Blender Learning Project - Youtube](https://youtu.be/05pc088bPlA)
 [Blender Learning Project - Youtube](https://youtu.be/05pc088bPlA) overview of what I was doing 6 months ago before I went to [T3 Farms](http://blog.christrees.com/farm/T3Farms/) to help pump poo.  I stopped the blender and the bathroom renovation rendering project.  This is a recap to myself and Gus so he keeps on me to review my progress.  BTW... I should model the new and improved T3 Farms equipment too.
