@@ -6,6 +6,7 @@
 
 [AutoZone - Intake Manifold](https://www.autozone.com/external-engine/intake-manifold/dorman-intake-manifold-615-180/465215_0_0)
 
+## Rebuilding 3800 Injectors [youtube](https://www.youtube.com/watch?v=kuB12b2flx0)
 
 ## Chevy 3.8L Upper + Lower Intake Manifold Gasket and Tensioner Replacement
 1. [Chevy 3.8L Upper + Lower Intake Manifold Gasket and Tensioner Replacement Part 1](https://www.youtube.com/watch?v=gTLvnYVmrNQ)
