@@ -9,11 +9,18 @@
 
 ## The Engineering Department, Inc. 1986-1990
 
+ - [Wendell Sanders - ISU interview with Apple I](https://www.youtube.com/watch?v=yMiFFxq4JBY)
+ - [Wendell Sanders - DigiBarn](https://www.digibarn.com/collections/systems/appleIII/sandersinterview.html)
+ - [Apple I - Dick and Cliff Hustion](https://en.wikipedia.org/wiki/Apple_I)
+ - [IWM - Integrated Woz Machine](https://en.wikipedia.org/wiki/Integrated_Woz_Machine)
+ - [Daniel Kottke](https://en.wikipedia.org/wiki/Daniel_Kottke)
+
 ## IKOS Systems, Inc.  1990-1991
 
 ## Hughes LAN 1992-1994
 
  - [Van Jacobson - TCPIP congestion control algorithms](https://en.wikipedia.org/wiki/Van_Jacobson)
+ - [Pyramid Technology](https://en.wikipedia.org/wiki/Pyramid_Technology)
 
 ## Sun Netra i - 1994-1995 - BreadBox was the project [AndyB](https://en.wikipedia.org/wiki/Andy_Bechtolsheim)  left to form Granite Systems.
 
