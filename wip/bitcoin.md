@@ -26,6 +26,10 @@
 
 - [dApp Development - A simple Guide](https://hackernoon.com/dapp-development-a-simple-guide-for-innovators-and-entrepreneurs-46922f98a6f2)
 
+## pools
+- [Make your own coin](https://www.youtube.com/watch?v=86jqAfySi64)
+- [Setup your own Pool](https://www.youtube.com/user/whatthefluxable/videos)
+
 ## Use
 
 1. [https://earn.com/christrees/](https://earn.com/christrees/) - christrees - Color#Test
