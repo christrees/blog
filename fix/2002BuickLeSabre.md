@@ -8,6 +8,8 @@
 
 ![GM3800UpperIntakePattern](GM3800UpperIntakePattern.png)
 
+![2002BuickLesabreSerpentineRoute](2002BuickLesabreSerpentineRoute.png)
+
 - First Pass 44 Lb
 - Final Pass 89 Lb
 
