@@ -18,6 +18,7 @@
 - [SGBX 11-24-2020 - HighRisk - VAtrader youtube](https://youtu.be/JjkIZkiDCHQ?t=299)
 - [SGBX Seeking Alpha](https://seekingalpha.com/symbol/SGBX)
 
+- [Bitcoin Fear-Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
 - [The Bubble Board](https://thebubbleboard.com/)
 - [Binance](https://www.binance.com/en)
 - [Coinbase](https://www.coinbase.com/)
