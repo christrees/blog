@@ -1,6 +1,7 @@
 # Farm stuff
 
 - [T3 Farms - Pumping Poop](http://blog.christrees.com/farm/T3Farms/)
+- [ISU - Shrimp Farm](https://www.amestrib.com/story/business/agricultural/2020/09/25/midland-co-aquaculture-iowa-state-grad-starts-shrimp-farm-former-story-city-outlet-mall/3510095001/)
 - [KSU Aquaculture - Growing Shrimp in Bio Flock](https://www.youtube.com/watch?v=IwbDqB0C_-Y)
 - [DRI-Stack System - Haber Technologies](https://www.drycorn.com/)
 - [PraxiDyn - Mixmate Fusion](https://www.praxidyn.com/)
