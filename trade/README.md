@@ -55,3 +55,4 @@
 - [crypto 2 - TylerS - youtube](https://www.youtube.com/channel/UCgBQ6YsN4oUTjbAvIwCFLog/videos)
 - [crypto 3 - Ivan on Tech - youtube](https://www.youtube.com/c/IvanonTech/videos)
 - [crypto 4 - JRNY Crypto - good should rise in ranking - youtube](https://www.youtube.com/c/jrnycrypto/videos)
+- [Raoul Pal's Introduction to the Exponential Age - MacroEcon view of Crypto - good explination of digital c-change](https://www.youtube.com/watch?v=0tJrla31t8I)
