@@ -27,6 +27,7 @@
 ## Finance
 - [Tile Dranage Finance - ISU](https://www.extension.iastate.edu/agdm/wholefarm/html/c2-90.html)
 - [Farm Storage Facility Loan Program](https://www.fsa.usda.gov/programs-and-services/price-support/facility-loans/farm-storage/)
+- [Capital Gains and General Tax Structure](https://youtu.be/ezPs4ibFsNU?t=3264)
 
 ### Andy Questions
 - Buyout folks through LLC
