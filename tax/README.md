@@ -1,12 +1,13 @@
 # TAX Plan Structure
 
-The goal of tax planning is the 1040.  
+The metric of tax planning is the 1040.
+The goal is to maximize future personal value through current income tax rule incentives. 
 Successful planning requires consistant objective data monitoring that can be used to evaluate planned expections vs actual.  
 The 1040 report is a consistant actual evalutaion point, use the 1040 data flow.
 
 - 1040 as a RLT (Revocable Living Trust)
 - Family Management Company (FMC) for Services
-    - Children under 18 can be paid through a FMC for ligetiment services
+    - Children under 18 can be paid through a FMC for legitimate services
     - Health Reimbursement Arrangement (HRA) Pay spouse or children
     - May create a C-Corp to work with S-Corp if single with lot of medical expense
     - Write off Medical Insurance in S-Corp
