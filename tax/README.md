@@ -25,8 +25,12 @@ The 1040 report is a consistant actual evalutaion point, use the 1040 data flow.
     - Fund other LLC to buy Rentals
     - Fund Life Insurance (Term)
 
-[FedTax1040Structure - draw.io source](FedTax1040Structure.drawio)
+
 ![FedTax1040Structure](FedTax1040Structure.svg)
+
+
+[FedTax1040Structure - draw.io source](FedTax1040Structure.drawio)
+
 
 ### Notes
 - RLT requires Trust and Will documents
