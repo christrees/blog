@@ -12,6 +12,10 @@ Simple blog... a CATaLOG
 
   <hr/><hr/>
 
+## 2021.06.19 Fix'n shit for Ken
+Click here for link ---> [http://blog.christrees.com/fix/B&0/](http://blog.christrees.com/fix/B&0/)
+![Ken Disassembled](https://lh3.googleusercontent.com/pw/ACtC-3cKzmwqkwg7Fu1ltoywdXSCsTUa5JZCJCXpFhQGWIvfRB1QQlXAl_pVulJu2yox0vDSLMO8UKfl1oGDKFa99rFr1Op4OEVUVulXvScrA8sy9QB0oBvFcx2LeV2OaqKB0f99hTOjkspfsLiLdAFDDqeD=w1088-h816-no)
+
 ## 2021.04.11 Feeling burnt out
 [Burnout-Attitudes](./Burnout-Attitudes.png)
 
