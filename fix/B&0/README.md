@@ -12,7 +12,7 @@ Ken's previous research indicated that the beeswax lubricant used could freeze t
 
 ---
 
-Click here to see  --->  [Testing Ken's B&0 turntable on Andi's B&O Speakers](https://photos.google.com/share/AF1QipO5wJdZFTGUJt-NGIuPYhAU5k3uE-46oFCASWPuwnkQeWMgZE0fcDjocBWtIZVdHw/photo/AF1QipPCVnq7YsOLQRMo8zUCrIyPh6_8IJ5AiHwg1sI?key=UkhjY1JMQmZ0OWtHNnNmQ19GTHozWDNYQWJEOXRR)
+Click here to see  --->  [Successful test of Ken's B&0 Belogram 4004 turntable on Andi's B&O Speakers](https://photos.google.com/share/AF1QipO5wJdZFTGUJt-NGIuPYhAU5k3uE-46oFCASWPuwnkQeWMgZE0fcDjocBWtIZVdHw/photo/AF1QipPCVnq7YsOLQRMo8zUCrIyPh6_8IJ5AiHwg1sI?key=UkhjY1JMQmZ0OWtHNnNmQ19GTHozWDNYQWJEOXRR)
 
 ---
 ---
