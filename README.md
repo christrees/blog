@@ -12,7 +12,7 @@ Simple blog... a CATaLOG
 
   <hr/><hr/>
 
-## 2021.06.19 Fix'n shit for Ken
+## 2021.06.19 Fix'n it for Ken
 Click here for link ---> [http://blog.christrees.com/fix/B&0/](http://blog.christrees.com/fix/B&0/)
 
 I had to channel our old friend Rodger's repair skills... mainly his patience and small parts orgizational skills... and his Ken tollerance of course! 
