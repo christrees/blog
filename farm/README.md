@@ -52,7 +52,9 @@
 - [TDAmeritrade - Youtube - Probability Based Option Strategies - Mike Follett](https://www.youtube.com/watch?v=s1Gj8mM-csw)
 
 ## Market Data
-
+- [US Crop Insurance agriculture.com](https://www.agriculture.com/markets/newswire/us-crop-insurance-price-guarantees-point-to-higher-soy-corn-acres)
+    - Corn 2021 floor price: $  4.58
+    - Bean 2021 floor price: $ 11.87
 - [Standard Grain Marketing](https://www.standardgrain.com/grain-marketing-plan/)
     - [Grain Markets - Youtube](https://www.youtube.com/channel/UCcy6azn7vrHgCC-tDMnk6FQ/videos)
     - [Discussing Past Grain Sales - Guest Ed Usset](https://www.youtube.com/watch?v=CBj5NUVerwk)
