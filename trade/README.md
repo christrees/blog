@@ -6,6 +6,7 @@
 - [TradingView](https://www.tradingview.com/)
 - [Barchart - Unusual Activity](https://www.barchart.com/options/unusual-activity/stocks)
 - [Nasdaq - Current Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)
+- [FinVix - Short Interest and other things](https://finviz.com)
 
 - [ChartMill - SGBX](https://www.chartmill.com/stock/quote/SGBX/technical-analysis?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking)
 - [ChartMill - SGBX - Tech](https://www.chartmill.com/stock/analyzer/stock/SGBX?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking&view=technical-analysis)
@@ -17,6 +18,7 @@
 - [SGBX 11-23-2020 - HighRisk - VAtrader youtube](https://youtu.be/NzZWJEwdJ2g?t=491)
 - [SGBX 11-24-2020 - HighRisk - VAtrader youtube](https://youtu.be/JjkIZkiDCHQ?t=299)
 - [SGBX Seeking Alpha](https://seekingalpha.com/symbol/SGBX)
+- [SGBX FinViz](https://finviz.com/quote.ashx?t=SGBX)
 
 - [Bitcoin Fear-Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
 - [The Bubble Board](https://thebubbleboard.com/)
