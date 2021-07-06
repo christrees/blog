@@ -7,6 +7,7 @@
 - [Barchart - Unusual Activity](https://www.barchart.com/options/unusual-activity/stocks)
 - [Nasdaq - Current Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)
 - [FinVix - Short Interest and other things](https://finviz.com)
+- [Trade Ideas Live Stock Scanner - youtube stream](https://www.youtube.com/watch?v=mT3Gbz1oTvo)
 
 - [ChartMill - SGBX](https://www.chartmill.com/stock/quote/SGBX/technical-analysis?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking)
 - [ChartMill - SGBX - Tech](https://www.chartmill.com/stock/analyzer/stock/SGBX?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking&view=technical-analysis)
@@ -38,6 +39,8 @@
 - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
 - [Warrior Trading - Facebook](https://www.facebook.com/warriortrading/)
 
+- [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
+- [Trade Pro - Youtube - Trade Algos](https://www.youtube.com/channel/UCrXjzUN6EtlyhaaAerbPfkQ/videos)
 
 - [Motley Fool Stock Advisor 2yr $98](https://www.fool.com/order/fe_offers/wf/41423d91-c97e-4bb9-a8cc-ebf00e76c1c5?c=sa-inv-btr-so&source=isaso2eml0004456&u=420416295&mailing_id=350084&mailing_name=20201130_SO_CL-HOP_SF_GoodDay&utm_source=so&utm_medium=email&utm_campaign=sf-goodday&utm_content=20201130-html-bluebuttoncta&testId=so-opa-pt&cellId=3&campaign=sa-flashsale)
 
