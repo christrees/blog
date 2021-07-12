@@ -9,7 +9,9 @@
 - [Barchart - Unusual Activity](https://www.barchart.com/options/unusual-activity/stocks)
 - [Nasdaq - Current Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)
 - [FinVix - Short Interest and other things](https://finviz.com)
-- [Trade Ideas Live Stock Scanner - youtube stream](https://www.youtube.com/watch?v=mT3Gbz1oTvo)
+- [Trade Ideas Live Stock Scanner](https://www.youtube.com/c/KelevraTrading/videos)
+  - [Trade Ideas Live Stock Scanner - youtube stream](https://www.youtube.com/watch?v=mT3Gbz1oTvo)
+  - [Trade Ideas Live Stock Scanner - youtube stream](https://www.youtube.com/watch?v=U1kfb9FlfQc)
 - [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
 - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
 
