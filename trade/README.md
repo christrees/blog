@@ -1,17 +1,15 @@
 # Market Trading links
 
-## Stock 
+## Stock
 - [E-Trade](http://etrade.com/)
 - [TDAmeritrade](https://www.tdameritrade.com/)
 - [TradingView](https://www.tradingview.com/)
 
-### Stock Trading Info
+### Stock Daily Info
 - [Barchart - Unusual Activity](https://www.barchart.com/options/unusual-activity/stocks)
 - [Nasdaq - Current Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)
 - [FinVix - Short Interest and other things](https://finviz.com)
 - [Trade Ideas Live Stock Scanner](https://www.youtube.com/c/KelevraTrading/videos)
-  - [Trade Ideas Live Stock Scanner - youtube stream](https://www.youtube.com/watch?v=mT3Gbz1oTvo)
-  - [Trade Ideas Live Stock Scanner - youtube stream](https://www.youtube.com/watch?v=U1kfb9FlfQc)
 - [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
 - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
 
@@ -73,4 +71,11 @@
 - [Hidden Alpha - Offer](https://secure.altimetry.com/?cid=MKT481069&eid=MKT487820&step=start&assetId=AST155316&page=3) used yahoo canceled
 - [Hidden Alpha - Portfolio](https://altimetry.com/publications/hdn/portfolio)
 - [Motley Fool Stock Advisor 2yr $98](https://www.fool.com/order/fe_offers/wf/41423d91-c97e-4bb9-a8cc-ebf00e76c1c5?c=sa-inv-btr-so&source=isaso2eml0004456&u=420416295&mailing_id=350084&mailing_name=20201130_SO_CL-HOP_SF_GoodDay&utm_source=so&utm_medium=email&utm_campaign=sf-goodday&utm_content=20201130-html-bluebuttoncta&testId=so-opa-pt&cellId=3&campaign=sa-flashsale)
+
+
+---
+## Trade Subs
+- [Trade Sectors](./sectors/)
+- [Trade Bot Creation](./bot/)
+- [Trade Crypto Info](./crypto/)
 
