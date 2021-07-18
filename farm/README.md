@@ -6,6 +6,7 @@
 - [USDA Market News Daily](https://www.ams.usda.gov/mnreports/nw_gr110.txt)
 - [AgManagerInfo - Agriculture Today](https://www.youtube.com/user/AgManagerInfo/videos)
 - [Market to Market](https://www.youtube.com/c/MarkettoMarket/videos)
+- [Weather effects on Market Report](https://www.youtube.com/channel/UCSL03vbUSjnqnFGD7oBpaiw/videos)
 
 ## Cash Bid 
 - [Agri-Way Wayland](https://www.agriwaypartners.com/)
