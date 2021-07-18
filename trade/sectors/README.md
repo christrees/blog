@@ -59,9 +59,9 @@ We are in a post-computer-interent digital innovation transformation.
   - Immuno-Therapy
   - Genome Editing
   
-![InnovationPlatforms](./InnovationPlatformsScreenShot2021-07-17-8.38.24AM.PNG)
-![InnovationC-Change](./InnovationC-ChangeScreenShot2021-07-17-8.38.54AM.PNG)
-![InnovationAdoption](./InnovationAdoptionScreenShot2021-07-17-8.41.14AM.PNG)
-![FinTechGDP](./FinTechGDPScreenShot2021-07-17-8.43.05AM.PNG)
-![DeepLearn](./DeepLearnScreenShot2021-07-17-8.45.54AM.PNG)
-![BlockChain](./BlockChainScreenShot2021-07-17-8.47.07AM.PNG)
+![InnovationPlatforms](./InnovationPlatformsScreenShot2021-07-17-8.38.24AM.png)
+![InnovationC-Change](./InnovationC-ChangeScreenShot2021-07-17-8.38.54AM.png)
+![InnovationAdoption](./InnovationAdoptionScreenShot2021-07-17-8.41.14AM.png)
+![FinTechGDP](./FinTechGDPScreenShot2021-07-17-8.43.05AM.png)
+![DeepLearn](./DeepLearnScreenShot2021-07-17-8.45.54AM.png)
+![BlockChain](./BlockChainScreenShot2021-07-17-8.47.07AM.png)
