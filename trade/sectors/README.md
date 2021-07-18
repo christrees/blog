@@ -65,3 +65,5 @@ We are in a post-computer-interent digital innovation transformation.
 ![FinTechGDP](./FinTechGDPScreenShot2021-07-17-8.43.05AM.png)
 ![DeepLearn](./DeepLearnScreenShot2021-07-17-8.45.54AM.png)
 ![BlockChain](./BlockChainScreenShot2021-07-17-8.47.07AM.png)
+
+![TradeRiskCycles](./TradeRiskCyclesScreenShot2021-05-22-5.03.38PM.png)
