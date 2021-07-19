@@ -12,7 +12,15 @@
 - [Trade Ideas Live Stock Scanner](https://www.youtube.com/c/KelevraTrading/videos)
 - [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
 - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
+- [StockTwits - social media](https://stocktwits.com/)
 
+### Overview Charts
+- [Overview - finviz](https://finviz.com/)
+- [Sectors - stockcharts](https://stockcharts.com/freecharts/candleglance.html?[SECT])
+- [Premarkets - cnbc](https://www.cnbc.com/pre-markets/)
+- [TLT - Bonds stockcharts](https://stockcharts.com/h-sc/ui?s=tlt)
+- [UST10Y - stockcharts](https://stockcharts.com/h-sc/ui?s=$UST10Y)
+- [Fed Total Assets](https://fred.stlouisfed.org/series/WALCL)
 
 ## Algos
 - [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
