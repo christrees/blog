@@ -2,6 +2,7 @@
 
 ## 2021-08-06 Starship SN20 Super Heavy Stacking
 ![SN20-Stacking-2021-08-06](SN20-Stacking-2021-08-06.png)
+![SN20-Stacking-Done-2021-08-06](SN20-Stacking-Done-2021-08-06.png)
 ![SN20-StackingWide-2021-08-06](SN20-StackingWide-2021-08-06.png)
 
 ## 2021-02-02 Starship SN9 Flight test
