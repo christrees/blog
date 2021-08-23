@@ -14,12 +14,16 @@ Simple blog... a CATaLOG
 
 ## 2021.08.21 Craig Ball Park Outing
 Click here for pictures [https://photos.app.goo.gl/DFwnv9LcB32nVnE79](https://photos.app.goo.gl/DFwnv9LcB32nVnE79)
-Andi's adoptive family "The Craig's" had a baseball outing with the [Cedar Rapids Kernels](https://www.milb.com/cedar-rapids).
+Andi's adoptive family "The Craig's" had a baseball outing with the [Cedar Rapids Kernels](https://www.milb.com/cedar-rapids).  Andi fielded a foul ball!  Great time, food, and people to spend a saturday evening with FIREWORKS!!
 
-![CraigKernels](https://photos.app.goo.gl/tZs38YK87F8Fahb3A)
+![CraigKernels](https://lh3.googleusercontent.com/pw/AM-JKLUKejUidl9qQMuwtvkpw4wu4h_heMPMRcaqhUMIfFn4RkoExNFhcQLEAb1JNiRjyDDeGRfvUmZ-whGUKHazbKEl_Z1lGY2bvO4Ep8eeuxdyC0bPgLrguInXu29JR1HYgptNHreXi-tXy3p6SdxRyNEE=w994-h745-no?authuser=0)
+
+[Photo Link - https://photos.app.goo.gl/tZs38YK87F8Fahb3A](https://photos.app.goo.gl/tZs38YK87F8Fahb3A)
+
+<!--
 
 ## 2021.06.19 Fix'n it for Ken
-Click here for link ---> [http://blog.christrees.com/fix/B&0/](http://blog.christrees.com/fix/B&0/)
+Click here for link - [http://blog.christrees.com/fix/B&0/](http://blog.christrees.com/fix/B&0/)
 
 I had to channel our old friend Rodger's repair skills... mainly his patience and small parts orgizational skills... and his Ken tollerance of course! 
 Thanks Rog!
