@@ -12,6 +12,12 @@ Simple blog... a CATaLOG
 
   <hr/><hr/>
 
+## 2021.08.21 Craig Ball Park Outing
+Click here for pictures [https://photos.app.goo.gl/DFwnv9LcB32nVnE79](https://photos.app.goo.gl/DFwnv9LcB32nVnE79)
+Andi's adoptive family "The Craig's" had a baseball outing with the [Cedar Rapids Kernels](https://www.milb.com/cedar-rapids).
+
+![CraigKernels](https://photos.app.goo.gl/tZs38YK87F8Fahb3A)
+
 ## 2021.06.19 Fix'n it for Ken
 Click here for link ---> [http://blog.christrees.com/fix/B&0/](http://blog.christrees.com/fix/B&0/)
 
