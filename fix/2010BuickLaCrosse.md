@@ -3,17 +3,25 @@
 
 ## [1AAuto Wheel Hub Stuck](https://www.youtube.com/watch?v=JKcgXmX8oBo)
 
+
 <iframe src="https://www.youtube.com/watch?v=JKcgXmX8oBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## [Wheel Bearing Removal Trick](https://www.youtube.com/watch?v=p9543-dMBRo)
+1. Bolt Press 1 [tc2:28](https://youtu.be/p9543-dMBRo?t=148)
+2. Bolt Press 2 [tc3:39](https://youtu.be/p9543-dMBRo?t=219)
+3. Hammer Twist after separation [tc5:15](https://youtu.be/p9543-dMBRo?t=315)
+
 
 ## [Wheel Hub Assembly Replacement](https://www.youtube.com/watch?v=ca_cHOaBmsg)
 
-    1. [75 ft. lbs - Wheel Hub Bolts x3 tc09:12](https://youtu.be/ca_cHOaBmsg?t=552)
-    2. [?? ft. lbs - Wheel Hub nut tighten not torqued tc09:12](https://youtu.be/ca_cHOaBmsg?t=572)
-    3. [75 ft. lbs - 18mm Calaper Mount Bolts x2 tc09:51](https://youtu.be/ca_cHOaBmsg?t=591)
-    4. [30 ft. lbs - ??mm Calaper Slide Bolts x2 tc10:25](https://youtu.be/ca_cHOaBmsg?t=625)
-    5. [100 ft. lbs - ??mm Lug Nuts x5 tc10:25](https://youtu.be/ca_cHOaBmsg?t=625)
-    6. [125 ft. lbs - Wheel Hub nut torqued on ground tc11:14](https://youtu.be/ca_cHOaBmsg?t=674)
+1. [75 ft. lbs  Wheel Hub Bolts x3 tc09:12](https://youtu.be/ca_cHOaBmsg?t=552)
+2. [?? ft. lbs - Wheel Hub nut tighten not torqued tc09:12](https://youtu.be/ca_cHOaBmsg?t=572)
+3. [75 ft. lbs - 18mm Calaper Mount Bolts x2 tc09:51](https://youtu.be/ca_cHOaBmsg?t=591)
+4. [30 ft. lbs - ??mm Calaper Slide Bolts x2 tc10:25](https://youtu.be/ca_cHOaBmsg?t=625)
+5. [100 ft. lbs - ??mm Lug Nuts x5 tc10:25](https://youtu.be/ca_cHOaBmsg?t=625)
+6. [125 ft. lbs - Wheel Hub nut torqued on ground tc11:14](https://youtu.be/ca_cHOaBmsg?t=674)
 
+## Wheel Hub Order
 - [UPS Order Tracking order 2DUH23OCQGF](https://www.ups.com/track?loc=en_US&tracknum=1Z1Y11010308193259&requester=ST/trackdetails)
 - [Account at 1aauto](https://www.1aauto.com/account) - christrees-gmail and -yahoo
 
