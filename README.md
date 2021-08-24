@@ -119,3 +119,6 @@ Storm passed north of Winfield, and South of Cedar Falls.  No known farm damage 
     <li>July 10 - Saturn, while not as bright, will be easy to spot as it will be next to Jupiter throughout the entire night. The ringed planet will be reaching opposition about one week after Jupiter on Monday, July 20.</li>
   </ul>
 
+-->
+
+<hr/>
