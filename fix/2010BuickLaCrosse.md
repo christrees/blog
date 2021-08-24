@@ -4,7 +4,7 @@
 ## [1AAuto Wheel Hub Stuck](https://www.youtube.com/watch?v=JKcgXmX8oBo)
 
 
-<iframe src="https://www.youtube.com/watch?v=JKcgXmX8oBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/JKcgXmX8oBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [Wheel Bearing Removal Trick](https://www.youtube.com/watch?v=p9543-dMBRo)
 1. Bolt Press 1 [tc2:28](https://youtu.be/p9543-dMBRo?t=148)
