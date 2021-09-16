@@ -1,5 +1,28 @@
 # Repairs
 
+## Remove and Replace Drive Axile [Youtube Video](https://www.youtube.com/watch?v=-PC1iuPzk4w)
+1. Remove axle nut [tc0:50](https://youtu.be/-PC1iuPzk4w?t=50)
+2. Push drive axle through hub [tc1:43](https://youtu.be/-PC1iuPzk4w?t=103)
+3. Remove wheel speed sensor wire harness [tc2:04](https://youtu.be/-PC1iuPzk4w?t=124)
+4. Remove ball joint steering knuckle [tc2:15](https://youtu.be/-PC1iuPzk4w?t=135)
+5. Prepare to remove axle, oil may spill out of transmission [tc2:41](https://youtu.be/-PC1iuPzk4w?t=161)
+6. LEFT AXLE - Pry drive axle away from transmission [tc2:59](https://youtu.be/-PC1iuPzk4w?t=179)
+7. RIGHT AXLE - Pry away from intermediat shaft [tc3:07](https://youtu.be/-PC1iuPzk4w?t=187)
+8. Inspect oil seals replace if damaged
+9. Remove washer from outer spline for new axle [tc3:29](https://youtu.be/-PC1iuPzk4w?t=209)
+10. Install new retaining clip on inner axle [tc3:43](https://youtu.be/-PC1iuPzk4w?t=223)
+11. Lube oil seals [tc3:57](https://youtu.be/-PC1iuPzk4w?t=237)
+12. Make sure the opening of clip faces down when inserting inner spline into transmission [tc4:07](https://youtu.be/-PC1iuPzk4w?t=247)
+13. Lube outer spline and washer on hub spline [tc4:43](https://youtu.be/-PC1iuPzk4w?t=283)
+14. Insert ball joint back into steering knuckle [tc4:58](https://youtu.be/-PC1iuPzk4w?t=298)
+    - lst: Tighten to 37 ft-lb
+    - 2nd: Loosen 120 degrees
+    - 3rd: Tighten to 37 ft-lb
+    - 4th: Tighten additional 45 degrees
+15. Front Axle Nut - 2010-2017 FRONT [tc6:48](https://youtu.be/-PC1iuPzk4w?t=408)
+    - 1st: 111 ft-lbs/150 Nm. 
+    - 2nd: Loosen 45°. 
+    - 3rd: 185 ft-lbs/250 Nm.
 
 ## [1AAuto Wheel Hub Stuck](https://www.youtube.com/watch?v=JKcgXmX8oBo)
 
