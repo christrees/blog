@@ -37,3 +37,8 @@ This team is very small, you will be one of three devs, a PO and  UX person. The
 - [Open Education Software list](https://sites.google.com/site/cosiopeneducation/home/software)
 - [https://moodle.org/](https://moodle.org/)
 
+## [React JS review](whttps://www.youtube.com/watch?v=w7ejDZ8SWv8)
+- React, Angular, Vue
+- MVC the Model View Controller Pattern React is mainly the View
+- React components are resusable with their own state (Redux to manage state accross componets... or use context)
+- JSX - Dynamic markup using Virtual DOM
