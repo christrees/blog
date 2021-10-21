@@ -89,3 +89,8 @@
 - [Trade Bot Creation](./bot/)
 - [Trade Crypto Info](./crypto/)
 
+
+---
+## Notes
+- [bitcoin-price-flash-crashes-to-8200-on-binance-us-in-possible-trading-mishap](https://www.theblockcrypto.com/linked/121601/bitcoin-price-flash-crashes-to-8200-on-binance-us-in-possible-trading-mishap)
+- [NFT with Gameplay - For Brad](https://gaiaeliteclub.com/mint)
