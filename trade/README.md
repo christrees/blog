@@ -94,3 +94,4 @@
 ## Notes
 - [bitcoin-price-flash-crashes-to-8200-on-binance-us-in-possible-trading-mishap](https://www.theblockcrypto.com/linked/121601/bitcoin-price-flash-crashes-to-8200-on-binance-us-in-possible-trading-mishap)
 - [NFT with Gameplay - For Brad](https://gaiaeliteclub.com/mint)
+- [Boat Traffic - MarineTraffic.com](https://www.marinetraffic.com/en/ais/home/centerx:-91.0/centery:41.2/zoom:8)
