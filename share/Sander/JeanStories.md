@@ -1,0 +1,8 @@
+- [Jean's Chocolate Chip Cookies and Brian's cookie rage.]()
+- [Jean's Beef Wellington test for The Engineering Department Christmas Banquet.]()
+- [Jean's handmade scratch biskets using no measurements...  Boy, I LOVE those biskets!]()
+- [Jean telling the story of Nicky's "Best Christmas Ever"!]()
+- [Jean's story of Wendell jogging with her in his rubber boots.]()
+- [Jean's hug training.]()
+- [Daisy's stories of Jean growing up.]()
+- [Watching July 4th fireworks on the deck, and other gatherings with lots of extended family and great food so many times]()
