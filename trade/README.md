@@ -35,6 +35,7 @@
 - [Warrior Trading Website](https://secure.warriortrading.com/)
 - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
 - [Warrior Trading - Facebook](https://www.facebook.com/warriortrading/)
+- [Stock Markets with Bruce](https://www.youtube.com/channel/UCYNM_dInWi_glMZT3gxqxPQ/videos)
 
 
 #### SGBX trade
