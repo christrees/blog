@@ -1,6 +1,7 @@
 # Sander Photo Share
 
 - [Sander Share Album - Click here](https://photos.app.goo.gl/jQKs7bjwwTGeq6Av7)
+Jean's 82 Birthday.  Some photo's are with a 360 camera.
 
 ----
 
