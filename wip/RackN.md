@@ -1,6 +1,7 @@
 # RackN - Digital Rebar - Notes
 
 - [Rob Hirschfeld - Infrastructure Pipelines](https://www.alldaydevops.com/addo-speakers/rob-hirschfeld)
+- [using ctreesmsllc - https://whova.com/portal/webapp/modev_202110/Agenda/2018232](https://whova.com/portal/webapp/modev_202110/Agenda/2018232)l
 - [NVIDIA - Data Center Solutions](https://www.nvidia.com/en-us/data-center/)
 
 
