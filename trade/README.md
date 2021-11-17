@@ -30,14 +30,15 @@
 
 
 ### Reference
+- [Warrior Trading Website](https://secure.warriortrading.com/)
+  - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
+  - [Warrior Trading - Facebook](https://www.facebook.com/warriortrading/)
+- [Stock Markets with Bruce](https://www.youtube.com/channel/UCYNM_dInWi_glMZT3gxqxPQ/videos)
+- [Trader TV Live](https://www.youtube.com/c/TraderTVLive/featured)
 - [Drewby - Naive Trader](https://www.drewby.com/)
 - [Calculating-Position-Size-based-on-Risk-and-Stop-Loss](https://www.tradingview.com/chart/AAPL/RYt3MFpf-Calculating-Position-Size-based-on-Risk-and-Stop-Loss/)
-- [Warrior Trading Website](https://secure.warriortrading.com/)
-- [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
-- [Warrior Trading - Facebook](https://www.facebook.com/warriortrading/)
-- [Stock Markets with Bruce](https://www.youtube.com/channel/UCYNM_dInWi_glMZT3gxqxPQ/videos)
 
-
+<!--
 #### SGBX trade
 - [ChartMill - SGBX](https://www.chartmill.com/stock/quote/SGBX/technical-analysis?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking)
 - [ChartMill - SGBX - Tech](https://www.chartmill.com/stock/analyzer/stock/SGBX?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking&view=technical-analysis)
@@ -50,7 +51,9 @@
 - [SGBX 11-24-2020 - HighRisk - VAtrader youtube](https://youtu.be/JjkIZkiDCHQ?t=299)
 - [SGBX Seeking Alpha](https://seekingalpha.com/symbol/SGBX)
 - [SGBX FinViz](https://finviz.com/quote.ashx?t=SGBX)
+-->
 
+---
 ## Crypto 
 - [Binance](https://www.binance.com/en)
 - [Coinbase](https://www.coinbase.com/)
@@ -61,7 +64,7 @@
 - [Bitcoin Fear-Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
 - [The Bubble Board](https://thebubbleboard.com/)
 
-
+---
 ## Commodity
 - [Native Trader - new guy documenting his trading](https://www.drewby.com/)
 - [What is DeFi](https://www.coindesk.com/what-is-defi)
