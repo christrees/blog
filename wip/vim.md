@@ -1,29 +1,6 @@
-# VIM notes
+# Learn vim
 
-- Using [Visual Studio Code](https://code.visualstudio.com/)
-  - Vim emulation by vscodevim
-  - Learn Vim by vintharas
-- VSCode Settings
-  - Editor : Line Numbers -> realitive
-  - forgot the one that removes the mini overview render
-- See which shell you are using
-```
-(base) cat@cats-Mac-mini ~ % echo $0
-/bin/zsh
-```
-```
-(base) cats-Mac-mini:~ cat$ echo $0
-/bin/bash
-```
-- Trink inputrc in home dir
-```
-### .inputrc
-- set show-mode-in-prompt on
-- set vi-cmd-mode-string "\1\e[2 q\2"
-- set vi-ins-mode-string "\1\e[6 q\2"
-```
-
-### Movement
+## Movement
 
 - Character Line
     ```
@@ -62,3 +39,60 @@
   - `{line}gg` to go to a specific line.
   - `G` to go to the end of the file.
   - `%` jump to matching `({[]})`.
+
+## Operators
+
+You use **operators** in combination with **counts** and **motions** to define the range of text to which an action applies:
+
+```
+   what to do (delete, change...)
+      /
+     /      how many times
+    /         /
+   v         v
+{operator}{count}{motion}
+                    ^
+                   /
+                  /
+           where to perform
+             the action
+```
+
+- `d2w` to **d**elete **2** **w**ords.
+- `u` to undo
+- `<CTRL-R>` to redo
+
+---
+---
+
+## VIM Trink notes
+
+- Using [Visual Studio Code](https://code.visualstudio.com/)
+  - Vim emulation by vscodevim
+  - Learn Vim by vintharas
+- VSCode Settings
+  - Editor : Line Numbers -> realitive
+  - Editor : minimap -> false
+    ```
+    {
+        "editor.lineNumbers": "relative",
+        "editor.minimap.enabled": false,
+        "editor.minimap.renderCharacters": false
+    }
+    ```
+- See which shell you are using
+    ```
+    (base) cat@cats-Mac-mini ~ % echo $0
+    /bin/zsh
+    ```
+    ```
+    (base) cats-Mac-mini:~ cat$ echo $0
+    /bin/bash
+    ```
+- Trink inputrc in home dir
+    ```
+    ### .inputrc
+    - set show-mode-in-prompt on
+    - set vi-cmd-mode-string "\1\e[2 q\2"
+    - set vi-ins-mode-string "\1\e[6 q\2"
+    ```
