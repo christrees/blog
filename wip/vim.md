@@ -57,20 +57,20 @@ You use **operators** in combination with **counts** and **motions** to define t
            where to perform
              the action
 ```
-
-- `d2w` to **d**elete **2** **w**ords.
-- `u` to undo
-- `<CTRL-R>` to redo
+- Examples
+    - `d2w` to **d**elete **2** **w**ords.
+    - `u` to undo
+    - `<CTRL-R>` to redo
 
 ---
 ---
 
-## VIM Trink notes
+## VIM Trink config notes
 
 - Using [Visual Studio Code](https://code.visualstudio.com/)
   - Vim emulation by vscodevim
   - Learn Vim by vintharas
-- VSCode Settings
+- VSCode Settings /Users/cat/Library/Application Support/Code/User/settings.json
   - Editor : Line Numbers -> realitive
   - Editor : minimap -> false
     ```json
