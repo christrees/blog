@@ -1,6 +1,7 @@
 # Market Trading links
 
 - [Future Money](./futureMoney)
+- [TradingPsychology](./tradingPsychology)
 
 ## Stock
 - [E-Trade](http://etrade.com/)
