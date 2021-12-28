@@ -12,6 +12,23 @@ Simple blog... a CATaLOG
 
   <hr/><hr/>
 
+## [2021.12.24 Klopfenstein Christmas](https://photos.app.goo.gl/aXh977Zr6duQZBHz6) "Carol" and "ChrisT"mus Trees
+
+### Christmas Carol
+![Christmas Carol](https://lh3.googleusercontent.com/pw/AM-JKLXgz-KHwiZLIhZvsfdLg4Y2TSDZTN0xKNcFFnN0KZ-1eWXfIPNq6_tnWQXpaBjasFTNAYnzxx8K7tRi6OVu93O3Jq9-sxusQ7aJGnx_f4KmpcMQMs1KpU84YteevPEBbjA3swj7kPKk_6RKzxQJ5DLO=w1107-h830-no?authuser=0)
+
+### Grandpa Fred Plywood Christmas Tree
+![Fred Christmas Tree](https://lh3.googleusercontent.com/pw/AM-JKLVSRGwIQRcMOouiON_zhT9o1KrlcxDjgNQrYp8o7VPLTTXrxc10XeCChA_OGXMYDTV_wnT9ZI7qKsYgbNup-0zh0ei3UzzGCp2pRrK5PpfrQzxDnRsluQvQSUUCuzPoJjic7e8io__M3i1NxLkOpjGx=w623-h830-no?authuser=0)
+
+---
+[Photo Link to Klopfenstein Christmas 2021](https://photos.app.goo.gl/aXh977Zr6duQZBHz6)
+---
+
+## 2021.12.12 Craig elf The Musical Outing
+Click here for pictures [https://photos.app.goo.gl/fBo7FrkvUNz3Zn7D7](https://photos.app.goo.gl/fBo7FrkvUNz3Zn7D7)
+
+![Craig elf](https://lh3.googleusercontent.com/pw/AM-JKLUSvguMyOnwUubhTMqylkyxbCNeYJkIEibtGoqHo3Sw9w2INH6A_oa0JhZ7LkDvobt9JjWsJSLUiKC6dgLT7feD7vkAd3zF1tNsrEfH1ujCn3E3s0ZbP768iqoiAs6WQZbpuTh-3Dm_Z0KKflEgWh4j=w1107-h830-no?authuser=0)
+
 ## 2021.08.21 Craig Ball Park Outing
 Click here for pictures [https://photos.app.goo.gl/DFwnv9LcB32nVnE79](https://photos.app.goo.gl/DFwnv9LcB32nVnE79)
 Andi's adoptive family "The Craig's" had a baseball outing with the [Cedar Rapids Kernels](https://www.milb.com/cedar-rapids).  Andi fielded a foul ball!  Great time, food, and people to spend a saturday evening with FIREWORKS!!
