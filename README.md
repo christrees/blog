@@ -1,16 +1,3 @@
-# blog.christrees.com
-[Back to christrees.com](http://christrees.com)
-
-Simple blog... a CATaLOG
-
-<hr/><hr/>
-  
-## Chris Trees 
-  - [Github - christrees](https://github.com/christrees) Github for a geek.
-  - [Linkedin - christrees](https://linkedin.com/in/christrees) Linkedin Profile for those types.
-  - [Resume PDF - christrees](https://christrees.com/docs/resume_christrees.pdf) Chris Trees - Resume PDF for HR.
-
-  <hr/><hr/>
 
 ## [2022.01.01 New Year Donut Day](https://photos.app.goo.gl/6BFqK9CZsu2TtYAR6)
 
@@ -46,6 +33,15 @@ Andi's adoptive family "The Craig's" had a baseball outing with the [Cedar Rapid
 
 [Photo Link - https://photos.app.goo.gl/tZs38YK87F8Fahb3A](https://photos.app.goo.gl/tZs38YK87F8Fahb3A)
 
+---
+---
+
+## Chris Trees 
+  - [Github - christrees](https://github.com/christrees) Github for a geek.
+  - [Linkedin - christrees](https://linkedin.com/in/christrees) Linkedin Profile for those types.
+  - [Resume PDF - christrees](https://christrees.com/docs/resume_christrees.pdf) Chris Trees - Resume PDF for HR.
+
+  <hr/><hr/>
 <!--
 
 ## 2021.06.19 Fix'n it for Ken
