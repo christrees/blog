@@ -12,6 +12,15 @@ Simple blog... a CATaLOG
 
   <hr/><hr/>
 
+## [2022.01.01 New Year Donut Day](https://photos.app.goo.gl/6BFqK9CZsu2TtYAR6)
+
+![Carol Patti Carla](https://lh3.googleusercontent.com/pw/AM-JKLXug8GXmoMiGqRi0BF9oW_f3TkqRFh7CK0_vBjBri5-9hcuKI8IA0UJo9eMJdMVHl4wICoKw1TgMc0hfrwCyu_nXxXxTGglvKU_FJoJpZav52Zfsy6Pm4aD3JW030EJwQd4lS2JRfBhZQXTv6eJquL2=w827-h620-no?authuser=0)
+![Fredandgirls](https://lh3.googleusercontent.com/pw/AM-JKLUBmSOzTJz0ECOOfRJrro5J__sXBBRiwD5bHGCero0yFPBurYm1lXs3N1YzkjXOCnJ5tfA8mTjwhB_47YF57fQDP_OJF_H0nEbrH5z9vdx024PEmVaUqeNXDYz5jLdzi8wbGGi-dBJxn_eJQeUeX5ik=w827-h620-no?authuser=0)
+![Fredandguys](https://lh3.googleusercontent.com/pw/AM-JKLUIlaBWoOVtlr2NQUoi7SaHZ_NBbCrnCfQIFzxH_B6X7LxOIk9xRWefQv-d8UgslP-lTlebaM90PUlG7KVxyHF_pM0Gn1PO1MfQxDDGB4ON_2R8wCzkT9BmT-rF55LMrLEbvd_jJhROrzyxZRuKds-c=w827-h620-no?authuser=0)
+![group](https://lh3.googleusercontent.com/pw/AM-JKLWV8F3xkogXXT0hDWFL7gHkbCZq9p3Ej8zEZ6MMb3Ym2uWX4FhnyyOD9NvE3MqSvG-LsRpAIG0RNA9ZAL9xx1Afqd6ojHXvVUHfExu6TYu93Vecp1K0EhBlEYQ5gMCOfuaCZlxc2G0bN9cfD6j1l52Z=w827-h620-no?authuser=0)
+
+[Click here for more New Year Donut Day photos](https://photos.app.goo.gl/6BFqK9CZsu2TtYAR6)
+
 ## [2021.12.24 Klopfenstein Christmas](https://photos.app.goo.gl/aXh977Zr6duQZBHz6) "Carol" and "ChrisT"mus Trees
 
 ### Christmas Carol
