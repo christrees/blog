@@ -1,3 +1,4 @@
+[2022.01.09 Notes](/wip/README20220109.md)
 
 ## [2022.01.01 New Year Donut Day](https://photos.app.goo.gl/6BFqK9CZsu2TtYAR6)
 
