@@ -1,5 +1,18 @@
 Plex and Silicondust
 
+- [https://www.silicondust.com/](https://www.silicondust.com/)
+- [HDHomeRun Developer Documentation](https://github.com/Silicondust/documentation/wiki)
+- [Silicondust Form](https://forum.silicondust.com/forum/search.php)
+- [tbd]()
+- [tbd]()
+- [tbd]()
+
+- [https://www.plex.tv/](https://www.plex.tv/)
+- [https://developers.plex.com/](https://developers.plex.com/)
+- [tbd]()
+- [tbd]()
+- [tbd]()
+
 - [ng.cfu.net - 854G-1 - http://192.168.6.1/](http://192.168.6.1/)
 - [ng.cf.lan - ASUS RT-AC87U - http://192.168.2.1/](http://192.168.2.1/)
 - [plex global - https://www.plex.tv/](https://www.plex.tv/)
