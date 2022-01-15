@@ -1,5 +1,16 @@
 Plex and Silicondust
 
+- [ng.cfu.net - 854G-1 - http://192.168.6.1/](http://192.168.6.1/)
+- [ng.cf.lan - ASUS RT-AC87U - http://192.168.2.1/](http://192.168.2.1/)
+- [plex global - https://www.plex.tv/](https://www.plex.tv/)
+- [plex on local - http://127.0.0.1:32400/](http://127.0.0.1:32400/)
+- [plex on catmini - http://192.168.2.35:32400/](http://192.168.2.35:32400/)
+- [HDHomeRun Connect 4K Dev - Tuner - http://192.168.2.31/](http://192.168.2.31/)
+- [HDHomeRun Connect 4K - Tuner - http://192.168.2.87/](http://192.168.2.87/)
+- [HDHomeRun SERVIO - DVR Storage - http://192.168.2.29/](http://192.168.2.29/)
+- [tbd](tbd)
+
+
 ![cfuux](plex_cfu_ux.png)
 ![cfucfg](plex_cfu_config.png)
 
