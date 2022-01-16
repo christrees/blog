@@ -19,8 +19,14 @@ Plex and Silicondust
 - [plex on local - http://127.0.0.1:32400/](http://127.0.0.1:32400/)
 - [plex on catmini - http://192.168.2.35:32400/](http://192.168.2.35:32400/)
 - [HDHomeRun Connect 4K Dev - Tuner - http://192.168.2.31/](http://192.168.2.31/)
+  - [http://192.168.2.31/discover.json](http://192.168.2.31/discover.json)
+  - [http://192.168.2.31/lineup.json](http://192.168.2.31/lineup.json)
+  - [https://api.hdhomerun.com/api/xmltv?DeviceAuth=EB0wFJ8-Bct5BY-ZS8mF5XRO](https://api.hdhomerun.com/api/xmltv?DeviceAuth=EB0wFJ8-Bct5BY-ZS8mF5XRO)
+
 - [HDHomeRun Connect 4K - Tuner - http://192.168.2.87/](http://192.168.2.87/)
 - [HDHomeRun SERVIO - DVR Storage - http://192.168.2.29/](http://192.168.2.29/)
+  - [http://192.168.2.29/recorded_files.json](http://192.168.2.29/recorded_files.json)
+  - [Forum - Storage space file usage API](https://forum.silicondust.com/forum/viewtopic.php?p=379950&hilit=lineup.json#p379950)
 - [tbd](tbd)
 
 
