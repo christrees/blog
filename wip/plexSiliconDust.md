@@ -3,7 +3,7 @@ Plex and Silicondust
 - [https://www.silicondust.com/](https://www.silicondust.com/)
 - [HDHomeRun Developer Documentation](https://github.com/Silicondust/documentation/wiki)
 - [Silicondust Form](https://forum.silicondust.com/forum/search.php)
-- [tbd]()
+- [https://info.hdhomerun.com/info/dvr_api](https://info.hdhomerun.com/info/dvr_api)
 - [tbd]()
 - [tbd]()
 
