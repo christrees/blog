@@ -1,6 +1,6 @@
 # Work In Progress
 
-- [Notes on plexSiliconDust.md](plexSiliconDust.md)
+- [Notes on plexSiliconDust.md](../fix/media/plexSiliconDust.md)
 - [Grasshorse TrueNAS Cleanup - http://gh.2cld.net/docs/](http://gh.2cld.net/docs/)
     - [Grasshorse Network Overview - http://gh.2cld.net/docs/pfsense/ghlanOverviewDetail](http://gh.2cld.net/docs/pfsense/ghlanOverviewDetail)
     - [Grasshorse pfSense Configuration - http://gh.2cld.net/docs/pfsense/](http://gh.2cld.net/docs/pfsense/)
