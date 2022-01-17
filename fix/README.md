@@ -1,4 +1,13 @@
 # Fixing stuff
+- [media](./media/)
+  - [media/plexSiliconDust](./media/plexSiliconDust/)
+  - [media/PLEX](./media/PLEX/)
+
+- [basement](./basement/)
+- [solar](./solar/)
+
+- [ahouse](./ahouse/)
+  - [ahouse/electrical](./ahouse/electrical/)
 
 ## Reference
 - [HP Envy 6 Ultrabook](./HPEnvy6Ultrabook/)
