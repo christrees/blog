@@ -1,7 +1,7 @@
 # Fixing stuff
 - [media](./media/)
-  - [media/plexSiliconDust](./media/plexSiliconDust.md/)
-  - [media/PLEX](./media/PLEX.md/)
+  - [media/plexSiliconDust](./media/plexSiliconDust.md)
+  - [media/PLEX](./media/PLEX.md)
 
 - [basement](./basement/)
 - [solar](./solar/)
