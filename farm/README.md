@@ -16,7 +16,9 @@
 - [Bunge Meekers Landing](https://www.bungeservices.com/irj/portal/anonymous?NavigationTarget=navurl://ecaba8d422883e7dbde99a395f51fb0c#Corn)
 
 ## Market Data
-- [US Crop Insurance agriculture.com](https://www.agriculture.com/markets/newswire/us-crop-insurance-price-guarantees-point-to-higher-soy-corn-acres)
+- [farmdoc University of Illinois - youtube](https://www.youtube.com/user/farmdocvideo/videos)
+    - [2022 - Grain Market Outlook](https://www.youtube.com/watch?v=xSba_pF5sQ8)
+- [2021 US Crop Insurance agriculture.com](https://www.agriculture.com/markets/newswire/us-crop-insurance-price-guarantees-point-to-higher-soy-corn-acres)
     - Corn 2021 floor price: $  4.58
     - Bean 2021 floor price: $ 11.87
 - [Standard Grain Marketing](https://www.standardgrain.com/grain-marketing-plan/)
