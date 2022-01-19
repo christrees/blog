@@ -9,10 +9,13 @@ Plex and Silicondust
 
 - [https://www.plex.tv/](https://www.plex.tv/)
 - [https://developers.plex.com/](https://developers.plex.com/)
-- [tbd]()
+- [HDHomeRun Development Guide - pdf](https://www.silicondust.com/hdhomerun/hdhomerun_development.pdf)
+- [Plex DVR - There was a transcode error](https://www.reddit.com/r/PleX/comments/6j9g4t/plex_dvr_there_was_a_transcode_error/)
+- [Recording using HTTP download - HDHomeRun Prime](https://forum.silicondust.com/forum/viewtopic.php?t=13625&start=30)
 - [tbd]()
 - [tbd]()
 
+## Local DVR Network
 - [ng.cfu.net - 854G-1 - http://192.168.6.1/](http://192.168.6.1/)
 - [ng.cf.lan - ASUS RT-AC87U - http://192.168.2.1/](http://192.168.2.1/)
 - [plex global - https://www.plex.tv/](https://www.plex.tv/)
