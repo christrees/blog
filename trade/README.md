@@ -1,20 +1,13 @@
 # Market Trading links
 
-- [Future Money](./futureMoney)
-- [Trade Psychology](./tradePsychology)
-
-## Stock
-- [E-Trade](http://etrade.com/)
-- [TDAmeritrade](https://www.tdameritrade.com/)
-- [TradingView](https://www.tradingview.com/)
-
 ### Stock Daily Info
 - [Barchart - Unusual Activity](https://www.barchart.com/options/unusual-activity/stocks)
 - [Nasdaq - Current Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)
 - [FinVix - Short Interest and other things](https://finviz.com)
-- [Trade Ideas Live Stock Scanner](https://www.youtube.com/c/KelevraTrading/videos)
+- [Trader TV Live](https://www.youtube.com/c/TraderTVLive/featured)
 - [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
 - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
+- [Trade Ideas Live Stock Scanner](https://www.youtube.com/c/KelevraTrading/videos)
 - [StockTwits - social media](https://stocktwits.com/)
 
 ### Overview Charts
@@ -29,6 +22,13 @@
 - [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
 - [Trade Pro - Youtube - Trade Algos](https://www.youtube.com/channel/UCrXjzUN6EtlyhaaAerbPfkQ/videos)
 
+- [Future Money](./futureMoney)
+- [Trade Psychology](./tradePsychology)
+
+## Stock
+- [E-Trade](http://etrade.com/)
+- [TDAmeritrade](https://www.tdameritrade.com/)
+- [TradingView](https://www.tradingview.com/)
 
 ### Reference
 - [Warrior Trading Website](https://secure.warriortrading.com/)
