@@ -17,6 +17,7 @@
 - [TLT - Bonds stockcharts](https://stockcharts.com/h-sc/ui?s=tlt)
 - [UST10Y - stockcharts](https://stockcharts.com/h-sc/ui?s=$UST10Y)
 - [Fed Total Assets](https://fred.stlouisfed.org/series/WALCL)
+- [Fed Rate Monitor](https://www.investing.com/central-banks/fed-rate-monitor)
 
 ## Algos
 - [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
