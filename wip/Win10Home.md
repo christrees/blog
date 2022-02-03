@@ -20,3 +20,8 @@ Windows 10 Home Virtual Machine
     - Click the Devices menu and select the Insert Guest Additions CD image option.
     - Double-click the VBoxWindowsAdditions.exe file to launch the installer.
 
+- win10pro
+- Chris - my*****
+- lovie
+- peru
+- peru
