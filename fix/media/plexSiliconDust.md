@@ -15,8 +15,16 @@ Plex and Silicondust
 - [tbd]()
 - [tbd]()
 
-## Local DVR Network
+## Local DVR Network [http://24.149.23.184/](http://24.149.23.184/)
 - [ng.cfu.net - 854G-1 - http://192.168.6.1/](http://192.168.6.1/)
+  - [devices on 192.168.6.0/24](http://192.168.6.1/#/html/status/status_devicetable.html)
+  - [LAN port status](http://192.168.6.1/#/html/status/status_lanstatus_ipv6.html)
+  - [NAT Table status](http://192.168.6.1/#/html/status/status_nattable.html)
+  - [DMZ Host](http://192.168.6.1/#/html/advanced/security/advanced_security_dmzhosting.html)
+  - [FireWall Filters](http://192.168.6.1/#/html/advanced/security/advanced_security_firewallsettings.html)
+  - [PortForward](http://192.168.6.1/#/html/advanced/security/advanced_security_advancedportforwarding.html)
+  - [tbd]()
+  - [tbd]()
 - [ng.cf.lan - ASUS RT-AC87U - http://192.168.2.1/](http://192.168.2.1/)
 - [plex global - https://www.plex.tv/](https://www.plex.tv/)
 - [plex on local - http://127.0.0.1:32400/](http://127.0.0.1:32400/)
