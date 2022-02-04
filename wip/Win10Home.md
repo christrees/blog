@@ -25,3 +25,8 @@ Windows 10 Home Virtual Machine
 - lovie
 - peru
 - peru
+
+Notes
+- [install-microsoft-windows-11-on-virtualbox](https://blogs.oracle.com/virtualization/post/install-microsoft-windows-11-on-virtualbox)
+- [Wine on Mac](https://wiki.winehq.org/MacOS)
+- [MacBook Pro screen issues](https://mediawiki.middlebury.edu/CS/Common_VirtualBox_Issues)
