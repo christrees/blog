@@ -42,6 +42,8 @@ Plex and Silicondust
   - [Forum - Storage space file usage API](https://forum.silicondust.com/forum/viewtopic.php?p=379950&hilit=lineup.json#p379950)
 - [tbd](tbd)
 
+- Plex on admin2cld-win10
+![plexCPUadmin2cld](plexCPUadmin2cld.png)
 
 ![cfuux](plex_cfu_ux.png)
 ![cfucfg](plex_cfu_config.png)
@@ -61,6 +63,12 @@ Plex and Silicondust
 ## [LON.tv - youtube silicondust guy](https://www.youtube.com/user/LonSeidman/videos)
 - [https://shop.silicondust.com/shop/](https://shop.silicondust.com/shop/)
 - [How to Customize and Adjust the Plex Interface on Televisions](https://youtu.be/DKvRXSCpWVE?list=RDCMUCymYq4Piq0BrhnM18aQzTlg)
+
+- [plex server delete and reclaim](https://support.plex.tv/articles/204281528-why-am-i-locked-out-of-server-settings-and-how-do-i-get-in/)
+- [tbd]()
+- [tbd]()
+- [tbd]()
+
 
 ## Video Arch
 - [ThriftyAV - Capture Cards](https://www.youtube.com/c/ThriftyAV/videos)
