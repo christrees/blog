@@ -1,5 +1,6 @@
 Plex and Silicondust
 
+## Silicondust
 - [https://www.silicondust.com/](https://www.silicondust.com/)
 - [HDHomeRun Developer Documentation](https://github.com/Silicondust/documentation/wiki)
 - [Silicondust Form](https://forum.silicondust.com/forum/search.php)
@@ -7,6 +8,7 @@ Plex and Silicondust
 - [tbd]()
 - [tbd]()
 
+## Plex
 - [https://www.plex.tv/](https://www.plex.tv/)
 - [https://developers.plex.com/](https://developers.plex.com/)
 - [HDHomeRun Development Guide - pdf](https://www.silicondust.com/hdhomerun/hdhomerun_development.pdf)
@@ -15,7 +17,7 @@ Plex and Silicondust
 - [tbd]()
 - [tbd]()
 
-## Local DVR Network [http://24.149.23.184/](http://24.149.23.184/)
+## DVR Network Current [http://24.149.23.184/](http://24.149.23.184/)
 - [ng.cfu.net - 854G-1 - http://192.168.6.1/](http://192.168.6.1/)
   - [devices on 192.168.6.0/24](http://192.168.6.1/#/html/status/status_devicetable.html)
   - [LAN port status](http://192.168.6.1/#/html/status/status_lanstatus_ipv6.html)
@@ -26,6 +28,12 @@ Plex and Silicondust
   - [tbd]()
   - [tbd]()
 - [ng.cf.lan - ASUS RT-AC87U - http://192.168.2.1/](http://192.168.2.1/)
+  - [Port Forward](http://192.168.2.1/Advanced_VirtualServer_Content.asp)
+  - [Port Trigger](http://192.168.2.1/Advanced_PortTrigger_Content.asp)
+  - [DMZ](http://192.168.2.1/Advanced_Exposed_Content.asp)
+  - [DHCP](http://192.168.2.1/Advanced_DHCP_Content.asp)
+  - [tbd]()
+  - [tbd]()
 - [plex global - https://www.plex.tv/](https://www.plex.tv/)
 - [plex on local - http://127.0.0.1:32400/](http://127.0.0.1:32400/)
 - [plex on catmini - http://192.168.2.35:32400/](http://192.168.2.35:32400/)
@@ -40,10 +48,17 @@ Plex and Silicondust
 - [HDHomeRun SERVIO - DVR Storage - http://192.168.2.29/](http://192.168.2.29/)
   - [http://192.168.2.29/recorded_files.json](http://192.168.2.29/recorded_files.json)
   - [Forum - Storage space file usage API](https://forum.silicondust.com/forum/viewtopic.php?p=379950&hilit=lineup.json#p379950)
-- [tbd](tbd)
+
+---
 
 - Plex on admin2cld-win10
+- [hardware-requirements-for-running-a-plex-media-server-with-transcoding](https://www.servermania.com/kb/articles/what-are-the-hardware-requirements-for-running-a-plex-media-server-with-transcoding/)
+
 ![plexCPUadmin2cld](plexCPUadmin2cld.png)
+
+---
+
+- Configure tuner guide mapping through plex
 
 ![cfuux](plex_cfu_ux.png)
 ![cfucfg](plex_cfu_config.png)
