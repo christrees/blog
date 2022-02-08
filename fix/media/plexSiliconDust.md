@@ -10,6 +10,7 @@ Plex and Silicondust
 
 ## Plex
 - [https://www.plex.tv/](https://www.plex.tv/)
+- [plexopedia disable-video-transcoding](https://www.plexopedia.com/plex-media-server/general/disable-video-transcoding/)
 - [https://developers.plex.com/](https://developers.plex.com/)
 - [HDHomeRun Development Guide - pdf](https://www.silicondust.com/hdhomerun/hdhomerun_development.pdf)
 - [Plex DVR - There was a transcode error](https://www.reddit.com/r/PleX/comments/6j9g4t/plex_dvr_there_was_a_transcode_error/)
