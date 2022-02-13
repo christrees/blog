@@ -16,6 +16,11 @@
     - tbd
 - tbd
 
+## Starlink
+- [https://starlink.sx/](https://starlink.sx/)
+- [https://satellitemap.space/](https://satellitemap.space/)
+- [Starlink Faster More Reliable And Lower Latency](https://www.youtube.com/watch?v=yh_buWaciOw)
+
 ## Antenna
 - [Clearstream outdoor](https://www.amazon.com/ClearStream-Indoor-Outdoor-Antenna-Mount/dp/B00SVNKT86)
 - [ANTOP AT-500BV](https://www.amazon.com/ANTOP-AT-400BV-Smartpass-Amplifier-Enhanced/dp/B07Z3KYCVD)
