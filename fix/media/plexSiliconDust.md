@@ -18,6 +18,16 @@ Plex and Silicondust
 - [tbd]()
 - [tbd]()
 
+## Plex channel mapping for HDHomerun
+- [how_to_fix_missing_channels_in_the_dvr](https://www.reddit.com/r/PleX/comments/7lr0fi/how_to_fix_missing_channels_in_the_dvr/)
+  - Find com.plexapp.plugins.library.db in C:\Users\account\AppData\Local\Plex Media Servers\Plug-in Support\Databases
+  - Open table media_providers_resources on the row with identifier tv.plex.grabbers.tunerservice find the data column
+  - [tv.plex.grabbers.tunerservice data column](https://pastebin.com/FyZDqkCv)
+  - [XML blob change for tv.plex.grabbers.tunerservice](https://pastebin.com/Yw7kKGzK)
+- [Channels not showing up on tuner scan](https://forums.plex.tv/t/bug-report-with-solution-channels-not-showing-up-with-wintv-dualhd/210416/10)
+- [plex-dvr-unencrypted-channels-showing-as-protected](https://forums.plex.tv/t/plex-dvr-unencrypted-channels-showing-as-protected/199854)
+
+
 ## DVR Network Current [http://24.149.23.184/](http://24.149.23.184/)
 - [ng.cfu.net - 854G-1 - http://192.168.6.1/](http://192.168.6.1/)
   - [devices on 192.168.6.0/24](http://192.168.6.1/#/html/status/status_devicetable.html)
