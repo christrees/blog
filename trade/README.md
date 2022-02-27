@@ -11,6 +11,8 @@
 - [StockTwits - social media](https://stocktwits.com/)
 
 ### Overview Charts
+- [Tradning View - Charts Watchlists - https://www.tradingview.com/](https://www.tradingview.com/)
+- [Sector Oveviews https://tradingterminal.com/](https://tradingterminal.com/)
 - [Overview - finviz](https://finviz.com/)
 - [Sectors - stockcharts](https://stockcharts.com/freecharts/candleglance.html?[SECT])
 - [Premarkets - cnbc](https://www.cnbc.com/pre-markets/)
