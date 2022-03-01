@@ -18,6 +18,9 @@
 ## Market Data
 - [farmdoc University of Illinois - youtube](https://www.youtube.com/user/farmdocvideo/videos)
     - [2022 - Grain Market Outlook](https://www.youtube.com/watch?v=xSba_pF5sQ8)
+- [2022 US Crop Insurance agriculture.com](https://www.agriculture.com/markets)
+    - Corn 2022 floor price: $  5.90
+    - Bean 2022 floor price: $ 14.33
 - [2021 US Crop Insurance agriculture.com](https://www.agriculture.com/markets/newswire/us-crop-insurance-price-guarantees-point-to-higher-soy-corn-acres)
     - Corn 2021 floor price: $  4.58
     - Bean 2021 floor price: $ 11.87
