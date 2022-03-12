@@ -45,10 +45,16 @@ Plex and Silicondust
   - [DHCP](http://192.168.2.1/Advanced_DHCP_Content.asp)
   - [tbd]()
   - [tbd]()
+- [sg.cf.lan - TrueNAS Scale - http://192.168.2.2/](http://192.168.2.2/) root What#Time
+  - SMB Share - cfplex - smb://nsadmin@192.168.2.2
+  - [tbd]()
+  - [tbd]()
+  - [tbd]()
 - [plex global - https://www.plex.tv/](https://www.plex.tv/)
 - [plex on local - http://127.0.0.1:32400/](http://127.0.0.1:32400/)
 - [plex on catmini - http://192.168.2.35:32400/](http://192.168.2.35:32400/)
 - [plex on admin2cld-win10 - http://192.168.6.15:32400/](http://192.168.6.15:32400/)
+  - SMB Share - smb://ghadmin@192.168.6.15
 - [HDHomeRun Connect 4K Dev - Tuner - http://192.168.2.31/](http://192.168.2.31/)
   - [http://192.168.2.31/discover.json](http://192.168.2.31/discover.json)
   - [http://192.168.2.31/lineup.json](http://192.168.2.31/lineup.json)
