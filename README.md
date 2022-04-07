@@ -1,4 +1,3 @@
-[2022.01.09 Notes](/wip/README20220109.md)
 
 ## [2022.04.07 Happy Birthday Anne](https://photos.app.goo.gl/7vh2xduseX7qW6zz9)
 
@@ -52,6 +51,8 @@ Andi's adoptive family "The Craig's" had a baseball outing with the [Cedar Rapid
 
   <hr/><hr/>
 <!--
+
+[2022.01.09 Notes](/wip/README20220109.md)
 
 ## 2021.06.19 Fix'n it for Ken
 Click here for link - [http://blog.christrees.com/fix/B&0/](http://blog.christrees.com/fix/B&0/)
