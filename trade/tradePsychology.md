@@ -5,3 +5,8 @@
 - [The Three Minute Trading Coach - youtube](https://www.youtube.com/playlist?list=PL4Xc9uwUmmqShzbxH8epZGVIUHmuKX7Ha)
 - [http://traderfeed.blogspot.com/](http://traderfeed.blogspot.com/)
 - [tbd]()
+
+
+---
+
+[I quit my job to day trade for a year](https://www.youtube.com/watch?v=Z_BbbbzF5Mg)
