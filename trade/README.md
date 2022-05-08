@@ -1,11 +1,12 @@
 # Market Trading links
 
 ### Stock Daily Info
+- [Trader TV Live](https://www.youtube.com/c/TraderTVLive/featured)
+- [Trader TV Shawn Twitter](https://twitter.com/tradertvshawn)
+- [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
 - [Barchart - Unusual Activity](https://www.barchart.com/options/unusual-activity/stocks)
 - [Nasdaq - Current Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)
 - [FinVix - Short Interest and other things](https://finviz.com)
-- [Trader TV Live](https://www.youtube.com/c/TraderTVLive/featured)
-- [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
 - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
 - [Trade Ideas Live Stock Scanner](https://www.youtube.com/c/KelevraTrading/videos)
 - [StockTwits - social media](https://stocktwits.com/)
