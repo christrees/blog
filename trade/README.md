@@ -25,6 +25,7 @@
 ## Algos
 - [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
 - [Trade Pro - Youtube - Trade Algos](https://www.youtube.com/channel/UCrXjzUN6EtlyhaaAerbPfkQ/videos)
+- [Testing Algos](https://www.youtube.com/watch?v=mfjrkm4YRwE)
 
 - [Future Money](./futureMoney)
 - [Trade Psychology](./tradePsychology)
