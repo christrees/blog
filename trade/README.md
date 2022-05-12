@@ -36,6 +36,7 @@
 - [TradingView](https://www.tradingview.com/)
 
 ### Reference
+- [Game of Trades - Market Overviews](https://www.youtube.com/c/GameofTrades/videos)
 - [Warrior Trading Website](https://secure.warriortrading.com/)
   - [Warrior Trading - Youtube](https://www.youtube.com/channel/UCBayuhgYpKNbhJxfExYkPfA)
   - [Warrior Trading - Facebook](https://www.facebook.com/warriortrading/)
