@@ -79,6 +79,7 @@
 - [USDA Hedging Futures for Farmers](https://www.ers.usda.gov/webdocs/publications/40946/51066_aer774h.pdf?v=0)
 
 ## Community
+- [Daily Crypto Analysis](https://www.youtube.com/channel/UC_bG7yHgT_xOUKvI2Hvo6Vg)
 - [VoskCoin - youtube](https://www.youtube.com/c/VoskCoin/videos)
 - [crypto 1 - EllioTrades Crypto - youtube](https://www.youtube.com/c/FUDTV/videos)
 - [crypto 2 - TylerS - youtube](https://www.youtube.com/channel/UCgBQ6YsN4oUTjbAvIwCFLog/videos)
