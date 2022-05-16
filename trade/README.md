@@ -26,6 +26,8 @@
 - [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
 - [Trade Pro - Youtube - Trade Algos](https://www.youtube.com/channel/UCrXjzUN6EtlyhaaAerbPfkQ/videos)
 - [Testing Algos](https://www.youtube.com/watch?v=mfjrkm4YRwE)
+- [https://www.forexfury.com/](https://www.forexfury.com/) - [youtube](https://www.youtube.com/watch?v=oa0hjTxM1CE)
+- [Pionex Crypto Trading Bot | My Results & Step By Step Tutorial 2022](https://www.youtube.com/watch?v=SWVKSHt5-Y8)
 
 - [Future Money](./futureMoney)
 - [Trade Psychology](./tradePsychology)
