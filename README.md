@@ -66,6 +66,9 @@ Andi's adoptive family "The Craig's" had a baseball outing with the [Cedar Rapid
   - [Resume PDF - christrees](https://christrees.com/docs/resume_christrees.pdf) Chris Trees - Resume PDF for HR.
 
   <hr/><hr/>
+  
+Just a commit to figure out why updates in CND are not working
+
 <!--
 
 [2022.01.09 Notes](/wip/README20220109.md)
@@ -173,5 +176,3 @@ Storm passed north of Winfield, and South of Cedar Falls.  No known farm damage 
 <hr/>
 
 
-    
-    - Just a commit to figure out why updates in CND are not working
