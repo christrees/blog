@@ -148,6 +148,7 @@ Storm passed north of Winfield, and South of Cedar Falls.  No known farm damage 
     <li><a target="_blank" href="https://www.youtube.com/watch?v=Bfy4nmpf5Jg">Cedar Rapids</a></li>
     <li><a target="_blank" href="https://www.youtube.com/watch?v=V4YY9YMaQOU">Clinton</a></li>
     <li><a target="_blank" href="https://www.youtube.com/watch?v=qZKxxlFGIDc">Madrid</a></li>
+    
   </ol>
   
   <hr/><hr/>
@@ -170,3 +171,7 @@ Storm passed north of Winfield, and South of Cedar Falls.  No known farm damage 
 -->
 
 <hr/>
+
+
+    
+    - Just a commit to figure out why updates in CND are not working
