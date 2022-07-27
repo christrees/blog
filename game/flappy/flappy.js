@@ -115,8 +115,8 @@ const bird = {
     radius : 12,
     frame : 0,
     
-    gravity : 0.05,
-    jump : 1.6,
+    gravity : 0.01,
+    jump : 1.9,
     speed : 0,
     rotation : 0,
     
@@ -206,7 +206,7 @@ const pipes = {
     bottom:{ sX : 502, sY : 0 },
     w : 53,
     h : 400,
-    gap : 115,
+    gap : 135,
     maxYPos : -150,
     dx : 2,
     
