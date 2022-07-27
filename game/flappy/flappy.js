@@ -206,7 +206,7 @@ const pipes = {
     bottom:{ sX : 502, sY : 0 },
     w : 53,
     h : 400,
-    gap : 85,
+    gap : 115,
     maxYPos : -150,
     dx : 2,
     
