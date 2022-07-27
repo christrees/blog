@@ -9,15 +9,15 @@ const sprite = new Image();
 sprite.src = "images/sprite.png";
 // LOAD SOUNDS
 const SCORE_S = new Audio();
-SCORE_S.src = "sounds/sfx_point.wav";
+SCORE_S.src = "sounds/audio_sfx_point.wav";
 const FLAP = new Audio();
-FLAP.src = "sounds/sfx_flap.wav";
+FLAP.src = "sounds/audio_sfx_flap.wav";
 const HIT = new Audio();
-HIT.src = "sounds/sfx_hit.wav";
+HIT.src = "sounds/audio_sfx_hit.wav";
 const SWOOSHING = new Audio();
-SWOOSHING.src = "sounds/sfx_swooshing.wav";
+SWOOSHING.src = "sounds/audio_sfx_swooshing.wav";
 const DIE = new Audio();
-DIE.src = "sounds/sfx_die.wav";
+DIE.src = "sounds/audio_sfx_die.wav";
 
 // GAME STATE
 const state = {
@@ -51,7 +51,6 @@ cvs.addEventListener("click", function(evt){
             let rect = cvs.getBoundingClientRect();
             let clickX = evt.clientX - rect.left;
             let clickY = evt.clientY - rect.top;
-            
             // CHECK IF WE CLICK ON THE START BUTTON
             if(clickX >= startBtn.x && clickX <= startBtn.x + startBtn.w && clickY >= startBtn.y && clickY <= startBtn.y + startBtn.h){
                 pipes.reset();
@@ -62,7 +61,6 @@ cvs.addEventListener("click", function(evt){
             break;
     }
 });
-
 
 // BACKGROUND
 const bg = {
@@ -75,10 +73,8 @@ const bg = {
     
     draw : function(){
         ctx.drawImage(sprite, this.sX, this.sY, this.w, this.h, this.x, this.y, this.w, this.h);
-        
         ctx.drawImage(sprite, this.sX, this.sY, this.w, this.h, this.x + this.w, this.y, this.w, this.h);
     }
-    
 }
 
 // FOREGROUND
@@ -89,12 +85,10 @@ const fg = {
     h: 112,
     x: 0,
     y: cvs.height - 112,
-    
     dx : 2,
     
     draw : function(){
         ctx.drawImage(sprite, this.sX, this.sY, this.w, this.h, this.x, this.y, this.w, this.h);
-        
         ctx.drawImage(sprite, this.sX, this.sY, this.w, this.h, this.x + this.w, this.y, this.w, this.h);
     },
     
@@ -119,29 +113,24 @@ const bird = {
     h : 26,
     
     radius : 12,
-    
     frame : 0,
     
-    gravity : 0.25,
-    jump : 4.6,
+    gravity : 0.15,
+    jump : 2.6,
     speed : 0,
     rotation : 0,
     
     draw : function(){
         let bird = this.animation[this.frame];
-        
         ctx.save();
         ctx.translate(this.x, this.y);
         ctx.rotate(this.rotation);
         ctx.drawImage(sprite, bird.sX, bird.sY, this.w, this.h,- this.w/2, - this.h/2, this.w, this.h);
-        
         ctx.restore();
     },
-    
     flap : function(){
         this.speed = - this.jump;
     },
-    
     update: function(){
         // IF THE GAME STATE IS GET READY STATE, THE BIRD MUST FLAP SLOWLY
         this.period = state.current == state.getReady ? 10 : 5;
@@ -149,7 +138,6 @@ const bird = {
         this.frame += frames%this.period == 0 ? 1 : 0;
         // FRAME GOES FROM 0 To 4, THEN AGAIN TO 0
         this.frame = this.frame%this.animation.length;
-        
         if(state.current == state.getReady){
             this.y = 150; // RESET POSITION OF THE BIRD AFTER GAME OVER
             this.rotation = 0 * DEGREE;
@@ -164,7 +152,6 @@ const bird = {
                     DIE.play();
                 }
             }
-            
             // IF THE SPEED IS GREATER THAN THE JUMP MEANS THE BIRD IS FALLING DOWN
             if(this.speed >= this.jump){
                 this.rotation = 90 * DEGREE;
@@ -173,7 +160,6 @@ const bird = {
                 this.rotation = -25 * DEGREE;
             }
         }
-        
     },
     speedReset : function(){
         this.speed = 0;
@@ -211,22 +197,13 @@ const gameOver = {
             ctx.drawImage(sprite, this.sX, this.sY, this.w, this.h, this.x, this.y, this.w, this.h);   
         }
     }
-    
 }
 
 // PIPES
 const pipes = {
     position : [],
-    
-    top : {
-        sX : 553,
-        sY : 0
-    },
-    bottom:{
-        sX : 502,
-        sY : 0
-    },
-    
+    top :  { sX : 553, sY : 0 },
+    bottom:{ sX : 502, sY : 0 },
     w : 53,
     h : 400,
     gap : 85,
@@ -236,13 +213,10 @@ const pipes = {
     draw : function(){
         for(let i  = 0; i < this.position.length; i++){
             let p = this.position[i];
-            
             let topYPos = p.y;
             let bottomYPos = p.y + this.h + this.gap;
-            
             // top pipe
             ctx.drawImage(sprite, this.top.sX, this.top.sY, this.w, this.h, p.x, topYPos, this.w, this.h);  
-            
             // bottom pipe
             ctx.drawImage(sprite, this.bottom.sX, this.bottom.sY, this.w, this.h, p.x, bottomYPos, this.w, this.h);  
         }
@@ -259,7 +233,6 @@ const pipes = {
         }
         for(let i = 0; i < this.position.length; i++){
             let p = this.position[i];
-            
             let bottomPipeYPos = p.y + this.h + this.gap;
             
             // COLLISION DETECTION
