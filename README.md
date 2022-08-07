@@ -1,5 +1,8 @@
 ## Trink Train
 Trink is on a new train trip.  So I get to track progress and get a virtual train trip.
+#### 2022.08.07 5:20pm CST
+![TrinkTripAspen](TrinkTripAspen.png)
+#### 2022.08.07 2:10pm CST
 ![TrinkTrip](TrinkTrip.png)
 
 ## DP music on Amazon
