@@ -1,5 +1,5 @@
 ## Trink Train
-Trink is on a new train trip.  So I get to track is progress and get a virtual train ride.
+Trink is on a new train trip.  So I get to track progress and get a virtual train trip.
 ![TrinkTrip](TrinkTrip.png)
 
 ## DP music on Amazon
