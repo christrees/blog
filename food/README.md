@@ -1,4 +1,3 @@
----
 
 ## Daily Shot
  - 1 Tablespoon Extra Virgin Olive Oil
@@ -7,9 +6,9 @@
  - Few dashes of Ground Cayenne Pepper
  - 1-2 Drizzles of Raw Honey
 
----
+## Fire Cider 
 
-## [Fire-Cider](https://nourishedkitchen.com/fire-cider/) 
+[Fire Cider](https://nourishedkitchen.com/fire-cider/) 
 
 Ingredients
  - 3 ounces diced ginger root
@@ -29,10 +28,10 @@ Instructions
  - Strain the vinegar, discarding the solids. Next, stir in the honey until fully dissolved.
  - Store at room temperature up to 6 months and in the fridge up to 18 months.
 
----
-
-[old food site](./food.html)
 
 
+## Old stuff
+
+ - [old food site](./food.html)
  - [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
  - [brain melted](https://www.youtube.com/watch?v=iLuxURgAieM)
