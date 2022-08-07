@@ -1,3 +1,8 @@
+## DP music on Amazon
+- [Offbeats CD - Amazon](https://music.amazon.com/albums/B001BVJJPE?ref=dm)
+- [Offbeats CD - Spotify](https://open.spotify.com/album/06xAO8JHJK2Ul9Gux3lZBA?si=nTNANDnYR2yRVj jzIfHLQ)
+- [Offbeats CD - Apple](https://music.apple.com/us/album/rockn-ska/278620141)
+
 ## 10 years ago - Trink Visit 2012
 Was cleaning up data and found this photo with May 21, 2012.  I think this was Trink's first visit to Cedar Falls and 2nd to Iowa post 2002 RAGBRAI.
 
