@@ -1,26 +1,26 @@
 ---
 
 ## Daily Shot
-- 1 Tablespoon Extra Virgin Olive Oil
-- 1 Clove Garlic crushed and let oxidize for 3 min
-- 1/2 fresh Lemon
-- Few dashes of Ground Cayenne Pepper
-- 1-2 Drizzles of Raw Honey
+ - 1 Tablespoon Extra Virgin Olive Oil
+ - 1 Clove Garlic crushed and let oxidize for 3 min
+ - 1/2 fresh Lemon
+ - Few dashes of Ground Cayenne Pepper
+ - 1-2 Drizzles of Raw Honey
 
 ---
 
 ## [Fire-Cider](https://nourishedkitchen.com/fire-cider/) 
 
 Ingredients
-- 3 ounces diced ginger root
-- 3 ounces yellow onion
-- 1 ½ ounces garlic cloves
-- 1 ½ ounce diced horseradish
-- 1 ½ ounces jalapeños
-- 3 star anise pods
-- 1 ceylon cinnamon stick
-- 2 cups raw apple cider vinegar
-- ½ cup honey
+ - 3 ounces diced ginger root
+ - 3 ounces yellow onion
+ - 1 1/2 ounces garlic cloves
+ - 1 1/2 ounce diced horseradish
+ - 1 1/2 ounces jalapeños
+ - 3 star anise pods
+ - 1 ceylon cinnamon stick
+ - 2 cups raw apple cider vinegar
+ - 1/2 cup honey
 
 Instructions
 - Layer the ginger, onion, garlic, horseradish and jalapeño into a quart-sized jar with the star anise and cinnamon stick. 
