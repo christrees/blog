@@ -1,5 +1,5 @@
-## Trink Train
-Trink is on a new train trip.  So I get to track progress and get a virtual train trip.
+## Trink Train and Hike
+Trink is on a new train and hike trip.  So I get to track progress and get a virtual trip.
 #### 2022.08.07 7:30pm CST - Out of Coverage
 ![TrinkTripAspenCoverage.png](TrinkTripAspenCoverage.png)
 ![TrinkTripAspenCoverage2.png](TrinkTripAspenCoverage2.png)
