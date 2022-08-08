@@ -1,6 +1,6 @@
 ## Trink Train and Hike
 Trink is on a new train and hike trip.  So I get to track progress and get a virtual trip.
-#### 2022.08.07 7:30pm CST - Out of Coverage
+#### 2022.08.07 7:30pm CST - Hiked out of cell coverage
 ![TrinkTripAspenCoverage.png](TrinkTripAspenCoverage.png)
 ![TrinkTripAspenCoverage2.png](TrinkTripAspenCoverage2.png)
 #### 2022.08.07 5:58pm CST - Jerome Hotel
