@@ -17,6 +17,9 @@
    - Line 497 display.tile_sheet.image.src = "runner.png";
    - ![CATDinoCodeSpriteFile](CATDinoCodeSpriteFile.png)
 
+### CAT Dino High Score 3090
+![CATRunnerHighScore](CATRunnerHighScore.png)
+
 ---
 
 ## Google Chrome Dino Game hacks
