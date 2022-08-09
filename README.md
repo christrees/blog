@@ -1,5 +1,8 @@
 ## Trink Train and Hike
 Trink is on a new train and hike trip.  So I get to track progress and get a virtual trip.
+
+#### 2022.08.08 4:14pm CST - Cowboy Campsite
+![TrinkTripCowboyCampsite.jpeg](TrinkTripCowboyCampsite.jpeg)
 #### 2022.08.07 7:30pm CST - Hiked out of cell coverage
  - [FCC Cell Coverage Map](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b)
 
