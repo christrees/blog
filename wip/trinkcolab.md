@@ -13,6 +13,8 @@ One of the ongoing issues is plex clients asking for transcode when its not requ
 
 [Avoid Plex transcoding](https://www.plexopedia.com/plex-media-server/general/avoid-transcoding/)
 
+[Using GPU accelerated streaming](https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/)
+
 Notes:
 DVR recording takes very little cpu, but transcoding basically requries a gpu or lots of cores.
 - macci - trink's old mini after rebuild would only playback to portals (aka portal client can take original format)
