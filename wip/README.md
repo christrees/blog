@@ -2,6 +2,11 @@
 
 
 ## Laptop
+- [HP 17-CN1053CL 17.3" FHD IPS Laptop Intel Core i5-1155G7 12GB 1TB Win 11 Home](https://www.ebay.com/itm/384791339002?epid=18052495308&hash=item599759dffa:g:4e4AAOSwDHFiOFHr)
+        - Intel Core i5 -1155G7
+        - Memory 12 GB
+
+
 - [Microsoft Surface Book 2](https://www.backmarket.com/en-us/p/microsoft-surface-book-2-15-inch-2017-core-i7-8650u-16-gb-ssd-256-gb/6fd2063d-7fb2-4b46-b7e8-c1777da28683#l=12)
 
         - Screen size (inches) 15
