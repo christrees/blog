@@ -1,5 +1,6 @@
 # Work In Progress
 
+[Edit](https://github.com/christrees/blog/blob/master/wip/README.md)
 
 ## Laptop
 - [HP 17-CN1053CL 17.3" FHD IPS Laptop Intel Core i5-1155G7 12GB 1TB Win 11 Home](https://www.ebay.com/itm/384791339002?epid=18052495308&hash=item599759dffa:g:4e4AAOSwDHFiOFHr)
