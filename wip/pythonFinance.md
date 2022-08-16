@@ -1,5 +1,8 @@
 # Finacial Data workflow
-
+- [Anaconda on Windows](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/)
+- [Etrade Trading API](https://www.youtube.com/user/JordanShadowens/videos)
+- [TDAmeritrade API]()
+- [Reinforcement Learning for Trading Tutorial RL Python Trading](https://www.youtube.com/watch?v=D9sU1hLT0QY)
 ## Setup
 1. [Anaconda Download](https://www.anaconda.com/distribution/#download-section)
 2. [Anaconda Documentation](https://docs.anaconda.com/anaconda/)
