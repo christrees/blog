@@ -30,3 +30,4 @@
 ## Dino AI
 - [Dino AI github](https://github.com/nicknochnack/DinoAI)
 - [Dino AI tutorial](https://www.youtube.com/watch?v=vahwuupy81A)
+- [Install pytesseract](https://pythonforundergradengineers.com/how-to-install-pytesseract.html#:~:text=Create%20a%20Python%20script%20%28a%20.py-file%29%2C%20or%20start,r%20indicates%20the%20string%20is%20a%20raw%20string.)
