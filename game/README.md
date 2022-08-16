@@ -27,3 +27,6 @@
 ![ChromeDinoGameHack](ChromeDinoGameHack.png)
 - [Dino Game Google](chrome://dino) - chrome://dino
 
+## Dino AI
+- [Dino AI github](https://github.com/nicknochnack/DinoAI)
+- [Dino AI tutorial](https://www.youtube.com/watch?v=vahwuupy81A)
