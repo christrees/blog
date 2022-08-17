@@ -70,6 +70,14 @@ Goal: Protomotion robot running simulation by both mdt and cat.
       ```
       sudo apt install ros-foxy-desktop
       ```
+      - Install colcon
+      ```
+      sudo apt install python3-colcon-common-extensions
+      ```
+      - Add ROS to env
+      ```
+      echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
+      ```
 
 ### Demo Robot
 - [https://articulatedrobotics.xyz/mobile-robot-1-project-overview/](https://articulatedrobotics.xyz/mobile-robot-1-project-overview/)
