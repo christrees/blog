@@ -26,9 +26,17 @@ DVR recording takes very little cpu, but transcoding basically requries a gpu or
 Goal: Spider robot on table simulation running by both mdt and cat.
 Goal: Protomotion robot running simulation by both mdt and cat.
 
-### ROS setup
+### Ubuntu setup
 - [VirtualBox and Guest Package Download](https://www.virtualbox.org/wiki/Downloads) - Use Ubuntu 20.04 not 22.04
 - [https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest](https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest)
+- Set network to Bridge
+- [https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/)
+   ```
+   sudo apt install openssh-server
+   sudo systemctl status ssh
+   lsb_release -a
+   ```
+### ROS setup
 - [Setup ROS dev machine](https://www.youtube.com/watch?v=uWzOk0nkTcI)
     - [https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/](https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/)
     - [https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
