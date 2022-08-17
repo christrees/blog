@@ -26,28 +26,51 @@ DVR recording takes very little cpu, but transcoding basically requries a gpu or
 Goal: Spider robot on table simulation running by both mdt and cat.
 Goal: Protomotion robot running simulation by both mdt and cat.
 
-### Ubuntu setup
+### Ubuntu setup catUbuntuVM 20.04
 - [VirtualBox and Guest Package Download](https://www.virtualbox.org/wiki/Downloads) - Use Ubuntu 20.04 not 22.04
 - [https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest](https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest)
-- Set network to Bridge
+  ```
+   $ sudo apt update
+   $ sudo apt install build-essential dkms linux-headers-$(uname -r)
+  ```
+- Set VM network card to Bridge
 - [https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/)
    ```
    sudo apt install openssh-server
    sudo systemctl status ssh
-   lsb_release -a
+   lsb_release -a <- check that ubuntu is 20.04 for ros desktop package
    ```
 ### ROS setup
 - [Setup ROS dev machine](https://www.youtube.com/watch?v=uWzOk0nkTcI)
     - [https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/](https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/)
+    - [ROS distributions are linked to Ubuntu versions](https://www.reddit.com/r/ROS/comments/ufvrqg/i_always_get_the_error_unable_to_locate_package/)
+      - Ubuntu 20.04 -> Noetic
+      - Ubuntu 18.04 -> Melodic
+      - Ubuntu 16.04 -> Kinetic
     - [https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
-    - [ROS Package Key issue](https://discourse.ros.org/t/ros-gpg-key-expiration-incident/20669)
-       ```
-       sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
-       ```
-     - [ROS distributions are linked to Ubuntu versions](https://www.reddit.com/r/ROS/comments/ufvrqg/i_always_get_the_error_unable_to_locate_package/)
-          - Ubuntu 20.04 -> Noetic
-          - Ubuntu 18.04 -> Melodic
-          - Ubuntu 16.04 -> Kinetic
+      - Add ROS packages
+      ```
+      sudo apt update && sudo apt install curl gnupg2 lsb-release
+      ```
+      - Add ROS repo key
+      ```
+      sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key  -o /usr/share/keyrings/ros-archive-keyring.gpg
+      ```
+      - Add to package list
+      ```
+      echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(source /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
+      ```
+      - Update Upgrade vm
+      ```
+      sudo apt update
+      sudo apt upgrade
+      ```
+      - Install ROS desktop on catUbuntuVM
+      ```
+      sudo apt install ros-foxy-desktop
+      ```
+
+
 ## Next Project research
 - [AI build for dino game - https://blog.christrees.com/game/](https://blog.christrees.com/game/#dino-ai)
 - [https://co.bot/](https://co.bot/)
