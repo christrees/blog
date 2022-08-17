@@ -26,7 +26,9 @@ DVR recording takes very little cpu, but transcoding basically requries a gpu or
 Goal: Spider robot on table simulation running by both mdt and cat.
 Goal: Protomotion robot running simulation by both mdt and cat.
 
+
 ## Next Project research
+- [AI build for dino game - https://blog.christrees.com/game/](https://blog.christrees.com/game/#dino-ai)
 - [https://co.bot/](https://co.bot/)
   - [https://ros.org/](https://ros.org/)
   - [https://classic.gazebosim.org/tutorials?cat=guided_b&tut=guided_b1](https://classic.gazebosim.org/tutorials?cat=guided_b&tut=guided_b1)
