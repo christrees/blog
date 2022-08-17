@@ -84,6 +84,8 @@ Goal: Protomotion robot running simulation by both mdt and cat.
       ```
 
 ### Demo Robot
+
+#### Workspace setup
 - [https://articulatedrobotics.xyz/mobile-robot-1-project-overview/](https://articulatedrobotics.xyz/mobile-robot-1-project-overview/)
 - Setup dev_ws for ROS Template [https://github.com/christrees/my_bot](https://github.com/christrees/my_bot) from [https://github.com/joshnewans/my_bot](https://github.com/joshnewans/my_bot)
   - Create a directory dev_ws to use as a ROS workspace
@@ -119,6 +121,49 @@ Goal: Protomotion robot running simulation by both mdt and cat.
     cat@catUbuntuVM:~/dev_ws$ ros2 launch my_bot rsp.launch.py
   ```
   
+#### Create URDF
+- Create URDF [https://articulatedrobotics.xyz/mobile-robot-2-concept-urdf/](https://articulatedrobotics.xyz/mobile-robot-2-concept-urdf/)
+- Final changes commit [https://github.com/joshnewans/articubot_one/tree/d5aa5e9bc9039073c0d8fd7fe426e170be79c087](https://github.com/joshnewans/articubot_one/tree/d5aa5e9bc9039073c0d8fd7fe426e170be79c087)
+- Create robot_core.xacro link in src/my_bot/description/robot-urdf.xacro
+  ```xml
+  <?xml version="1.0"?>
+  <robot xmlns:xacro="http://www.ros.org/wiki/xacro"  name="robot">
+      <xacro:include filename="robot_core.xacro" />
+  </robot>
+  ```
+- Create robot_core.xacro link in src/my_bot/description/robot-core.xacro
+- Create robot_core.xacro link in src/my_bot/description/inertial-macros.xacro
+- Save build and run
+```
+cat@catUbuntuVM:~/dev_ws$ colcon build --symlink-install
+[0.320s] WARNING:colcon.colcon_core.prefix_path.colcon:The path '/home/cat/dev_ws/src/install' in the environment variable COLCON_PREFIX_PATH doesn't exist
+[0.321s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/cat/dev_ws/src/install/my_bot' in the environment variable AMENT_PREFIX_PATH doesn't exist
+[0.322s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/cat/dev_ws/src/install/my_bot' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+Starting >>> my_bot
+Finished <<< my_bot [0.25s]
+
+Summary: 1 package finished [0.55s]
+cat@catUbuntuVM:~/dev_ws$ source install/setup.bash
+cat@catUbuntuVM:~/dev_ws$ ros2 launch my_bot rsp.launch.py
+[INFO] [launch]: All log files can be found below /home/cat/.ros/log/2022-08-17-17-06-23-259065-catUbuntuVM-25259
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [robot_state_publisher-1]: process started with pid [25261]
+[robot_state_publisher-1] Parsing robot urdf xml string.
+[robot_state_publisher-1] Link chassis had 1 children
+[robot_state_publisher-1] Link caster_wheel had 0 children
+[robot_state_publisher-1] Link left_wheel had 0 children
+[robot_state_publisher-1] Link right_wheel had 0 children
+[robot_state_publisher-1] [INFO] [1660773983.450365120] [robot_state_publisher]: got segment base_link
+[robot_state_publisher-1] [INFO] [1660773983.450953901] [robot_state_publisher]: got segment caster_wheel
+[robot_state_publisher-1] [INFO] [1660773983.450989431] [robot_state_publisher]: got segment chassis
+[robot_state_publisher-1] [INFO] [1660773983.450999048] [robot_state_publisher]: got segment left_wheel
+[robot_state_publisher-1] [INFO] [1660773983.451005918] [robot_state_publisher]: got segment right_wheel
+```
+- Run rviz2 on catUbuntuVM desktop
+```
+cat@catUbuntuVM:~/dev_ws$ source install/setup.bash
+cat@catUbuntuVM:~/dev_ws$ ros2 launch my_bot rsp.launch.py
+```
 
 ## Next Project research
 - [AI build for dino game - https://blog.christrees.com/game/](https://blog.christrees.com/game/#dino-ai)
