@@ -66,7 +66,7 @@ Goal: Protomotion robot running simulation by both mdt and cat.
       sudo apt update
       sudo apt upgrade
       ```
-      - Install ROS desktop on catUbuntuVM
+      - Install ROS desktop on catUbuntuVM desktop only
       ```
       sudo apt install ros-foxy-desktop
       ```
@@ -78,16 +78,45 @@ Goal: Protomotion robot running simulation by both mdt and cat.
       ```
       echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
       ```
+      - Add ROS xacro on catUbuntuVM desktop only
+      ```
+      sudo apt install ros-foxy-xacro ros-foxy-joint-state-publisher-gui
+      ```
 
 ### Demo Robot
 - [https://articulatedrobotics.xyz/mobile-robot-1-project-overview/](https://articulatedrobotics.xyz/mobile-robot-1-project-overview/)
 - Setup dev_ws for ROS Template [https://github.com/christrees/my_bot](https://github.com/christrees/my_bot) from [https://github.com/joshnewans/my_bot](https://github.com/joshnewans/my_bot)
   - Create a directory dev_ws to use as a ROS workspace
   - Ccreate a directory called src  in dev_ws to put packages into
-  - Clone our package from GitHub 
+  - Clone our package from GitHub into src
   - Go back up to the workspace root and build it with colcon using the symlink-install 
   ```
-  $ colcon build --symlink-install
+    cat@catUbuntuVM:~/dev_ws$ mkdir src
+    cat@catUbuntuVM:~/dev_ws$ cd src/
+    cat@catUbuntuVM:~/dev_ws/src$ git clone https://github.com/christrees/my_bot.git
+    Cloning into 'my_bot'...
+    remote: Enumerating objects: 13, done.
+    remote: Counting objects: 100% (13/13), done.
+    remote: Compressing objects: 100% (9/9), done.
+    remote: Total 13 (delta 0), reused 12 (delta 0), pack-reused 0
+    Unpacking objects: 100% (13/13), 2.67 KiB | 390.00 KiB/s, done.
+    cat@catUbuntuVM:~/dev_ws/src$ ls
+    my_bot
+    cat@catUbuntuVM:~/dev_ws/src$ cd ..
+    cat@catUbuntuVM:~/dev_ws$ colcon build --symlink-install
+    [0.186s] WARNING:colcon.colcon_core.prefix_path.colcon:The path '/home/cat/dev_ws/src/install' in the environment variable COLCON_PREFIX_PATH doesn't exist
+    [0.186s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/cat/dev_ws/src/install/my_bot' in the environment variable AMENT_PREFIX_PATH doesn't exist
+    [0.187s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/cat/dev_ws/install/my_bot' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+    [0.188s] WARNING:colcon.colcon_ros.prefix_path.catkin:The path '/home/cat/dev_ws/src/install/my_bot' in the environment variable CMAKE_PREFIX_PATH doesn't exist
+    Starting >>> my_bot
+    Finished <<< my_bot [0.99s]
+
+    Summary: 1 package finished [1.18s]
+    cat@catUbuntuVM:~/dev_ws$ ls
+    build  install  log  src
+    cat@catUbuntuVM:~/dev_ws$
+    cat@catUbuntuVM:~/dev_ws$ source install/setup.bash
+    cat@catUbuntuVM:~/dev_ws$ ros2 launch my_bot rsp.launch.py
   ```
   
 
