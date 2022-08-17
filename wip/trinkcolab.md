@@ -27,7 +27,7 @@ Goal: Spider robot on table simulation running by both mdt and cat.
 Goal: Protomotion robot running simulation by both mdt and cat.
 
 ### ROS setup
-- [VirtualBox and Guest Package Download](https://www.virtualbox.org/wiki/Downloads)
+- [VirtualBox and Guest Package Download](https://www.virtualbox.org/wiki/Downloads) - Use Ubuntu 20.04 not 22.04
 - [https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest](https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest)
 - [Setup ROS dev machine](https://www.youtube.com/watch?v=uWzOk0nkTcI)
     - [https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/](https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/)
@@ -36,7 +36,10 @@ Goal: Protomotion robot running simulation by both mdt and cat.
        ```
        sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
        ```
-     - [tbd]()
+     - [ROS distributions are linked to Ubuntu versions](https://www.reddit.com/r/ROS/comments/ufvrqg/i_always_get_the_error_unable_to_locate_package/)
+          - Ubuntu 20.04 -> Noetic
+          - Ubuntu 18.04 -> Melodic
+          - Ubuntu 16.04 -> Kinetic
 ## Next Project research
 - [AI build for dino game - https://blog.christrees.com/game/](https://blog.christrees.com/game/#dino-ai)
 - [https://co.bot/](https://co.bot/)
