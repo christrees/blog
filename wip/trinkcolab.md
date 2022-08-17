@@ -38,6 +38,7 @@ Goal: Protomotion robot running simulation by both mdt and cat.
    ```
    sudo apt install openssh-server
    sudo systemctl status ssh
+   sudo apt install git
    lsb_release -a <- check that ubuntu is 20.04 for ros desktop package
    ```
 ### ROS setup
@@ -70,6 +71,17 @@ Goal: Protomotion robot running simulation by both mdt and cat.
       sudo apt install ros-foxy-desktop
       ```
 
+### Demo Robot
+- [https://articulatedrobotics.xyz/mobile-robot-1-project-overview/](https://articulatedrobotics.xyz/mobile-robot-1-project-overview/)
+- Setup dev_ws for ROS Template [https://github.com/christrees/my_bot](https://github.com/christrees/my_bot) from [https://github.com/joshnewans/my_bot](https://github.com/joshnewans/my_bot)
+  - Create a directory dev_ws to use as a ROS workspace
+  - Ccreate a directory called src  in dev_ws to put packages into
+  - Clone our package from GitHub 
+  - Go back up to the workspace root and build it with colcon using the symlink-install 
+  ```
+  $ colcon build --symlink-install
+  ```
+  
 
 ## Next Project research
 - [AI build for dino game - https://blog.christrees.com/game/](https://blog.christrees.com/game/#dino-ai)
