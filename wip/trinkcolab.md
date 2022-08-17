@@ -26,7 +26,17 @@ DVR recording takes very little cpu, but transcoding basically requries a gpu or
 Goal: Spider robot on table simulation running by both mdt and cat.
 Goal: Protomotion robot running simulation by both mdt and cat.
 
-
+### ROS setup
+- [VirtualBox and Guest Package Download](https://www.virtualbox.org/wiki/Downloads)
+- [https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest](https://linuxconfig.org/install-virtualbox-guest-additions-on-linux-guest)
+- [Setup ROS dev machine](https://www.youtube.com/watch?v=uWzOk0nkTcI)
+    - [https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/](https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/)
+    - [https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
+    - [ROS Package Key issue](https://discourse.ros.org/t/ros-gpg-key-expiration-incident/20669)
+       ```
+       sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
+       ```
+     - [tbd]()
 ## Next Project research
 - [AI build for dino game - https://blog.christrees.com/game/](https://blog.christrees.com/game/#dino-ai)
 - [https://co.bot/](https://co.bot/)
