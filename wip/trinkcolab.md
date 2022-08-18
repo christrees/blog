@@ -38,9 +38,23 @@ Goal: Protomotion robot running simulation by both mdt and cat.
    ```
    sudo apt install openssh-server
    sudo systemctl status ssh
-   sudo apt install git
    lsb_release -a <- check that ubuntu is 20.04 for ros desktop package
    ```
+- Setup git and [add ssh key to github](https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278)
+  ```
+  sudo apt install git
+  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  xclip -sel clip < ~/.ssh/id_rsa.pub
+  ```
+- Paste key into your [github account settings](https://github.com/settings/keys) and test
+  ```
+  ssh -T git@github.com
+  git remote set-url origin git@github.com:username/your-repository.git
+  git add -A
+  git commit -am "Update README.md"
+  git push
+  ```
+
 ### ROS setup
 - [Setup ROS dev machine](https://www.youtube.com/watch?v=uWzOk0nkTcI)
     - [https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/](https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/)
