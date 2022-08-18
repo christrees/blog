@@ -59,49 +59,51 @@ Goal: Protomotion robot running simulation by both mdt and cat.
 
 ### ROS setup
 - [Setup ROS dev machine](https://www.youtube.com/watch?v=uWzOk0nkTcI)
-    - [https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/](https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/)
-    - [ROS distributions are linked to Ubuntu versions](https://www.reddit.com/r/ROS/comments/ufvrqg/i_always_get_the_error_unable_to_locate_package/)
-      - Ubuntu 20.04 -> Noetic
-      - Ubuntu 18.04 -> Melodic
-      - Ubuntu 16.04 -> Kinetic
-    - [https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
-      - Add ROS packages
-      ```
-      sudo apt update && sudo apt install curl gnupg2 lsb-release
-      ```
-      - Add ROS repo key
-      ```
-      sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key  -o /usr/share/keyrings/ros-archive-keyring.gpg
-      ```
-      - Add to package list
-      ```
-      echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(source /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
-      ```
-      - Update Upgrade vm
-      ```
-      sudo apt update
-      sudo apt upgrade
-      ```
-      - Install ROS desktop on catUbuntuVM desktop only
-      ```
-      sudo apt install ros-foxy-desktop
-      ```
-      - Install colcon
-      ```
-      sudo apt install python3-colcon-common-extensions
-      ```
-      - Add ROS to env
-      ```
-      echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
-      ```
-      - Add ROS xacro on catUbuntuVM desktop only
-      ```
-      sudo apt install ros-foxy-xacro ros-foxy-joint-state-publisher-gui
-      ```
+- [https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/](https://articulatedrobotics.xyz/ready-for-ros-3-installing-ros/)
+- [ROS distributions are linked to Ubuntu versions](https://www.reddit.com/r/ROS/comments/ufvrqg/i_always_get_the_error_unable_to_locate_package/)
+  - Ubuntu 20.04 -> Noetic
+  - Ubuntu 18.04 -> Melodic
+  - Ubuntu 16.04 -> Kinetic
+- [https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
+  - Add ROS packages
+  ```
+  sudo apt update && sudo apt install curl gnupg2 lsb-release
+  ```
+  - Add ROS repo key
+  ```
+  sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key  -o /usr/share/keyrings/ros-archive-keyring.gpg
+  ```
+  - Add to package list
+  ```
+  echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(source /etc/os-release && echo $UBUNTU_CODENAME) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
+  ```
+  - Update Upgrade vm
+  ```
+  sudo apt update
+  sudo apt upgrade
+  ```
+  - Install ROS desktop on catUbuntuVM desktop only
+  ```
+  sudo apt install ros-foxy-desktop
+  ```
+  - Install colcon
+  ```
+  sudo apt install python3-colcon-common-extensions
+  ```
+  - Add ROS to env
+  ```
+  echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
+  ```
+  - Add ROS xacro on catUbuntuVM desktop only
+  ```
+  sudo apt install ros-foxy-xacro ros-foxy-joint-state-publisher-gui
+  ```
 
-### Demo Robot
+### Demo Robot 
+- [https://articulatedrobotics.xyz](https://articulatedrobotics.xyz)
+- [https://github.com/joshnewans/articubot_one](https://github.com/joshnewans/articubot_one)
 
-#### Workspace setup
+#### Workspace setup and simulation
 - [https://articulatedrobotics.xyz/mobile-robot-1-project-overview/](https://articulatedrobotics.xyz/mobile-robot-1-project-overview/)
 - [https://articulatedrobotics.xyz/mobile-robot-3-concept-gazebo/](https://articulatedrobotics.xyz/mobile-robot-3-concept-gazebo/)
 - Setup dev_ws for ROS Template and bot [https://github.com/joshnewans/articubot_one](https://github.com/joshnewans/articubot_one)
