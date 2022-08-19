@@ -2,12 +2,16 @@
 1. Install [https://jupyter.org/](https://jupyter.org/)
     - make sure to click the ADD PATH it warns not to
 2. Env workflow to switch kernel env in jupyter
-    - Install [git](https://git-scm.com/downloads)
-    - Python -m venv nametheenv
-    - .\nametheenv\Scripts\activate
+    - Install [git](https://git-scm.com/downloads))
+    - [Multiple python versions on windows](https://levelup.gitconnected.com/how-to-install-and-manage-multiple-python-versions-on-windows-10-c90098d7ba5a)
+    - [Multiple env in juypter](https://levelup.gitconnected.com/how-to-install-virtual-environments-in-jupyter-notebook-in-windows-10-5c189856479)
+    - python virtual env [venv pyenv](https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/)
+    - C:\Users\cadmin>python -m jupyter lab
+    - C:\Users\cadmin\code\jupyterproject>python -m venv jupterprojectenv
+    - C:\Users\cadmin\code\jupyterproject>.\jupterprojectenv\Scripts\activate
     - Pip install ipykernel
-    - Python -m ipykernel install --name=nametheenv
-    - Deleting envs: juypter kernelspec uninstall nametheenv
+    - Python -m ipykernel install --name=jupterprojectenv
+    - Deleting envs: juypter kernelspec uninstall jupterprojectenv
     - List kernels: juypter kernelspec list
 3. Install Tensorflow
     - Pip install  [https://www.tensorflow.org/install/source_windows](https://www.tensorflow.org/install/source_windows)
