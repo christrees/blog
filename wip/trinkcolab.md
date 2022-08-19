@@ -2,6 +2,19 @@ Colabrative projects with Trink
 
 [Edit](https://github.com/christrees/blog/edit/master/wip/trinkcolab.md)
 
+
+## Trink think things
+
+### TrinkCat Remote DataCenter
+- It seem with robot simulation, plex dvr and transcode, OpenCI object recon ML and general AI having a DC with gpu is worth the effort.
+- ProxMox server with shared GPU machine is my suggestion. [Proxmox vGPU Gaming Tutorial])https://www.youtube.com/watch?v=cPrOoeMxzu0)
+    - Plex DVR and Transcoding.  There was about 30 stations
+    - Private network extensions to Trink and Cat home TV networks using pfSense.
+    - Remote rendering for robot simulations
+    - Remote GPU and stoarge for AI/ML
+- Grasshorse has lots of robot and robot kits.  They made it for protomotion.  I'd like to chat about.
+- We could take over [https://www.coridium.us/coridium/shop](https://www.coridium.us/coridium/shop) BruceE company to integrate sensors into co.bot
+
 ## TrinkTV
 Goal: Stable Plex server running in CF maintainable by mdt and cat.
 
@@ -23,8 +36,8 @@ DVR recording takes very little cpu, but transcoding basically requries a gpu or
 - catmini - i7 
 
 ## Robot Simulation
-Goal: Spider robot on table simulation running by both mdt and cat.
-Goal: Protomotion robot running simulation by both mdt and cat.
+- Goal: Spider robot on table simulation running by both mdt and cat.
+- Goal: Protomotion robot running simulation by both mdt and cat.
 
 ### Ubuntu setup catUbuntuVM 20.04
 - [VirtualBox and Guest Package Download](https://www.virtualbox.org/wiki/Downloads) - Use Ubuntu 20.04 not 22.04
