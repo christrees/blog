@@ -9,9 +9,11 @@
     - Pip install ipykernel
     - Python -m ipykernel install --name=nametheenv
     - Deleting envs: juypter kernelspec uninstall nametheenv
+    - List kernels: juypter kernelspec list
 3. Install Tensorflow
-    - Pip install https://www.tensorflow.org/install/source
-
+    - Pip install [https://www.tensorflow.org/install/source_windows](https://www.tensorflow.org/install/source_windows}
+4. Install Cuda and 
+    = [Video of versions and download](https://youtu.be/19LQRx78QVU?t=2646)
 Get the Code https://github.com/nicknochnack/Image...
 
 Links
