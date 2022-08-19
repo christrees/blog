@@ -7,13 +7,17 @@ Colabrative projects with Trink
 
 ### TrinkCat Remote DataCenter
 - It seem with robot simulation, plex dvr and transcode, OpenCI object recon ML and general AI having a DC with gpu is worth the effort.
-- ProxMox server with shared GPU machine is my suggestion. [Proxmox vGPU Gaming Tutorial])https://www.youtube.com/watch?v=cPrOoeMxzu0)
+- ProxMox server with shared GPU machine is my suggestion. [Proxmox vGPU Gaming Tutorial](https://www.youtube.com/watch?v=cPrOoeMxzu0)
     - Plex DVR and Transcoding.  There was about 30 stations
     - Private network extensions to Trink and Cat home TV networks using pfSense.
     - Remote rendering for robot simulations
     - Remote GPU and stoarge for AI/ML
-- Grasshorse has lots of robot and robot kits.  They made it for protomotion.  I'd like to chat about.
-- We could take over [https://www.coridium.us/coridium/shop](https://www.coridium.us/coridium/shop) BruceE company to integrate sensors into co.bot
+- Grasshorse has lots of robot and robot kits.  
+    - They had a grant for protomotion - stop motion animation robots
+    - They have multiple robot kits: gantry robonova old school factory robot proto arms
+- We chat about [https://www.coridium.us/coridium/shop](https://www.coridium.us/coridium/shop) 
+    - BruceE company to integrate sensors into co.bot ?
+    - MikeR did a lot of the embedded networking and they also did custom compilers for arm
 
 ## TrinkTV
 Goal: Stable Plex server running in CF maintainable by mdt and cat.
