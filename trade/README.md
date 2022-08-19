@@ -1,6 +1,7 @@
 # Market Trading links
 
 ### Stock Daily Info
+- [Trader TV Subscription](https://www.youtube.com/c/TraderTVLive/featured)
 - [Trader TV Live](https://www.youtube.com/c/TraderTVLive/featured)
 - [Trader TV Shawn Twitter](https://twitter.com/tradertvshawn)
 - [Bear Bull Trades - Youtube - Premarket Prep](https://www.youtube.com/c/BearBullTraders/videos)
