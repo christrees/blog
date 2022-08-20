@@ -1,4 +1,34 @@
 
+# Use Docker
+I found that instead of attempting to manage virtual env stuff within python, it should be easiser to manage the env with docker.
+
+- [https://jupyter-docker-stacks.readthedocs.io/en/latest/](https://jupyter-docker-stacks.readthedocs.io/en/latest/)
+- [https://hub.docker.com/u/jupyter](https://hub.docker.com/u/jupyter)
+- [Jupyter Contributed Recipies](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/recipes.html)
+
+## jupyter Docker workflow
+- [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/)
+- Start Dockerdesktop
+- Build Dockerfile image and run in PowerShell
+```powershell
+PS C:\Users\cadmin\dockertest> docker build .
+PS C:\Users\cadmin\dockertest> docker images
+REPOSITORY   TAG       IMAGE ID       CREATED        SIZE
+<none>       <none>    dc26e310a22c   14 hours ago   1.86GB
+PS C:\Users\cadmin\dockertest> cd .\notebooks\
+PS C:\Users\cadmin\dockertest\notebooks> docker run -d -p 8888:8888 -v ${PWD}:/media dc26
+de5a23c13b19275f826be81e35b552526589b01f962f95f0bfa203a2eb795ef4
+```
+- Open Dockerdesktop app Containers click on de5a image above to click on url link with token
+- Web browser opens juypter lab
+- copy files between /media and juypter local /home/jovyan yes it's a hack but beats dealing with user mount acl
+- use git in juypter terminal for file syncs
+
+#
+
+---
+
+# Old notes
 1. Install [https://jupyter.org/](https://jupyter.org/)
     - make sure to click the ADD PATH it warns not to
 2. Env workflow to switch kernel env in jupyter
