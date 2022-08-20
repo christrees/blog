@@ -23,7 +23,19 @@ de5a23c13b19275f826be81e35b552526589b01f962f95f0bfa203a2eb795ef4
 - Web browser opens juypter lab
 - copy files between /media and juypter local /home/jovyan yes it's a hack but beats dealing with user mount acl
 - use git in juypter terminal for file syncs
-
+```python
+# import OS module
+import os
+ 
+# Get the list of all files and directories
+path = "//media//notebooks"
+dir_list = os.listdir(path)
+ 
+print("Files and directories in '", path, "' :")
+ 
+# prints all files
+print(dir_list)
+```
 #
 
 ---
