@@ -144,6 +144,10 @@ DVR recording takes very little cpu, but transcoding basically requries a gpu or
   
 
 ## Next Project research
+- Digital Twins and Simulation
+  - [Digital Twin and why it matters in IoT](https://www.networkworld.com/article/3280225/what-is-digital-twin-technology-and-why-it-matters.html)
+  - [Defining a Digital Twin Platform](https://iskerrett.medium.com/defining-a-digital-twin-platform-de67586623de)
+  - [Open API for Digital Twin](https://www.eclipse.org/ditto/http-api-doc.html#/)
 - [AI build for dino game - https://blog.christrees.com/game/](https://blog.christrees.com/game/#dino-ai)
 - [https://co.bot/](https://co.bot/)
   - [https://ros.org/](https://ros.org/)
