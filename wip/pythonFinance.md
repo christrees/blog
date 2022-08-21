@@ -1,3 +1,11 @@
+## New Notes
+- [Tradingview Tradestation Futures](https://www.tradestation.com/pricing/futures-margin-requirements/)
+- [Tradingview Custom Indecators with Pine Script](https://medium.com/@robswc/how-to-create-custom-tradingview-indicators-with-pinescript-2fb31a66a191)
+- [Rob youtube - custom indicators](https://www.youtube.com/c/robswc/videos)
+- []()
+- []()
+- []()
+
 # Finacial Data workflow
 - [Anaconda on Windows](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/)
 - [Etrade Trading API](https://www.youtube.com/user/JordanShadowens/videos)
