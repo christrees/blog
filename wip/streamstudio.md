@@ -1,4 +1,11 @@
 # Streaming Studio Setup
+
+## Record 
+- [Record HDCP Protected](https://www.youtube.com/watch?v=6Kv-8xbiIQU)
+- [HDMI Spliter removes HDCP protection](https://www.amazon.com/gp/product/B081RDP2JX/ref=as_li_qf_asin_il_tl?ie=UTF8)
+- [HDMI Splter alternate](https://www.amazon.com/Splitter-Amplifier-1080P-Blu-Ray-Player/dp/B082CXZP71/ref=dp_prsubs_2?pd_rd_i=B082CXZP71&psc=1)
+- [HDMI Recorder](https://www.amazon.com/dp/B091NX24PC/ref=sspa_dk_detail_2)
+
 ## Quickstart [Video Stream Studio Quickstart](https://youtu.be/W2Po0jeB0mU)
 1. Start OBS
 2. Verify Local Sources
