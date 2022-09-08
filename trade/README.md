@@ -49,6 +49,10 @@
 - [Drewby - Naive Trader](https://www.drewby.com/)
 - [Calculating-Position-Size-based-on-Risk-and-Stop-Loss](https://www.tradingview.com/chart/AAPL/RYt3MFpf-Calculating-Position-Size-based-on-Risk-and-Stop-Loss/)
 
+### Reading
+- [Atomic Habbits - amazon books]()
+- [tbd]()
+
 <!--
 #### SGBX trade
 - [ChartMill - SGBX](https://www.chartmill.com/stock/quote/SGBX/technical-analysis?utm_source=stocktwits&utm_medium=TA&utm_content=SGBX&utm_campaign=social_tracking)
