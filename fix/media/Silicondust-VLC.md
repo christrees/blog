@@ -1,0 +1,28 @@
+# Connect to silicon dust stream with VLC
+
+- Connect to grasshorse - catghadmin-grid zerotier network
+    - [https://www.zerotier.com/](https://www.zerotier.com/)
+    - [https://my.zerotier.com/network/d5e5fb65371eb4a4](https://my.zerotier.com/network/d5e5fb65371eb4a4)
+    - ping 192.168.6.46 the silicon dust tuner
+    ```bash
+      (base) cat@cats-Mac-mini ~ % ping 192.168.6.46
+      PING 192.168.6.46 (192.168.6.46): 56 data bytes
+      64 bytes from 192.168.6.46: icmp_seq=0 ttl=64 time=0.587 ms
+      64 bytes from 192.168.6.46: icmp_seq=1 ttl=64 time=0.426 ms
+      64 bytes from 192.168.6.46: icmp_seq=2 ttl=64 time=0.552 ms
+    ```
+- The 192.168.6.0/24 subnet is cf.cat9.com tvnetwork
+- Go to [http://192.168.6.46/](http://192.168.6.46/) silicon dust tuner
+- Go to [http://192.168.6.46/lineup.html](http://192.168.6.46/lineup.html) copy the link of the channel you want to view
+- Open VLC -> File -> Open Network -> http://@192.168.6.46:5004/auto/v7.2 click open
+- NOTE: on the URL you need to add @ before IP address
+- Stream should play
+
+
+--- 
+### Resources
+- [Silicondust channel lineup - http://192.168.6.46/lineup.html](http://192.168.6.46/lineup.html)
+- [Silicondust HTTP-API document](https://info.hdhomerun.com/info/http_api)
+- [Silicondust command line app document](https://info.hdhomerun.com/info/hdhomerun_config)
+- [Zerotier - grasshorse catghadmin-grid network](https://my.zerotier.com/network/d5e5fb65371eb4a4)
+- [tbd]()
