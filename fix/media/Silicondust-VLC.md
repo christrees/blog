@@ -18,8 +18,13 @@
 - NOTE: on the URL you need to add @ before IP address
 - Stream should play
 
+---
+## VLC access to macci over 192.168.6.0/24 subnet via zerotier
+- Download [VNC viewer](https://www.realvnc.com/en/connect/download/viewer/)
+- connect to 192.168.6.45
+- users: ghadmin cat trink
+- Plex server is running on ghadmin
 
---- 
 ### Resources
 - [Silicondust channel lineup - http://192.168.6.46/lineup.html](http://192.168.6.46/lineup.html)
 - [Silicondust HTTP-API document](https://info.hdhomerun.com/info/http_api)
