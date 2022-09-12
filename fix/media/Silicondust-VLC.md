@@ -25,6 +25,12 @@
 - users: ghadmin cat trink
 - Plex server is running on ghadmin
 
+## Microsoft Remote Desktop to CyberTruck
+- Open Microsoft Remote Desktop Client
+- Open [https://my.zerotier.com/network/d5e5fb65371eb4a4](https://my.zerotier.com/network/d5e5fb65371eb4a4)
+- Connect to CyberTruck 10.147.17.219 or catghwin10 10.147.17.127
+
+
 ### Resources
 - [Silicondust channel lineup - http://192.168.6.46/lineup.html](http://192.168.6.46/lineup.html)
 - [Silicondust HTTP-API document](https://info.hdhomerun.com/info/http_api)
