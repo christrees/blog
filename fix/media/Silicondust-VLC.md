@@ -30,6 +30,31 @@
 - Open [https://my.zerotier.com/network/d5e5fb65371eb4a4](https://my.zerotier.com/network/d5e5fb65371eb4a4)
 - Connect to CyberTruck 10.147.17.219 or catghwin10 10.147.17.127
 
+## zerotier route to [cf lan via mini](https://discuss.zerotier.com/t/mac-os-lan-routing/577)
+- lan subnet 192.168.6.0/24
+- zerotier subnet 10.147.17.0/24
+- zerotier IP address of route 10.147.17.59 (catmini)
+- zerotier IP address of route 10.147.17.27 (macci) - may move to this mini
+- Set up Managed Routes for the network on my.zerotier.com 4
+   - Destination: 192.168.6.0/24
+   - Via: 10.0.17.59
+- On Mac mini set ip IP Forwarding:
+```bash
+sudo sysctl -w net.inet.ip.forwarding=1
+```
+- Find network interfaces on Mac mini by running ifconfig 
+- Find interface ids for zerotier and lan, (mine are en0 for the lan and feth3632 for zerotier)
+- On Mac mini set up Interface Routing:
+    - create /etc/pfzerotier.conf and add the following line (editing the interface ids)
+      ```bash
+      nat on en0 from feth3632:network to any -> (en0)
+      ```
+    - restart PF
+      ```bash
+      sudo pfctl -d
+      sudo pfctl -e -f /etc/pfzerotier.conf
+      ```
+- Ping tuner 192.168.6.45 from CyberTruck 10.157.17.219
 
 ### Resources
 - [Silicondust channel lineup - http://192.168.6.46/lineup.html](http://192.168.6.46/lineup.html)
