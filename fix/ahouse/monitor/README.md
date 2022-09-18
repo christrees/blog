@@ -7,6 +7,7 @@
 
 ---
 
+- [https://www.ispyconnect.com/camera/laview](https://www.ispyconnect.com/camera/laview)
 - [How-to-connect-WiFi-IP-camera-via-web-browser](https://support.laviewsecurity.com/hc/en-us/articles/360023453474-How-to-connect-WiFi-IP-camera-via-web-browser)
 - [https://www.laviewsecurity.com/files/documentation/IPC%20USER%20MANUAL%20LV-PB784F2.pdf](https://www.laviewsecurity.com/files/documentation/IPC%20USER%20MANUAL%20LV-PB784F2.pdf)
 - [https://www.laviewsecurity.com/files/documentation/user_manual_ipc_rx.pdf](https://www.laviewsecurity.com/files/documentation/user_manual_ipc_rx.pdf)
@@ -68,6 +69,7 @@ rtsp://IPADDRESS:554/	Yes
 ---
 - [http://192.168.6.1/#/html/status/status_devicetable.html](http://192.168.6.1/#/html/status/status_devicetable.html)
 - [https://camera-sdk.com/p_6728-how-to-connect-to-a-zmodo-camera.html](https://camera-sdk.com/p_6728-how-to-connect-to-a-zmodo-camera.html)
+- [http://community.zmodo.com/t/what-is-the-protocol-data-format-on-ports-8000-9000/190/6](http://community.zmodo.com/t/what-is-the-protocol-data-format-on-ports-8000-9000/190/6)
 - [https://www.amazon.com/gp/product/B01KZK82K4/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B01KZK82K4/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - [PDF Manual](https://www.zmodo.com/media/downloader/3383/User%20Manual%20for%20IP%20Camera-20130905.pdf)
 
