@@ -1,3 +1,17 @@
+## Nordyke vist 2022.09.23-25
+
+![atCasino](./share/Nordyke/images/NordykeVisit_IMG_2321.jpeg)
+
+Brad running late cause had to eat at Riverside.
+
+---
+
+![BradAtWork](./share/Nordyke/images/BradWork_IMG_2318.jpeg)
+
+Brad __brushing__ up on surgery skills.
+
+---
+
 ## Trink Train and Hike
 Trink is on a new train and hike trip.  Click to see the [virtual trip](../share/Trink).
 
