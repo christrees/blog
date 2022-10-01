@@ -1,4 +1,4 @@
-## Nordyke vist 2022.09.23-25
+## Nordyke visit 2022.09.23-25
 
 ![atCasino](./share/Nordyke/images/NordykeVisit_IMG_2321.jpeg)
 
