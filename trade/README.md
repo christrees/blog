@@ -25,6 +25,7 @@
 - [Fed Rate Monitor](https://www.investing.com/central-banks/fed-rate-monitor)
 
 ## Algos
+- [https://www.pulsexpremium.com/go](https://www.pulsexpremium.com/go)
 - [xBratAlgo](https://paulbratby.com/pbratby_videos/continuous-stocks-trading-opportunities-with-xbrat-algo/)
 - [Trade Pro - Youtube - Trade Algos](https://www.youtube.com/channel/UCrXjzUN6EtlyhaaAerbPfkQ/videos)
 - [Testing Algos](https://www.youtube.com/watch?v=mfjrkm4YRwE)
