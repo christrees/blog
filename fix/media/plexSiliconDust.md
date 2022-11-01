@@ -26,6 +26,8 @@ Plex and Silicondust
   - [XML blob change for tv.plex.grabbers.tunerservice](https://pastebin.com/Yw7kKGzK)
 - [Channels not showing up on tuner scan](https://forums.plex.tv/t/bug-report-with-solution-channels-not-showing-up-with-wintv-dualhd/210416/10)
 - [plex-dvr-unencrypted-channels-showing-as-protected](https://forums.plex.tv/t/plex-dvr-unencrypted-channels-showing-as-protected/199854)
+- [issues-with-guide-layout-channels](https://forums.plex.tv/t/issues-with-guide-layout-channels/238819)
+- [how-to-add-local-tv-channels-to-your-plex-server](https://www.reviewgeek.com/118023/how-to-add-local-tv-channels-to-your-plex-server/)
 
 
 ## DVR Network Current [http://24.149.23.184/](http://24.149.23.184/)
