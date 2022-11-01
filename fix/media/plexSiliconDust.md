@@ -30,6 +30,7 @@ Plex and Silicondust
 - [how-to-add-local-tv-channels-to-your-plex-server](https://www.reviewgeek.com/118023/how-to-add-local-tv-channels-to-your-plex-server/)
 - [zap2xml.awardspace.info](https://web.archive.org/web/20200426004001/zap2xml.awardspace.info/)
 - [https://tvlistings.zap2it.com/?aid=gapzap](https://tvlistings.zap2it.com/?aid=gapzap)
+    - User Cedar Falls Utilities - Cable (50613)
 
 
 ## DVR Network Current [http://24.149.23.184/](http://24.149.23.184/)
