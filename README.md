@@ -1,3 +1,6 @@
+## Vegas 2022.11.14-18
+![vegasdrinks4home](https://photos.app.goo.gl/1sHFdJWDnAGv7i7DA)
+
 ## Nordyke visit 2022.09.23-25
 
 ![atCasino](./share/Nordyke/images/NordykeVisit_IMG_2321.jpeg)
