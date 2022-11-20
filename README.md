@@ -1,6 +1,7 @@
 ## Vegas 2022.11.14-18
 
-![Vegas](./MBSR-9VB1-HLC5_220221117121815053_Chroma_MBSRDigitalPackage_2.jpg)
+![Vegas](https://photos.app.goo.gl/r1bmkdRApaPASjvN7)
+
 
 ### [Vegas Trip photos](https://photos.app.goo.gl/vgwiiCSjQtyjpS1J9)
 
