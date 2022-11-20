@@ -1,5 +1,7 @@
 ## Vegas 2022.11.14-18
 
+![Vegas](https://photos.app.goo.gl/r1bmkdRApaPASjvN7)
+
 ### [Vegas Trip photos](https://photos.app.goo.gl/vgwiiCSjQtyjpS1J9)
 
 ## Nordyke visit 2022.09.23-25
