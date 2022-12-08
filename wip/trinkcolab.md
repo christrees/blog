@@ -3,7 +3,13 @@ Colabrative projects with Trink
 [Edit](https://github.com/christrees/blog/edit/master/wip/trinkcolab.md)
 
 
-## Trink think things
+## Trink think things to review
+
+- [Home Assistant](https://www.home-assistant.io/)
+- [Home Assistant Release Review](https://www.youtube.com/watch?v=Ts-_BdFsvxI)
+- [Home Assist Dashboard](https://www.youtube.com/watch?v=yy_GBQ5dhKw)
+- [OpenSource security AI - frigate ai](https://github.com/blakeblackshear/frigate)
+- [https://frigate.video/](https://frigate.video/)
 
 ### TrinkCat Remote DataCenter
 - It seem with robot simulation, plex dvr and transcode, OpenCI object recon ML and general AI having a DC with gpu is worth the effort.
