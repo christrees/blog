@@ -10,6 +10,8 @@ Colabrative projects with Trink
 - [Home Assist Dashboard](https://www.youtube.com/watch?v=yy_GBQ5dhKw)
 - [OpenSource security AI - frigate ai](https://github.com/blakeblackshear/frigate)
 - [https://frigate.video/](https://frigate.video/)
+- [Amazon Dash Button Rescure](https://blog.christophermullins.com/2019/12/20/rescue-your-amazon-dash-buttons/)
+- [Amazon Dash Button Hack repo](https://github.com/Nekmo/amazon-dash)
 
 ### TrinkCat Remote DataCenter
 - It seem with robot simulation, plex dvr and transcode, OpenCI object recon ML and general AI having a DC with gpu is worth the effort.
