@@ -5,6 +5,10 @@ Colabrative projects with Trink
 
 ## Trink think things to review
 
+- [Nestack for homelab](https://netstack.org/docs/)
+   - Document trinktv home media model
+   - Document storage sharing model
+   - Docuemtn security storage model
 - [Home Assistant](https://www.home-assistant.io/)
 - [Home Assistant Release Review](https://www.youtube.com/watch?v=Ts-_BdFsvxI)
 - [Home Assist Dashboard](https://www.youtube.com/watch?v=yy_GBQ5dhKw)
