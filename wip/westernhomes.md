@@ -19,6 +19,16 @@
   - [WesternHomes The Journal Feb 2022](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/6272a6db31dd206222c7fbc6/1651680989891/WHC+The+Journal+Feb+2022.pdf)
   - [WesternHomes The Journal Jan 2022](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/6287df710dcc1c4b04e22dfe/1653071732154/WHC+The+Journal+January+2022.pdf)
 
+
+## Residential Portal [https://westernhomecommunities.org/resident-portal](https://westernhomecommunities.org/resident-portal)
+- [Windcrest Nov 10](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/6386337fd4b94b69f7ac0817/1669739391782/Windcrest+Villa+November+Minutes.pdf)
+- [PrairieWind Nov 09](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/6386338c6db1a64d4fe0c90f/1669739404306/Prairie+Wind+November+Minutes.pdf)
+- [Windridge Nov 08](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/63863399a1b4dc0d00184998/1669739417968/Windridge+November+Minutes.pdf)
+- [Windcove Nov 08](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/638633a8cfbdfc639f3765f2/1669739432683/Windcove+November+Minutes.pdf)
+- [Windermere Nov 08](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/638633b6cfbdfc639f37696d/1669739446908/Windermere+November+Council.pdf)
+- [Windgrace Nov 08](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/638633c3d9aa9d1e6d9b97ef/1669739459798/Windgrace+November+Minutes.pdf)
+- [Willowwood Nov 09](https://static1.squarespace.com/static/624f4fa037329e0062d9e59e/t/638633d3efc67e4e23a94b2a/1669739475486/Willowwood+November+minutes.pdf)
+
 ---
 
 - [https://www.salary.com/research/company/western-home-communities-salary](https://www.salary.com/research/company/western-home-communities-salary)
