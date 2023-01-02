@@ -1,3 +1,5 @@
+moved to gitea - catsheets/20_media/Plex on 20230102
+
 # Plex Info
 
 - [Plex DVR Update Coming Soon: Multiple Channel Lineups, New Interface / UI !](https://youtu.be/wHx22QdHns4)
