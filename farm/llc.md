@@ -1,4 +1,4 @@
-Farm LLC planning
+## Farm LLC planning
 
 Name suggestions:
 - FH Klopfenstein Farm, LLC
@@ -6,7 +6,23 @@ Name suggestions:
 
 - USDA 2022 Census of Agriculture due Feb 6
 
+### Operation Agreement
+- 5 parnters (Alice, Carla, Chris, Carol, Kenton)
+- 2 types of shares, Voting and Investment.
+- Yearly approval of Farm Manager made on or before April 8 each year for current year and next year land improvements and planting pre-purchase.
+- Alice contribues Klop80 farm land to LLC (check with Andy Harris on Tax)
+- LLC meets to elect Farm Manager (Kenton) and applies to obtain farm loan to tile and pay operational cost for current and planting pre-purchase (est 100K - 250K)
+- Alice contribution value (est 750K) and Loan (est 250K) brings net assets of LLC to 1M.
+- Investment shares are structured to allow Alice to transfer ownsership and operations to LLC while minimizing tax issues. 
 
+### Buy Sell Agreement
+- All partners have first right of refusal to any external buy or sell agreements.
+- All partners have the right to keep their existing equity precentage.
+
+
+## House LLC planning
+Name suggestion:
+- 
 - [https://www.outsystems.com/company/why-outsystems/](https://www.outsystems.com/company/why-outsystems/)
 
 - [https://www.kiplinger.com/retirement/estate-planning/604612/keeping-property-in-the-family-with-llcs-and-partnerships](https://www.kiplinger.com/retirement/estate-planning/604612/keeping-property-in-the-family-with-llcs-and-partnerships)
