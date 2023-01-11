@@ -1,3 +1,5 @@
+NOTE: moved to catsheet/03_compute/vm/proxmox.md
+
 # Proxmox Research
 
 ## local-testing
