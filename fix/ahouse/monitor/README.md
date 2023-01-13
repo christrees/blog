@@ -1,3 +1,5 @@
+- [https://doc.kerberos.io/](https://doc.kerberos.io/) - github [https://github.com/kerberos-io](https://github.com/kerberos-io)
+- [https://medevel.com/10-cctv-open-source-solutions/](https://medevel.com/10-cctv-open-source-solutions/)
 
 ### laview
 <!-- ct yahoo What # Time -->
