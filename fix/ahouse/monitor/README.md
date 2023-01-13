@@ -67,6 +67,7 @@ rtsp://IPADDRESS:554/	Yes
 - Channel 4 Drive 
 
 ---
+- [https://camlytics.com/camera/zmodo/2](https://camlytics.com/camera/zmodo/2) pretty good
 - [http://192.168.6.1/#/html/status/status_devicetable.html](http://192.168.6.1/#/html/status/status_devicetable.html)
 - [https://camera-sdk.com/p_6728-how-to-connect-to-a-zmodo-camera.html](https://camera-sdk.com/p_6728-how-to-connect-to-a-zmodo-camera.html)
 - [http://community.zmodo.com/t/what-is-the-protocol-data-format-on-ports-8000-9000/190/6](http://community.zmodo.com/t/what-is-the-protocol-data-format-on-ports-8000-9000/190/6)
