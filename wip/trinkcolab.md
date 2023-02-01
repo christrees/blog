@@ -13,6 +13,8 @@ Colabrative projects with Trink
 - review current [pr review request helix](https://github.com/helix-editor/helix/pull/5751#pullrequestreview-1277856760)
 - review this doc and move to gitea.trink.com ??
 - DanK band _HKH and the Imponderables_ [https://losaltosfirstfriday.org/](https://losaltosfirstfriday.org/)
+- share tuner mapping with HD indication
+- TrueNAS, Portainer, Tailscale example - [document](https://forum.level1techs.com/t/truenas-scale-ultimate-home-setup-incl-tailscale/186444) - [youtube](https://www.youtube.com/watch?v=R7BXEuKjJ0k)
 - tbd
 
 ### 2023.01.30 3pm PST 5pm CST
