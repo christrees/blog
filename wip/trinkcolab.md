@@ -4,7 +4,7 @@ Colabrative projects with Trink
 
 ## Trink sync
 
-### 2023.02.01
+### 2023.02.01 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
 - distroyed old nas setup true nas
 - setup ssh to nas 24.149.22.11:2020 for rsync
@@ -14,7 +14,7 @@ Colabrative projects with Trink
 - review this doc and move to gitea.trink.com ??
 
 
-### 2023.01.30
+### 2023.01.30 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
 - setup ssh to nas 24.149.22.11:2020
 - review [pr helix](https://github.com/helix-editor/helix/pull/5738)
