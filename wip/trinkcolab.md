@@ -12,7 +12,8 @@ Colabrative projects with Trink
 - plex volume issue on truenas [config access truenas-scale-cannot-deploy-plex](https://www.truenas.com/community/threads/truenas-scale-cannot-deploy-plex.100397/)
 - review current [pr review request helix](https://github.com/helix-editor/helix/pull/5751#pullrequestreview-1277856760)
 - review this doc and move to gitea.trink.com ??
-
+- DanK band _HKH and the Imponderables_ [https://losaltosfirstfriday.org/](https://losaltosfirstfriday.org/)
+- tbd
 
 ### 2023.01.30 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
