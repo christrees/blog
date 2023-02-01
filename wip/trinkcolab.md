@@ -2,6 +2,23 @@ Colabrative projects with Trink
 
 [Edit](https://github.com/christrees/blog/edit/master/wip/trinkcolab.md)
 
+## Trink sync
+
+### 2023.02.01
+- [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
+- distroyed old nas setup true nas
+- setup ssh to nas 24.149.22.11:2020 for rsync
+- plex on truenas via k3s name: tnasplex
+- plex volume issue on truenas [config access truenas-scale-cannot-deploy-plex](https://www.truenas.com/community/threads/truenas-scale-cannot-deploy-plex.100397/)
+- review current [pr review request helix](https://github.com/helix-editor/helix/pull/5751#pullrequestreview-1277856760)
+- review this doc and move to gitea.trink.com ??
+
+
+### 2023.01.30
+- [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
+- setup ssh to nas 24.149.22.11:2020
+- review [pr helix](https://github.com/helix-editor/helix/pull/5738)
+- tbd
 
 ## Trink think things to review
 
