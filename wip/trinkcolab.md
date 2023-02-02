@@ -7,12 +7,18 @@ Colabrative projects with Trink
 ### 2023.02.02 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
 - Review trink helix testbench progress
-- ~~Chris: finish USDA Survey,~~ look at 1099 tax stuff
-- Chris: fix tnasplex permissions issue
-- Chris: test tnasplex dvr
-- Chris: Document docker k3s volume mappings with tnasplex and dockerplex
+- Chris: ~~finish USDA Survey,~~ look at 1099 tax stuff
+- Chris: ~~fix tnasplex permissions issue
+- Chris: ~~test tnasplex dvr
+- Chris: Document docker volume mappings with ~~tnasplex app~~ and dockerplex
+      - added pshare user UID 1000 GID 1000
+      - Use pshare user for smb login
+      - Add apps (UID 568) to pshare group (this alone did not do it for plex app)
+      - Changed plexmedia share to pshare owner and group 
+      - Added User apps (UID 568) Allow | Special to plexmedia Dataset Permissions (this seemed to do it)
 - Chris: review ns, gs and cf documents and merge
 - Chris: document theory of plex.tv ip port / server stuff - netflix doing 30 day IP 'sign-on' per public IP
+      - Seems servers are not unique, it is the public IP and port response... then it looks at syncing info on each server to cloud and client... I think
 - Chris: maybe [setup win11](https://youtu.be/2Ja_e6CMkNY) and ubuntu 22.04 on proxmox for gus remote testing
 - Chris: update [https://gus.conversehouse.com/](https://gus.conversehouse.com/) on HD mappings and 5G backup route
 
