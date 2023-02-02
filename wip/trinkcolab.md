@@ -13,6 +13,8 @@ Colabrative projects with Trink
 - Chris: Document docker k3s volume mappings with tnasplex and dockerplex
 - Chris: review ns, gs and cf documents and merge
 - Chris: document theory of plex.tv ip port / server stuff - netflix doing 30 day IP 'sign-on' per public IP
+- Chris: maybe [setup win11](https://youtu.be/2Ja_e6CMkNY) and ubuntu 22.04 on proxmox for gus remote testing
+- Chris: update [https://gus.conversehouse.com/](https://gus.conversehouse.com/) on HD mappings and 5G backup route
 
 ### 2023.02.01 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
