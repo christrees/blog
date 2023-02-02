@@ -4,6 +4,16 @@ Colabrative projects with Trink
 
 ## Trink sync
 
+### 2023.02.02 3pm PST 5pm CST
+- [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
+- Review trink helix testbench progress
+- Chris: finish USDA Survey, look at 1099 tax stuff
+- Chris: fix tnasplex permissions issue
+- Chris: test tnasplex dvr
+- Chris: Document docker k3s volume mappings with tnasplex and dockerplex
+- Chris: review ns, gs and cf documents and merge
+- Chris: document theory of plex.tv ip port / server stuff - netflix doing 30 day IP 'sign-on' per public IP
+
 ### 2023.02.01 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
 - distroyed old nas setup true nas
