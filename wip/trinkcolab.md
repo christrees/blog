@@ -22,7 +22,7 @@ New stuff
 - Chris: ~~fix tnasplex permissions issue~~
 - Chris: ~~test tnasplex dvr~~
 - Chris: Document docker volume mappings with ~~tnasplex app~~ and dockerplex
-  - added pshare user UID 1000 GID 1000
+  - added pshare user UID 1000 and pshare group GID 1000
   - Use pshare user for smb login
   - Add apps (UID 568) to pshare group (this alone did not do it for plex app)
   - Changed plexmedia share to pshare owner and group 
