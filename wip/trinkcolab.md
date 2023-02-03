@@ -4,6 +4,17 @@ Colabrative projects with Trink
 
 ## Trink sync
 
+### 2023.02.03 3pm PST 5pm CST
+- [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
+- Review trink helix testbench progress
+- Chris: work on yesterday stuff
+---
+New stuff
+- [Plex HDHomeRun Tuner API](https://forums.plex.tv/t/wrapping-other-video-cards-with-hdhomerun-apis/157792/6) helped me sort out how channel streams are managed
+- half the time I cant get channel matching ui to save
+- It's like certian channels will not save 074.10 075.1
+- tbd
+
 ### 2023.02.02 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
 - Review trink helix testbench progress
