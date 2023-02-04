@@ -3,6 +3,13 @@ Colabrative projects with Trink
 [Edit](https://github.com/christrees/blog/edit/master/wip/trinkcolab.md)
 
 ## Trink sync
+- [brave talk new link](tbd)
+- trink: Review trink helix testbench Demo?
+- cat: verify trinkdvr and trinktnas
+- cat: doc cleanup of atleast trinkcolab
+- cat: site maintaince schedule and checklist
+
+### 2023.02.04 3pm PST 5pm CST
 
 ### 2023.02.03 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
@@ -10,7 +17,13 @@ Colabrative projects with Trink
 - Chris: work on yesterday stuff
 ---
 New stuff
+- [SatIP Protocal](https://www.satip.info/sites/satip/files/resource/satip_specification_version_1_2_2.pdf)
+- [plex iptv](https://www.videoconverterfactory.com/tips/plex-iptv.html)
+- [iptv sw tuner for plex - github xteve-project](https://github.com/xteve-project/xTeVe)
+- [xteve install documentation](https://github.com/xteve-project/xTeVe-Documentation/blob/master/en/configuration.md)
+- [plex hdhomerun-api-use-udp-for-saving-streams](https://forums.plex.tv/t/hdhomerun-api-use-udp-for-saving-streams/162703)
 - [Plex HDHomeRun Tuner API](https://forums.plex.tv/t/wrapping-other-video-cards-with-hdhomerun-apis/157792/6) helped me sort out how channel streams are managed
+- [truenas cannot deploy plex](https://www.truenas.com/community/threads/truenas-scale-cannot-deploy-plex.100397/)
 - half the time I cant get channel matching ui to save
 - It's like certian channels will not save 074.10 075.1
 - tbd
