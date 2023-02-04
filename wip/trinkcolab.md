@@ -3,13 +3,16 @@ Colabrative projects with Trink
 [Edit](https://github.com/christrees/blog/edit/master/wip/trinkcolab.md)
 
 ## Trink sync
-- [brave talk new link](tbd)
+
+### 2023.02.04 3pm PST 5pm CST
+- [brave talk tbd - will update at 4:55pst](tbd)
 - trink: Review trink helix testbench Demo?
 - cat: verify trinkdvr and trinktnas
 - cat: doc cleanup of atleast trinkcolab
 - cat: site maintaince schedule and checklist
-
-### 2023.02.04 3pm PST 5pm CST
+  - thinking of doing gitsubmodules from gitea.trink.com to contain deployment of public templates
+  - internal docker repo
+- tbd
 
 ### 2023.02.03 3pm PST 5pm CST
 - [brave talk](https://talk.brave.com/eiIGZbj5QJ7Z60sw10spTjwNghZjsXqeMrc2U7zb7Dk)
