@@ -5,13 +5,24 @@ Colabrative projects with Trink
 ## Trink sync
 
 ### 2023.02.04 3pm PST 5pm CST
-- [brave talk tbd - will update at 4:55pst](tbd)
+- [brave talk - created 4:55cst](https://talk.brave.com/f_cqVDp2n7hLESb3ss0U2w59FW9RdmjrD4QbTwPP2qo)
 - trink: Review trink helix testbench Demo?
 - cat: verify trinkdvr and trinktnas
-- cat: doc cleanup of atleast trinkcolab
+  - CattvWin10:trinktnas plexlib on CattvWin10 N: SMB mount \\192.168.2.2\plexmedia which is \mnt\zpool-01\plexmedia\plexdvr\trinkdvr
+  - CattvWin10:trinktvDVR  plexlib on CattvWin10 D:\trinktvDVR  - physical harddrive
+  - CattvWin10:trinktvDVR recordings and future recordings are now on CattvWin10:trinknas
+  - I don't see libs on Tri484 plex server
+  - moved "Ghosts" and "So Help Me Todd" shows to Tnasplex:catdvr
+  - Added both shows to Tnasplex ran into issue
+  - When I added Ghost, I did one eps, went back to change it to all and it would not let me, deleted and attempted to re-add and it gave me an error
+  - basically after I deleted it was still showing up in LiveTV guide when I attempted to add... probably cache issue ?
+  - log out and back in on plex server... and I was able to re-add
+  - had issue with tnasplex plex.tv connection can get to it fine on local subnet
+  - firewall issues with plex in .2 subnet probably plex working on other ports on a session being blocked
+  - not going to mess with much more figure the only issue would be remote view of tuner... use cattvwin10 for that for now
+  - tbd
 - cat: site maintaince schedule and checklist
-  - thinking of doing gitsubmodules from gitea.trink.com to contain deployment of public templates
-  - internal docker repo
+  - tbd
 - tbd
 
 ### 2023.02.03 3pm PST 5pm CST
