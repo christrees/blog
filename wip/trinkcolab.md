@@ -5,6 +5,15 @@ Colabrative projects with Trink
 ## Trink sync
 
 ### 2023.02.04 3pm PST 5pm CST
+- [brave talk - target 4:55cst]()
+- trink: Review trink helix assci only Demo?
+- cat: update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
+  - move statrekDVR to nsDiskStation
+  - cattvwin10 smb mount plexnsds M:
+  - inspect tnasplex and dockerplex dvr sessions (seem to be working)
+  - muck with channel mapping on tnasplex
+
+### 2023.02.04 3pm PST 5pm CST
 - [brave talk - created 4:55cst](https://talk.brave.com/f_cqVDp2n7hLESb3ss0U2w59FW9RdmjrD4QbTwPP2qo)
 - trink: Review trink helix testbench Demo?
 - cat: verify trinkdvr and trinktnas
@@ -40,6 +49,7 @@ New stuff
 - [truenas cannot deploy plex](https://www.truenas.com/community/threads/truenas-scale-cannot-deploy-plex.100397/)
 - half the time I cant get channel matching ui to save
 - It's like certian channels will not save 074.10 075.1
+- [plex docker on synology - good dockercompose file](https://www.wundertech.net/how-to-install-plex-on-a-synology-nas/)
 - tbd
 
 ### 2023.02.02 3pm PST 5pm CST
