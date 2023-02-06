@@ -5,13 +5,17 @@ Colabrative projects with Trink
 ## Trink sync
 
 ### 2023.02.04 3pm PST 5pm CST
-- [brave talk - target 4:55cst]()
+- [brave talk]()
 - trink: Review trink helix assci only Demo?
 - cat: update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
   - move statrekDVR to nsDiskStation
   - cattvwin10 smb mount plexnsds M:
   - inspect tnasplex and dockerplex dvr sessions (seem to be working)
   - muck with channel mapping on tnasplex
+  - [firetv recast file transfer](https://www.aftvnews.com/how-and-why-to-pull-video-recording-files-off-of-the-amazon-fire-tv-recast-dvr/)
+  - [plex on synology and docker compose](https://www.wundertech.net/how-to-install-plex-on-a-synology-nas/)
+  - [comskip github https://github.com/erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip)
+  - [http://unixetc.co.uk/2020/03/16/how-to-install-comskip-on-a-raspberry-pi/](http://unixetc.co.uk/2020/03/16/how-to-install-comskip-on-a-raspberry-pi/)
 
 ### 2023.02.04 3pm PST 5pm CST
 - [brave talk - created 4:55cst](https://talk.brave.com/f_cqVDp2n7hLESb3ss0U2w59FW9RdmjrD4QbTwPP2qo)
