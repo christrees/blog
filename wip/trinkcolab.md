@@ -5,6 +5,9 @@ Colabrative projects with Trink
 ## Trink sync
 
 ### 2023.02.04 3pm PST 5pm CST
+- [https://chat.christrees.com/](https://chat.christrees.com/) I may be online with Steve doing some grasshorse server stuff
+
+### 2023.02.04 3pm PST 5pm CST
 - [brave talk]()
 - trink: Review trink helix assci only Demo?
 - cat: update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
