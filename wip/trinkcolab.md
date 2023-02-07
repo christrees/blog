@@ -5,7 +5,7 @@ Colabrative projects with Trink
 ## Trink sync
 
 ### 2023.02.07 3pm PST 5pm CST
-- [brave talk]()
+- [brave talk upated 5pm](https://talk.brave.com/njJc7hNWf5OT6QQsJlIWAj1cql5Yb0uUiHyP6cH_EKQ)
 - trink: main panic bug update
 - trink: hx-phreak repo ?
 - cat: update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
