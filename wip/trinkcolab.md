@@ -4,6 +4,16 @@ Colabrative projects with Trink
 
 ## Trink sync
 
+### 2023.02.07 3pm PST 5pm CST
+- [brave talk]()
+- trink: main panic bug update
+- trink: hx-phreak repo ?
+- cat: update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
+- cat: update [https://gh.2cld.net/docs/](https://gh.2cld.net/docs/)
+  - look into spining up docker druple maria stack for magma
+- tbd
+
+
 ### 2023.02.06 3pm PST 5pm CST
 - [https://chat.christrees.com/](https://chat.christrees.com/) I may be online with Steve doing some grasshorse server stuff
 - 
