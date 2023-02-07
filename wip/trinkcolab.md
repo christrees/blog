@@ -8,6 +8,8 @@ Colabrative projects with Trink
 - [brave talk upated 5pm](https://talk.brave.com/njJc7hNWf5OT6QQsJlIWAj1cql5Yb0uUiHyP6cH_EKQ)
 - trink: main panic bug update
 - trink: hx-phreak repo ?
+- trink: pfsense fix and backup
+- cat: should backup and restore document pfsense for cf and gh
 - cat: update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
 - cat: update [https://gh.2cld.net/docs/](https://gh.2cld.net/docs/)
   - look into spining up docker druple maria stack for magma
