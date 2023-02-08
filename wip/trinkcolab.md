@@ -4,6 +4,11 @@ Colabrative projects with Trink
 
 ## Trink sync
 
+### 2023.02.08 3pm PST 5pm CST
+- [brave talk upated 4pm](https://talk.brave.com/TR7BD00ZoXdMc-RLfBMbXrNA8MTnxr1tlPnPClce_nk)
+- trink: log replay main panic bug update
+- cat: inventory
+
 ### 2023.02.07 3pm PST 5pm CST
 - [brave talk upated 5pm](https://talk.brave.com/njJc7hNWf5OT6QQsJlIWAj1cql5Yb0uUiHyP6cH_EKQ)
 - trink: main panic bug update
