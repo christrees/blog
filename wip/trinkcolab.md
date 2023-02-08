@@ -12,7 +12,10 @@ Colabrative projects with Trink
 - cat: should backup and restore document pfsense for cf and gh
 - cat: update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
 - cat: update [https://gh.2cld.net/docs/](https://gh.2cld.net/docs/)
-  - look into spining up docker druple maria stack for magma
+  - look into spining up docker joomla mysql stack for magma
+  - [ghMagma Install old doc](https://docs.google.com/document/d/1OMynAqcAFVLHyYkqTRr9BIQ2l7WvQnIka_QEcX6eXOc/edit)
+  - [gh datacenter](https://docs.google.com/spreadsheets/d/1cPcjizKYg8XDHQctY8t1wBhW3g6rClCJ6O_DGaXIscI/edit#gid=1621592935)
+  - [k8s on portainer](https://docs.portainer.io/admin/environments/add/kubernetes)
 - tbd
 
 
