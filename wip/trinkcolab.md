@@ -12,6 +12,7 @@ Colabrative projects with Trink
   - update camera links [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
   - iptv and rstp integration to plex / home assistant
   - ns rebuild
+  - cf storage map / drive inventory
 
 ### 2023.02.08 3pm PST 5pm CST
 - [brave talk upated 4pm](https://talk.brave.com/TR7BD00ZoXdMc-RLfBMbXrNA8MTnxr1tlPnPClce_nk)
