@@ -13,6 +13,7 @@ Colabrative projects with Trink
   - iptv and rstp integration to plex / home assistant
   - ns rebuild
   - cf storage map / drive inventory
+  - cf storage backup and recovery document and test
 
 ### 2023.02.08 3pm PST 5pm CST
 - [brave talk upated 4pm](https://talk.brave.com/TR7BD00ZoXdMc-RLfBMbXrNA8MTnxr1tlPnPClce_nk)
