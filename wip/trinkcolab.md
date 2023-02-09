@@ -4,10 +4,23 @@ Colabrative projects with Trink
 
 ## Trink sync
 
+### 2023.02.09 3pm PST 5pm CST - delay or reschedule
+- [brave talk - online review delayed till trink relocates]()
+- trink: pr update 
+  - [pr auto merge issue](https://github.com/orgs/community/discussions/46757#discussioncomment-4913328)
+- cat: tbd
+  - update camera links [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
+  - iptv and rstp integration to plex / home assistant
+  - ns rebuild
+
 ### 2023.02.08 3pm PST 5pm CST
 - [brave talk upated 4pm](https://talk.brave.com/TR7BD00ZoXdMc-RLfBMbXrNA8MTnxr1tlPnPClce_nk)
 - trink: log replay main panic bug update
 - cat: inventory
+  - fix tnasplex port nat issue
+  - build new system for grasshosre ?
+  - backup nas maintainence plans ?
+  - update [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
 
 ### 2023.02.07 3pm PST 5pm CST
 - [brave talk upated 5pm](https://talk.brave.com/njJc7hNWf5OT6QQsJlIWAj1cql5Yb0uUiHyP6cH_EKQ)
