@@ -5,7 +5,7 @@ Colabrative projects with Trink
 ## Trink sync
 
 ### 2023.02.10 3pm PST 5pm CST - delay or reschedule
-- [brave talk - online review delayed till trink relocates]()
+- [brave talk - 5:56PM](https://talk.brave.com/0eAINwV_92o3jMnzF9Ov5TWO421qxL1B0LADesA2VDQ)
 - Monitor for trink and cat managed services
   - services logs (plex servers)
   - network, storage and compute health
