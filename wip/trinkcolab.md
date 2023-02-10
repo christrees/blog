@@ -4,6 +4,17 @@ Colabrative projects with Trink
 
 ## Trink sync
 
+### 2023.02.10 3pm PST 5pm CST - delay or reschedule
+- [brave talk - online review delayed till trink relocates]()
+- Monitor for trink and cat managed services
+  - services logs (plex servers)
+  - network, storage and compute health
+- trink: firewall update
+  - [https://gitea.trink.com/](https://gitea.trink.com/) working
+- cat: debating home assistant, new freenas, sort data, tuner channel mapps
+  - [adb on FireTV](https://developer.amazon.com/docs/fire-tv/connecting-adb-to-device.html)
+  - Drives 7x4TB(free-oldgh), 1x4TB(op-usb), 1x4TB(cattvwin10), 1x3TB(free-cat) 2x3TB(tnas), 1x2TB(tnas), 1x2TB(free-toshiba), 2x2TB(nsDiskStation), 
+
 ### 2023.02.09 3pm PST 5pm CST - delay or reschedule
 - [brave talk - online review delayed till trink relocates]()
 - trink: pr update 
