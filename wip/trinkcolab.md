@@ -1,6 +1,6 @@
 Colabrative projects with Trink
 
-[Edit](https://github.com/christrees/blog/edit/master/wip/trinkcolab.md)
+THis file has moved to [https://wip.christrees.com/trinkcolab/](https://wip.christrees.com/trinkcolab/)
 
 ## Trink sync
 
