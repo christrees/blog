@@ -11,12 +11,15 @@ Colabrative projects with Trink
   - network, storage and compute health
 - trink: firewall update
   - [https://gitea.trink.com/](https://gitea.trink.com/) working
+  - [https://gitea.trink.com/trink/hx_phreak](https://gitea.trink.com/trink/hx_phreak) hx_phreak repo checkin
 - cat: debating home assistant, new freenas, sort data, tuner channel mapps
   - [adb on FireTV](https://developer.amazon.com/docs/fire-tv/connecting-adb-to-device.html)
   - Drives 7x4TB(free-oldgh), 1x4TB(op-usb), 1x4TB(cattvwin10), 1x3TB(free-cat) 2x3TB(tnas), 1x2TB(tnas), 1x2TB(free-toshiba), 2x2TB(nsDiskStation),
   - ns 1TBssd 3x4TB pfsense truenas proxmox
   - bg 4x4TB DS411
   - backup google, amazon, apple, microsoft, github
+  - [proxmox usb backup](https://ostechnix.com/backup-proxmox-to-usb-drive/)
+  - [proxmox add usb drive](https://ostechnix.com/add-external-usb-storage-to-proxmox/)
   - [win11 on proxmox](https://youtu.be/2Ja_e6CMkNY?t=1743) to replace catwin10 at gh
 
 ### 2023.02.09 3pm PST 5pm CST - delay or reschedule
