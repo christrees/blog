@@ -1,7 +1,12 @@
 Colabrative projects with Trink
 
-THis file has moved to [https://wip.christrees.com/trinkcolab/](https://wip.christrees.com/trinkcolab/)
+This file has moved to
+# [https://wip.christrees.com/trinkcolab/](https://wip.christrees.com/trinkcolab/)
 
+---
+---
+
+moved 2023.02.11
 ## Trink sync
 
 ### 2023.02.10 3pm PST 5pm CST - delay or reschedule
