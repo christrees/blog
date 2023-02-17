@@ -1,5 +1,7 @@
 # Market Trading links
 
+- [simple support resistance with hedge](https://www.youtube.com/watch?v=5MU_I6F8UsY)
+
 ### Stock Daily Info
 - [Trader TV Subscription](https://www.youtube.com/c/TraderTVLive/featured)
 - [Trader TV Live](https://www.youtube.com/c/TraderTVLive/featured)
