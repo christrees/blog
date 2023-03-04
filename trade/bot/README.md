@@ -4,3 +4,5 @@
 - [Binance Trading bot](https://www.youtube.com/watch?v=5FrHbdToTO4)
 
 - [TDAmerica Trade Bot](https://github.com/TreyThomas93/python-trading-bot-with-thinkorswim#how-it-works)
+
+- [TradingView Indicator Predicts The EXACT Future](https://www.youtube.com/watch?v=qPiMkpRvins)
