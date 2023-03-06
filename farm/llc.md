@@ -1,6 +1,32 @@
 ## Farm LLC planning
 [edit](https://github.com/christrees/blog/edit/master/farm/llc.md)
 
+- [https://www.seialaw.com/attorneys/sara-l-haas/](https://www.seialaw.com/attorneys/sara-l-haas/)
+
+```
+Sara L. Haas
+Member
+```
+```
+319-754-6587
+```
+```
+319-754-7514 fax
+```
+
+- [https://www.linkedin.com/in/andy-harris-11a08230](https://www.linkedin.com/in/andy-harris-11a08230)
+
+```
+Andy Harris
+```
+```
+(515) 460-3100 
+```
+(personal cell I think)
+```
+AHarris@hoganhansen.com
+```
+
 Name suggestions:
 - FH Klopfenstein Farm, LLC
 - FH Klopfenstein Farm, LLC
