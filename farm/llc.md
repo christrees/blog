@@ -1,6 +1,9 @@
 ## Farm LLC planning
 [edit](https://github.com/christrees/blog/edit/master/farm/llc.md)
 
+---
+---
+
 - [https://www.seialaw.com/attorneys/sara-l-haas/](https://www.seialaw.com/attorneys/sara-l-haas/)
 
 ```
@@ -26,6 +29,11 @@ Andy Harris
 ```
 AHarris@hoganhansen.com
 ```
+
+---
+---
+
+## LLC for Alice Trees 80acre Farm Land
 
 Name suggestions:
 - FH Klopfenstein Farm, LLC
@@ -86,7 +94,8 @@ Name suggestions:
 - LLC recored will be filed with Sara ? or lockbox at bank ?
 
 
-## House LLC planning
+## LLC for Alice Trees 20acre Residential and Farm Land
+
 Name suggestion:
 - Trees AES, LLC or... Trees AeeeS Trees Ae3 (Trees Aging (Engineering)(Environment)(Education) Services)
 - Intention is a Realestate Investment holding to improve Aging living environment in the Winfield area.
@@ -114,7 +123,7 @@ Name suggestion:
     - kpklopfenstein@gmail.com
     - (319) 750-0665
 - 2 types of shares, Operational and Investment.
-- Yearly approval of Farm Manager made on or before April 8 each year for current year and next year property improvements
+- Yearly approval of LLC Operational Manager made on or before April 8 each year for current year and next year property improvements
   - Operational voting Agenda
     - Rental year operation contract approval
     - Rental year budget plan approval
@@ -127,13 +136,15 @@ Name suggestion:
 - Alice contribues Homeplace land and houses to LLC (check with Andy Harris on Tax)
 - LLC meets to elect Rental Manager (Carmen ??) and applies to loan to pay operational cost for the  year (est 50K - 175K)
 - Contribution value (est 325K) and Loan (est 175K) brings net assets of LLC to 500K / 500 share investment
-  - Alice 325 shares 
-  - Carla  25 shares 
-  - Chris  25 shares 
-  - Carol  25 shares 
-  - Brad  100 shares 
+  - Alice 325 shares (appraisal value)
+  - Carla  25 shares (loan debt share)
+  - Chris  25 shares (loan debt share)
+  - Carol  25 shares (loan debt share)
+  - Brad  100 shares (loan debt share)
 - Investment shares are structured to allow Alice to transfer ownsership to other LLC members while minimizing tax issues.
 - The intention is to have Alice assign voting shares to others that which removes her from direct ownership liablity.
+- Alice becomes primary renter.
+- LLC is responsible for capital improvements.
 - As Tax and ownship rules allow, Alice becomes a renter of property (aka reverse mortgage).
 
 ### Buy Sell Agreement
@@ -142,7 +153,10 @@ Name suggestion:
 - In the case of an LLC liquidation event, funds will be distributed via LLC member investment percentage on record at the time of the liquidation.
 - LLC recored will be filed with Sara ? or lockbox at bank ?
 
+----
+----
 
+## Reference and Iowa State Ag Law and Tax conference
 
 - [https://www.outsystems.com/company/why-outsystems/](https://www.outsystems.com/company/why-outsystems/)
 
