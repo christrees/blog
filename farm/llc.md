@@ -93,6 +93,8 @@ Name suggestions:
 - In the case of an LLC liquidation event, funds will be distributed via LLC member investment percentage on record at the time of the liquidation.
 - LLC recored will be filed with Sara ? or lockbox at bank ?
 
+---
+---
 
 ## LLC for Alice Trees 20acre Residential and Farm Land
 
