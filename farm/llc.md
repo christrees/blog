@@ -37,7 +37,8 @@ AHarris@hoganhansen.com
 
 Name suggestions:
 - FH Klopfenstein Farm, LLC
-- FH Klopfenstein Farm, LLC
+- Intention is a farm land holding for generational sustainablity.
+
 
 - DONE ~~USDA 2022 Census of Agriculture due Feb 6~~
 
