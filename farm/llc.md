@@ -88,15 +88,11 @@ Name suggestions:
 ## LLC for Alice Trees 20acre Residential and Farm Land
 
 Name suggestion:
-- Trees AES, LLC or... Trees AeeeS Trees Ae3 (Trees Aging (Engineering)(Environment)(Education) Services)
-- Intention is a Realestate Investment holding to improve Aging living environment in the Winfield area.
+- Trees AES, LLC 
+- Intention is a Realestate Investment holding in the Winfield area.
 
 ### Operation Agreement
 - 3 parnters (Carla, Chris, Carol)
-  - Main Property Address 
-    - 2378 120th St. Winfield Iowa 52659
-    - altrees@outlook.com
-    - (319) 257-6873
   - Carla Trees
     - ? Winfield Iowa 52659
     - carlatrees@gmail.com
