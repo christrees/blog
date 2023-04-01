@@ -1,6 +1,8 @@
 # Mom
 
 ![Mom with Grandkids](./Grandkids.jpeg)
+- Mom with Grandkids Clint, Emma and Bren on Bren's late birthday.
+![Behind the Scene](./GrandmaBehindScene.jpeg)
 
 ## Photo Albums
 - Laurie Klopfenstein [HOME Art Share](https://photos.app.goo.gl/sc5tBm4kf2wFcLSX8)
