@@ -43,11 +43,7 @@ Name suggestions:
 - DONE ~~USDA 2022 Census of Agriculture due Feb 6~~
 
 ### Operation Agreement
-- 5 parnters (Alice, Carla, Chris, Carol, Kenton)
-  - Alice Trees 
-    - 2378 120th St. Winfield Iowa 52659
-    - altrees@outlook.com
-    - (319) 257-6873
+- 3 parnters (Carla, Chris, Carol)
   - Carla Trees
     - ? Winfield Iowa 52659
     - carlatrees@gmail.com
@@ -60,38 +56,30 @@ Name suggestions:
     - ??? Horseshoe Dr. Cedar Falls Iowa 60613
     - carol.fletcher@uni.edu
     - ‪(319) 231-7475
-  - Kenton Klopfenstein
-    - ? Winfield Iowa 52659
-    - kpklopfenstein@gmail.com
-    - (319) 750-0665
-- 2 types of shares, Operational and Investment.
 - Yearly approval of Farm Manager made on or before April 8 each year for current year and next year land improvements and planting pre-purchase.
-  - Operational voting Agenda
+  - Operational agreement Agenda
     - Crop year operation contract approval
     - Crop year budget plan approval
     - Crop year manager approval
-  - Investment voting Agenda 
+  - Buy-Sell agreement Agenda 
     - Crop year marketing contract approval (grain buy sell)
     - Land and Capital improvements budget plan approval
     - LLC asset buy and sell approval
     - Partner voting and investment share exchange approval
     - Accountant manager approval
-- Alice contribues Klop80 farm land to LLC (check with Andy Harris on Tax)
-- LLC meets to elect Farm Manager (Kenton) and applies to obtain farm loan to tile and pay operational cost for current and planting pre-purchase (est 100K - 250K)
-- Contribution value (est 750K) and Loan (est 250K) brings net assets of LLC to 1M / 1000 share voting 1000 share investment
-  - Alice 800 shares voting and investment
-  - Carla  50 shares voting and investment
-  - Chris  50 shares voting and investment
-  - Carol  50 shares voting and investment
-  - Kenton 50 shares voting and investment
-- Investment shares are structured to allow Alice to transfer ownsership and operations to other LLC members while minimizing tax issues.
-- THe intention is to have Alice assign voting shares to others that which removes her from direct operation responsiblities.
-- As Tax and ownship rules allow, Alice starts to transfer and or sell investment shares as needed.
+- LLC meets to elect Farm Manager (Kenton)
+- LLC applies to obtain farm loan to tile and pay operational cost for current and planting pre-purchase (est 100K - 250K)
+- Contribution value (est 750K) and Loan (est 100-250K) brings net assets of LLC to 1M / 1000 share voting 1000 share investment
+  - Carla  250 shares 
+  - Chris  250 shares 
+  - Carol  250 shares 
+- Investment shares are structured to allow transfer ownsership and operations to minimizing tax issues.
+- The intention is to have hire Klopfenstien LLC for operation responsiblities.
 
 ### Buy Sell Agreement
-- All partners have first right of refusal to any external buy or sell agreements.
-- All partners have the right to keep their existing investment equity precentage.
-- In the case of an LLC liquidation event, funds will be distributed via LLC member investment percentage on record at the time of the liquidation.
+- All partners have first right of refusal to any and all external buy or sell agreements.
+- All partners have the right to maintain their existing investment equity precentage.
+- In the case of an LLC liquidation event, funds will be distributed via LLC member share percentage on record at the time of the liquidation.
 - LLC recored will be filed with Sara ? or lockbox at bank ?
 
 ---
@@ -104,8 +92,8 @@ Name suggestion:
 - Intention is a Realestate Investment holding to improve Aging living environment in the Winfield area.
 
 ### Operation Agreement
-- 5 parnters (Alice, Carla, Chris, Carol, Brad/Carmen)
-  - Alice Trees 
+- 3 parnters (Carla, Chris, Carol)
+  - Main Property Address 
     - 2378 120th St. Winfield Iowa 52659
     - altrees@outlook.com
     - (319) 257-6873
@@ -121,11 +109,6 @@ Name suggestion:
     - ??? Horseshoe Dr. Cedar Falls Iowa 60613
     - carol.fletcher@uni.edu
     - ‪(319) 231-7475
-  - Brad Nordyke ??
-    - ? Winfield Iowa 52659
-    - kpklopfenstein@gmail.com
-    - (319) 750-0665
-- 2 types of shares, Operational and Investment.
 - Yearly approval of LLC Operational Manager made on or before April 8 each year for current year and next year property improvements
   - Operational voting Agenda
     - Rental year operation contract approval
@@ -136,19 +119,14 @@ Name suggestion:
     - LLC asset buy and sell approval
     - Partner voting and investment share exchange approval
     - Accountant manager approval
-- Alice contribues Homeplace land and houses to LLC (check with Andy Harris on Tax)
-- LLC meets to elect Rental Manager (Carmen ??) and applies to loan to pay operational cost for the  year (est 50K - 175K)
-- Contribution value (est 325K) and Loan (est 175K) brings net assets of LLC to 500K / 500 share investment
-  - Alice 325 shares (appraisal value)
-  - Carla  25 shares (loan debt share)
-  - Chris  25 shares (loan debt share)
-  - Carol  25 shares (loan debt share)
-  - Brad  100 shares (loan debt share)
-- Investment shares are structured to allow Alice to transfer ownsership to other LLC members while minimizing tax issues.
-- The intention is to have Alice assign voting shares to others that which removes her from direct ownership liablity.
-- Alice becomes primary renter.
+- LLC meets to elect Rental Manager and applies for loan to pay for improvements and operational cost for the  year (est 50K - 175K)
+- Contribution value (est 325K) and Loan (est 50K) brings net assets of LLC to 375K / 375 share investment
+  - Carla  125 shares (loan debt share)
+  - Chris  125 shares (loan debt share)
+  - Carol  125 shares (loan debt share)
+- The intention is to removes members from direct ownership liablity.
 - LLC is responsible for capital improvements.
-- As Tax and ownship rules allow, Alice becomes a renter of property (aka reverse mortgage).
+- LLC is responsible for operational costs.
 
 ### Buy Sell Agreement
 - All partners have first right of refusal to any external buy or sell agreements.
