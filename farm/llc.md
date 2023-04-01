@@ -36,11 +36,8 @@ AHarris@hoganhansen.com
 ## LLC for Alice Trees 80acre Farm Land
 
 Name suggestions:
-- FH Klopfenstein Farm, LLC
+- FH Klopfenstein Farms, LLC
 - Intention is a farm land holding for generational sustainablity.
-
-
-- DONE ~~USDA 2022 Census of Agriculture due Feb 6~~
 
 ### Operation Agreement
 - 3 parnters (Carla, Chris, Carol)
@@ -89,7 +86,7 @@ Name suggestions:
 
 Name suggestion:
 - Trees AES, LLC 
-- Intention is a Realestate Investment holding in the Winfield area.
+- Intention is a Residential Realestate Investment holding in the Winfield area.
 
 ### Operation Agreement
 - 3 parnters (Carla, Chris, Carol)
