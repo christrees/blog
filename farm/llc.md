@@ -56,7 +56,7 @@ Name suggestions:
     - ??? Horseshoe Dr. Cedar Falls Iowa 60613
     - carol.fletcher@uni.edu
     - ‪(319) 231-7475
-- Yearly approval of Farm Manager made on or before April 8 each year for current year and next year land improvements and planting pre-purchase.
+- Yearly approval of the following before April 8 each year.
   - Operational agreement Agenda
     - Crop year operation contract approval
     - Crop year budget plan approval
