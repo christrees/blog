@@ -1,4 +1,5 @@
 # Mom
+![MomObitPhoto](./MomObitPhoto.jpeg)
 
 ---
 Alice Trees Obituary
