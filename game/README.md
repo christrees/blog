@@ -1,4 +1,10 @@
 # Custom js and chrome hacks
+- [load runner web](https://loderunnerwebgame.com/game/)
+- [packman doodle](https://www.google.com/logos/2010/pacman10-i.html)
+- [rubics cube](https://www.chrome.com/cubelab#experiment)
+- [quick draw ai](https://quickdraw.withgoogle.com/)
+- [pony express](https://www.google.com/doodles/155th-anniversary-of-the-pony-express)
+- [magic cat halloween 2020](https://www.google.com/doodles/halloween-2020)
 
 ## Flappy Bird clone js code
 - [CATFlappyCustom](flappy)
