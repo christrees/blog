@@ -3,7 +3,7 @@
 ---
 Alice Trees Obituary
 
-Alice Trees, 86, of Winfield, passed away on Wednesday, March 29, 2023, at Sunrise Terrace in Winfield. Visitation will be held from 4 to 7 pm Tuesday, April 18 at Snyder Funeral Services in Winfield.  Memorial services will be held at 3:00 pm on Sunday, April 23, 2023, at the Winfield United Methodist Church. Immediately following the services, a time of food and fellowship will be held at the church. Online condolences may be left for the family at https://www.sandhfuneralservice.com/obituary/Alice-Trees
+Alice Trees, 86, of Winfield, passed away on Wednesday, March 29, 2023, at Sunrise Terrace in Winfield. Visitation will be held from 4 to 7 pm Tuesday, April 18 at Snyder Funeral Services in Winfield.  Memorial services will be held at 3:00 pm on Sunday, April 23, 2023, at the Winfield United Methodist Church. Immediately following the services, a time of food and fellowship will be held at the church. Online condolences may be left for the family at [https://www.sandhfuneralservice.com/obituary/Alice-Trees](https://www.sandhfuneralservice.com/obituary/Alice-Trees)
 
 Alice Anne Klopfenstein was born on April 8, 1936, at home to Fred and Hazel (Fletcher) Klopfenstein of Winfield Iowa. Alice was a graduate from Winfield High School and Iowa State University where she received a degree in Home Economics.
 
