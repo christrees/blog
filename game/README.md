@@ -1,3 +1,4 @@
+[edit](https://github.com/christrees/blog/edit/master/game/README.md)
 # Custom js and chrome hacks
 - [load runner web](https://loderunnerwebgame.com/game/)
 - [packman doodle](https://www.google.com/logos/2010/pacman10-i.html)
