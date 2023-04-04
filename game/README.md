@@ -1,10 +1,11 @@
 # Custom js and chrome hacks
 
 ## Flappy Bird clone js code
-
-![CATFlappyCustom](CATFlappyCustom.png)
 - [CATFlappyCustom](flappy)
 
+![CATFlappyCustom](CATFlappyCustom.png)
+
+![CATFlappyHighScore](CAT-FlappyHighScore_2023-04-03at8-23-34PM.png)
 ---
 
 ## CATDino custom js code
