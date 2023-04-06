@@ -44,6 +44,7 @@ Details:TREES, ALAN V. & ALICE A.
 74,IA
 NW NE
 ```
+
 - Parcel 76 Farm Land only ?
 ```
 County:Louisa,IA
