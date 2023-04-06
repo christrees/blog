@@ -34,7 +34,7 @@ AHarris@hoganhansen.com
 ---
 
 ## LLC for Alice Trees 80acre Farm Land
-
+- Parcel Data from [https://www.iowatreasurers.org/index.php?module=schedules](https://www.iowatreasurers.org/index.php?module=schedules)
 - Parcel barn and grass ?
 ```
 County:Louisa,IA
@@ -60,7 +60,7 @@ Name suggestions:
 
 ### Operation Agreement
 - 3 parnters (Carla, Chris, Carol)
-  - Carla Trees
+- Carla Trees
 ```
 Carla Trees
 2392 105th St 
@@ -68,7 +68,7 @@ Winfield, IA 52659
 Email: carlatrees@gmail.com
 Phone: (319) 461-5170
 ```
-  - Chris Trees
+- Chris Trees
 ```
 Chris Trees
 2416 Rownd St. 
@@ -76,7 +76,7 @@ Cedar Falls, IA 50613
 Email: christrees@gmail.com
 Phone: (515) 999-0007
 ```
-  - Carol Fletcher
+- Carol Fletcher
 ```
 Carol Fletcher
 2821 Horseshoe Drive
@@ -114,7 +114,7 @@ Phone: 319-231-7475
 ---
 
 ## LLC for Alice Trees 20acre Residential and Farm Land
-
+- Parcel Data from [https://www.iowatreasurers.org/index.php?module=schedules](https://www.iowatreasurers.org/index.php?module=schedules)
 - Parcel Folks House
 ```
 County:Henry,IA
@@ -140,7 +140,7 @@ Name suggestion:
 
 ### Operation Agreement
 - 3 parnters (Carla, Chris, Carol)
-  - Carla Trees
+- Carla Trees
 ```
 Carla Trees
 2392 105th St 
@@ -148,7 +148,7 @@ Winfield, IA 52659
 Email: carlatrees@gmail.com
 Phone: (319) 461-5170
 ```
-  - Chris Trees
+- Chris Trees
 ```
 Chris Trees
 2416 Rownd St. 
@@ -156,7 +156,7 @@ Cedar Falls, IA 50613
 Email: christrees@gmail.com
 Phone: (515) 999-0007
 ```
-  - Carol Fletcher
+- Carol Fletcher
 ```
 Carol Fletcher
 2821 Horseshoe Drive
