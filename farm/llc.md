@@ -35,6 +35,25 @@ AHarris@hoganhansen.com
 
 ## LLC for Alice Trees 80acre Farm Land
 
+- Parcel barn and grass ?
+```
+County:Louisa,IA
+Parcel:0633201000
+Details:TREES, ALAN V. & ALICE A.
+7783 COUNTY RD W66
+74,IA
+NW NE
+```
+- Parcel 76 Farm Land only ?
+```
+County:Louisa,IA
+Parcel:0633251000
+Details:TREES, ALAN V. & ALICE A.
+
+74,IA
+SW NE
+```
+
 Name suggestions:
 - FH Klopfenstein Farms, LLC
 - Intention is a farm land holding for generational sustainablity.
@@ -42,17 +61,29 @@ Name suggestions:
 ### Operation Agreement
 - 3 parnters (Carla, Chris, Carol)
   - Carla Trees
-    - ? Winfield Iowa 52659
-    - carlatrees@gmail.com
-    - (319) 461-5170
+```
+Carla Trees
+2392 105th St 
+Winfield, IA 52659
+Email: carlatrees@gmail.com
+Phone: (319) 461-5170
+```
   - Chris Trees
-    - 2416 Rownd St. Cedar Falls Iowa 60613
-    - christrees@gmail.com
-    - (515) 999-0007
+```
+Chris Trees
+2416 Rownd St. 
+Cedar Falls, IA 50613
+Email: christrees@gmail.com
+Phone: (515) 999-0007
+```
   - Carol Fletcher
-    - ??? Horseshoe Dr. Cedar Falls Iowa 60613
-    - carol.fletcher@uni.edu
-    - ‪(319) 231-7475
+```
+Carol Fletcher
+2821 Horseshoe Drive
+Cedar Falls, IA 50613
+Email: carol.fletcher@uni.edu
+Phone: 319-231-7475
+```
 - Yearly approval of the following before April 8 each year.
   - Operational agreement Agenda
     - Crop year operation contract approval
@@ -66,12 +97,12 @@ Name suggestions:
     - Accountant manager approval
 - LLC meets to elect Farm Manager (Kenton)
 - LLC applies to obtain farm loan to tile and pay operational cost for current and planting pre-purchase (est 100K - 250K)
-- Contribution value (est 750K) and Loan (est 100-250K) brings net assets of LLC to 1M / 1000 share voting 1000 share investment
+- Contribution value (est 750K) 750 shares
   - Carla  250 shares 
   - Chris  250 shares 
   - Carol  250 shares 
 - Investment shares are structured to allow transfer ownsership and operations to minimizing tax issues.
-- The intention is to have hire Klopfenstien LLC for operation responsiblities.
+- The intention is to have hire Klopfenstien Ag LLC for custom farming managed by Farm Manager (Kenton).
 
 ### Buy Sell Agreement
 - All partners have first right of refusal to any and all external buy or sell agreements.
@@ -84,6 +115,25 @@ Name suggestions:
 
 ## LLC for Alice Trees 20acre Residential and Farm Land
 
+- Parcel Folks House
+```
+County:Henry,IA
+Parcel:000000030453000
+Details:Trees, Alan V & Alice A
+2378 120TH ST
+WINFIELD ,IA
+W 1/2 NE NE EX NE PTALSO 0.726A TRACT E MID PT W 1/2 NE NE
+```
+- Parcel Rental
+```
+County:Henry,IA
+Parcel:000000030191000
+Details:Trees, Alan V & Alice A
+2384 120TH ST
+WINFIELD ,IA
+NE PT W 1/2 NE NE
+```
+
 Name suggestion:
 - Trees AES, LLC 
 - Intention is a Residential Realestate Investment holding in the Winfield area.
@@ -91,17 +141,29 @@ Name suggestion:
 ### Operation Agreement
 - 3 parnters (Carla, Chris, Carol)
   - Carla Trees
-    - ? Winfield Iowa 52659
-    - carlatrees@gmail.com
-    - (319) 461-5170
+```
+Carla Trees
+2392 105th St 
+Winfield, IA 52659
+Email: carlatrees@gmail.com
+Phone: (319) 461-5170
+```
   - Chris Trees
-    - 2416 Rownd St. Cedar Falls Iowa 60613
-    - christrees@gmail.com
-    - (515) 999-0007
+```
+Chris Trees
+2416 Rownd St. 
+Cedar Falls, IA 50613
+Email: christrees@gmail.com
+Phone: (515) 999-0007
+```
   - Carol Fletcher
-    - ??? Horseshoe Dr. Cedar Falls Iowa 60613
-    - carol.fletcher@uni.edu
-    - ‪(319) 231-7475
+```
+Carol Fletcher
+2821 Horseshoe Drive
+Cedar Falls, IA 50613
+Email: carol.fletcher@uni.edu
+Phone: 319-231-7475
+```
 - Yearly approval of LLC Operational Manager made on or before April 8 each year for current year and next year property improvements
   - Operational voting Agenda
     - Rental year operation contract approval
@@ -112,12 +174,13 @@ Name suggestion:
     - LLC asset buy and sell approval
     - Partner voting and investment share exchange approval
     - Accountant manager approval
-- LLC meets to elect Rental Manager and applies for loan to pay for improvements and operational cost for the  year (est 50K - 175K)
-- Contribution value (est 325K) and Loan (est 50K) brings net assets of LLC to 375K / 375 share investment
+- LLC meets to elect Rental Manager and applies for loan to pay for improvements and operational cost for the  year.
+- Contribution value (est 325K) and Cash (est 50K) brings net assets of LLC to 375K / 375 shares
   - Carla  125 shares (loan debt share)
   - Chris  125 shares (loan debt share)
   - Carol  125 shares (loan debt share)
-- The intention is to removes members from direct ownership liablity.
+- The intention is to protect members from direct ownership liablity.
+- The intention is to re-invest revenue into maintainance and capital improvements.
 - LLC is responsible for capital improvements.
 - LLC is responsible for operational costs.
 
