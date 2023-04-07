@@ -6,6 +6,7 @@
 - [quick draw ai](https://quickdraw.withgoogle.com/)
 - [pony express](https://www.google.com/doodles/155th-anniversary-of-the-pony-express)
 - [magic cat halloween 2020](https://www.google.com/doodles/halloween-2020)
+- [google solitaire](https://www.google.com/logos/fnbx/solitaire/standalone.html)
 
 ## Flappy Bird clone js code
 - [CATFlappyCustom](flappy)
