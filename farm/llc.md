@@ -11,6 +11,9 @@ Sara L. Haas
 Member
 ```
 ```
+shaas@seialaw.com
+```
+```
 319-754-6587
 ```
 ```
