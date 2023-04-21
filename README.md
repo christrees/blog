@@ -3,7 +3,7 @@
 
 - [Mom digital pics](https://photos.app.goo.gl/aMddCaTmqtoSDgWo8)
 - [Mom google pics](https://photos.app.goo.gl/C2qCpRkvkdgWAM3H8)
-- [Dad Funeral pics]{https://photos.app.goo.gl/QVESNaP4TYDJRT4JA)
+- [Dad Funeral pics](https://photos.app.goo.gl/QVESNaP4TYDJRT4JA)
 
 ## 2023.02.04 Andi's project
 Andi assembled Anne's christmas gift.
