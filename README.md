@@ -6,6 +6,8 @@
 - [Dad Funeral pics](https://photos.app.goo.gl/QVESNaP4TYDJRT4JA)
 - [To Print](https://photos.app.goo.gl/qNGXKJSXy89rp4Mg7)
 
+## [Mom Notes](./share/mom/notes)
+
 ## 2023.02.04 Andi's project
 Andi assembled Anne's christmas gift.
 ![AndiChristmasGiftFromAnne](./AndiChristmasGiftFromAnne.jfif)
