@@ -8,6 +8,9 @@
 
 ## [Mom Notes](./share/mom/notes)
 
+
+- [Mom Notes](./share/mom/notes.md)
+
 ## 2023.02.04 Andi's project
 Andi assembled Anne's christmas gift.
 ![AndiChristmasGiftFromAnne](./AndiChristmasGiftFromAnne.jfif)
