@@ -5,6 +5,8 @@
 - [speed sensor replacement](https://www.youtube.com/watch?v=5TgcsDlkoRU&t=22s)
 - [abs reset](https://www.wheelsjoint.com/buick-lacrosse-abs-light-is-on-causes-and-how-to-reset/)
 - [abs wire diagram](https://portal-diagnostov.com/en/2020/04/04/anti-lock-brakes-buick-lacrosse-cxl-2009-system-wiring-diagrams/)
+- [LAUNCH CRP123](https://www.amazon.com/dp/B07RLF8FBC?SubscriptionId=AKIAJO7E5OLQ67NVPFZA)
+- [LAUNCH CRP123 video](https://www.youtube.com/watch?v=AIR6qKu2rr4)
 
 ## Remove and Replace Drive Axile [Youtube Video](https://www.youtube.com/watch?v=-PC1iuPzk4w)
 1. Remove axle nut [tc0:50](https://youtu.be/-PC1iuPzk4w?t=50)
