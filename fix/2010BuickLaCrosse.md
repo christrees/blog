@@ -1,6 +1,13 @@
 # Repairs
 2010 Buick Lacrosse Cx xxx1G4GB5EG3AF282138xxx
 
+## Midas 
+- Apt at 2pm Sat 5/6/2023
+- MIDAS CEDAR FALLS
+- 4810 University Avenue
+- Cedar Falls, IA 50613
+- 319.553.3812
+
 ## ABS
 - [a1 auto abs](https://www.youtube.com/watch?v=W6Yu6yKyTyI)
 - [speed sensor replacement](https://www.youtube.com/watch?v=5TgcsDlkoRU&t=22s)
@@ -26,6 +33,11 @@
 
 ## Sensor codes triggered
 - [P0014 - Camshaft Position Sensor position](https://www.youtube.com/watch?v=8iWlWzs9saQ)
+
+## Tires with Gerling
+- ![set](./BuickLaCrosse-Tires-Set-PXL_20230120_160556020.jpg)
+- ![bad1](./BuickLaCrosse-Tires-bad1-PXL_20230120_154154249.jpg)
+- ![bad2](./BuickLaCrosse-bad2-PXL_20230120_154149769.jpg)
 
 
 ## Remove and Replace Drive Axile [Youtube Video](https://www.youtube.com/watch?v=-PC1iuPzk4w)
