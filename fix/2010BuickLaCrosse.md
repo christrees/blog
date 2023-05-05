@@ -22,6 +22,8 @@
 - [line replacement snapring tool video](https://www.youtube.com/watch?v=RR-rkhhserE)
 - [line fix and replace](https://www.youtube.com/watch?v=gDKmf2IdHt4)
 - [DEAD BATTERY | How to FIND a Parasitic Battery DRAIN](https://www.youtube.com/watch?v=rVScppKsfHs)
+
+## Sensor codes triggered
 - [P0014 - Camshaft Position Sensor position](https://www.youtube.com/watch?v=8iWlWzs9saQ)
 
 
@@ -50,7 +52,6 @@
     - 3rd: 185 ft-lbs/250 Nm.
 
 ## [1AAuto Wheel Hub Stuck](https://www.youtube.com/watch?v=JKcgXmX8oBo)
-
 
 <iframe src="https://www.youtube.com/embed/JKcgXmX8oBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
