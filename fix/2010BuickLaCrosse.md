@@ -4,6 +4,7 @@
 ## ABS
 - [a1 auto abs](https://www.youtube.com/watch?v=W6Yu6yKyTyI)
 - [speed sensor replacement](https://www.youtube.com/watch?v=5TgcsDlkoRU&t=22s)
+    - [ordered part](https://www.carparts.com/ABS-Speed-Sensor/Replacement/RB31080016?utm_term=product_summary&bsft_aaid=e748ae88-c8ab-4fa9-b03d-ced7c4a6fd33&bsft_eid=967862f1-46a4-508a-7228-29455d807cd2&utm_campaign=cped2021_transactional_shippingnotification&utm_source=blueshift&utm_medium=email&utm_content=cped2021_transactional_shippingnotification&bsft_clkid=48893c80-b67a-4c43-ad9d-001f2fcb4563&bsft_uid=c73e3f99-5036-45e8-b63d-bdde54108447&bsft_mid=9c4c6bd7-c658-405b-832b-3b8c539be0c9&bsft_txnid=f7c27637-764e-4820-92a2-4284ba83ff40&bsft_mime_type=html&bsft_ek=2023-04-27T16%3A11%3A05Z&bsft_lx=37&bsft_tv=308&cpcoupon=TLP5UIMNU9A8VQ2)
 - [abs reset](https://www.wheelsjoint.com/buick-lacrosse-abs-light-is-on-causes-and-how-to-reset/)
 - [abs wire diagram](https://portal-diagnostov.com/en/2020/04/04/anti-lock-brakes-buick-lacrosse-cxl-2009-system-wiring-diagrams/)
 - [LAUNCH CRP123](https://www.amazon.com/dp/B07RLF8FBC?SubscriptionId=AKIAJO7E5OLQ67NVPFZA)
