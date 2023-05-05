@@ -1,4 +1,5 @@
 # Repairs
+2010 Buick Lacrosse Cx xxx1G4GB5EG3AF282138xxx
 
 ## ABS
 - [a1 auto abs](https://www.youtube.com/watch?v=W6Yu6yKyTyI)
@@ -15,6 +16,14 @@
  - [Stabilitrack repair sparkplugs]()
  - [Replace Sparkplugs](https://www.youtube.com/watch?v=V1fGYUqJ_U0) and [Repalce Sparkplugs](https://www.youtube.com/watch?v=2Lv7okn-t8k)
  - [LAUNCH CRP129 scantool - ebay $139](https://www.ebay.com/itm/134550473627)
+
+## Transmission Line Repalcement
+- [line part amazon](https://www.amazon.com/ACDelco-15817233-Equipment-Automatic-Transmission/dp/B0049OI4J2/ref=asc_df_B0049OI4J2/?tag=hyprod-20&linkCode=df0&hvadid=312098740701&hvpos=&hvnetw=g&hvrand=9671286656257107219&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9018109&hvtargid=pla-450298846723&psc=1)
+- [line replacement snapring tool video](https://www.youtube.com/watch?v=RR-rkhhserE)
+- [line fix and replace](https://www.youtube.com/watch?v=gDKmf2IdHt4)
+- [DEAD BATTERY | How to FIND a Parasitic Battery DRAIN](https://www.youtube.com/watch?v=rVScppKsfHs)
+- [P0014 - Camshaft Position Sensor position](https://www.youtube.com/watch?v=8iWlWzs9saQ)
+
 
 ## Remove and Replace Drive Axile [Youtube Video](https://www.youtube.com/watch?v=-PC1iuPzk4w)
 1. Remove axle nut [tc0:50](https://youtu.be/-PC1iuPzk4w?t=50)
