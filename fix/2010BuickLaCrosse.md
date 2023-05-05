@@ -14,6 +14,7 @@
     - Brake pedal switch replace
  - [Stabilitrack repair sparkplugs]()
  - [Replace Sparkplugs](https://www.youtube.com/watch?v=V1fGYUqJ_U0) and [Repalce Sparkplugs](https://www.youtube.com/watch?v=2Lv7okn-t8k)
+ - [LAUNCH CRP129 scantool - ebay $139](https://www.ebay.com/itm/134550473627)
 
 ## Remove and Replace Drive Axile [Youtube Video](https://www.youtube.com/watch?v=-PC1iuPzk4w)
 1. Remove axle nut [tc0:50](https://youtu.be/-PC1iuPzk4w?t=50)
