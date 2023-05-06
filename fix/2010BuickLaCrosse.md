@@ -1,9 +1,21 @@
+[edit](https://github.com/christrees/blog/edit/master/fix/2010BuickLaCrosse.md)
+
 # Repairs
 - 2010 Buick Lacrosse Cx xxx1G4GB5EG3AF282138xxx
 - repair pictures [click here](https://photos.app.goo.gl/JZ8Lres7hpEfGWm36)
 
 ## Midas 
 - Apt at 2pm Sat 5/6/2023
+    - $107 Engine service fee
+    - was told I could apply fee to any repair or oil change
+    - took in for ABS light and they said I could apply charge to oil changes
+    - I think they only read the codes.... did not dig into anythe
+    - quoted $1257.22 to replace both front wheel bearings
+    - I asked about tire pressure.. they said not ABS
+    - Went to start car and did not start
+    - jumped and pulled back in shop to do battery test, battery test failed (low voltage)
+    - said about $200 to replace battery, but could not apply $107 engine service fee to that
+    - so basically it the whole thing did not tell me anything new... will attempt an oil change at some point
 - MIDAS CEDAR FALLS
 - 4810 University Avenue
 - Cedar Falls, IA 50613
@@ -25,6 +37,7 @@
  - [Stabilitrack repair sparkplugs]()
  - [Replace Sparkplugs](https://www.youtube.com/watch?v=V1fGYUqJ_U0) and [Repalce Sparkplugs](https://www.youtube.com/watch?v=2Lv7okn-t8k)
  - [LAUNCH CRP129 scantool - ebay $139](https://www.ebay.com/itm/134550473627)
+ - [XTool D7 - $367 to $450 or A30M $120 to $180](https://www.youtube.com/watch?v=1tUBSwsZjU8)
 
 ## Transmission Line Repalcement
 - [line part amazon](https://www.amazon.com/ACDelco-15817233-Equipment-Automatic-Transmission/dp/B0049OI4J2/ref=asc_df_B0049OI4J2/?tag=hyprod-20&linkCode=df0&hvadid=312098740701&hvpos=&hvnetw=g&hvrand=9671286656257107219&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9018109&hvtargid=pla-450298846723&psc=1)
