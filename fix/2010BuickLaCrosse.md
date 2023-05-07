@@ -4,9 +4,22 @@
 - 2010 Buick Lacrosse Cx xxx1G4GB5EG3AF282138xxx
 - repair pictures [click here](https://photos.app.goo.gl/JZ8Lres7hpEfGWm36)
 
+
+## Key fob replacement
+- [amazon part](https://www.amazon.com/gp/product/B071913PBT?th=1)
+- [Replacement video](https://www.youtube.com/watch?v=7m8-p_X-FcY)
+
+## Tire pressure relearn
+- [amazon part](https://www.amazon.com/gp/product/B07Z968ZD1)
+- [Relearn proceedure Video](https://www.youtube.com/watch?v=QQybDldnZzA)
+- [Relearn proceedure doc](https://www.brakeandfrontend.com/gm-tire-pressure-monitoring-systems-tpms/)
+
+## Rear tail light
+- [Google search 2010 Buick LaCrosse left rear tail lens](https://www.google.com/search?q=2010+buick+lacrosse+left+rear+tail+lens+replacement&oq=2010+buick+lacrosse+left+rear+tail+lense&aqs=chrome.2.69i57j33i10i160l4.22590j0j7&sourceid=chrome&ie=UTF-8)
+
 ## Midas 
 - Apt at 2pm Sat 5/6/2023
-    - $107 Engine service fee
+    - $107 Engine service fee ($123.73 total with tax and shop fee)
     - was told I could apply fee to any repair or oil change
     - took in for ABS light and they said I could apply charge to oil changes
     - I think they only read the codes.... did not dig into anythe
