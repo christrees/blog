@@ -1,5 +1,11 @@
+[edit](https://github.com/christrees/blog/blob/master/wip/streamstudio.md)
+
 # Streaming Studio Setup
 
+## macmini setup
+- Last version that supports 10.15.6 Catalina on catmini [download/29.0.2/obs-studio-29.0.2-macos-x86_64.dmg](https://github.com/obsproject/obs-studio/releases/download/29.0.2/obs-studio-29.0.2-macos-x86_64.dmg)
+- droid cam app
+- [https://www.youtube.com/watch?v=rZ8dd-gq5t4](https://www.youtube.com/watch?v=rZ8dd-gq5t4}
 ## Record 
 - [Record HDCP Protected](https://www.youtube.com/watch?v=6Kv-8xbiIQU)
 - [HDMI Spliter removes HDCP protection](https://www.amazon.com/gp/product/B081RDP2JX/ref=as_li_qf_asin_il_tl?ie=UTF8)
