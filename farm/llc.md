@@ -2,6 +2,7 @@
 [edit](https://github.com/christrees/blog/edit/master/farm/llc.md)
 
 ---
+- when to swithch from llc to s-corp > $45K [youtube llc to s-corp and c-corp](https://www.youtube.com/watch?v=LUpyc89bgBU)
 ---
 
 - [https://www.seialaw.com/attorneys/sara-l-haas/](https://www.seialaw.com/attorneys/sara-l-haas/)
