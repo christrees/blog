@@ -2,8 +2,6 @@
 [edit](https://github.com/christrees/blog/edit/master/farm/llc.md)
 
 ---
-- when to swithch from llc to s-corp > $45K [youtube llc to s-corp and c-corp](https://www.youtube.com/watch?v=LUpyc89bgBU)
----
 
 - [https://www.seialaw.com/attorneys/sara-l-haas/](https://www.seialaw.com/attorneys/sara-l-haas/)
 
@@ -239,7 +237,9 @@ Phone: 319-231-7475
 
 - Talks about flexiblity in share rights, restriction is minority oppression [video tc 57:11](https://youtu.be/xqNulmE6jtk?t=3431) must have a reasonable exit for all shares.
 
-
+---
+- when to swithch from llc to s-corp > $45K [youtube llc to s-corp and c-corp](https://www.youtube.com/watch?v=LUpyc89bgBU)
+- business structures and [loans](https://www.youtube.com/@andrewcartwright/videos)
 
 
 Questions:
