@@ -8,6 +8,15 @@
 - [https://www.youtube.com/watch?v=rZ8dd-gq5t4](https://www.youtube.com/watch?v=rZ8dd-gq5t4)
 - tbd
 
+## macci setup
+- Last version that supports 10.13.6 High Sierra on macci [download/27.2.4/obs-mac-27.2.4.dmg](https://github.com/obsproject/obs-studio/releases/download/27.2.4/obs-mac-27.2.4.dmg)
+- droid cam app for obs 27.2 is [DroidCamOBS_1.5.0.pkg](https://github.com/dev47apps/droidcam-obs-plugin/releases/download/1.5.0/DroidCamOBS_1.5.0.pkg) but does not work so well
+- DroidApp [remove OBS packages on mac](https://www.dev47apps.com/obs/#:~:text=Use%20Programs%20and%20Features%20in,remove%20the%20DroidCam%20OBS%20plugin.&text=Remove%20'droidcam%2Dobs'%20from,obs%2Dstudio%2Fplugins%2F'.&text=follow%20the%20prompts%20(enter%20%22y,forget%20com.dev47apps.obsdroidcam%20.)
+- setup with old usb cheap cameras
+- click stream and test
+- [https://www.youtube.com/watch?v=rZ8dd-gq5t4](https://www.youtube.com/watch?v=rZ8dd-gq5t4)
+- tbd
+
 ## Record 
 - [Record HDCP Protected](https://www.youtube.com/watch?v=6Kv-8xbiIQU)
 - [HDMI Spliter removes HDCP protection](https://www.amazon.com/gp/product/B081RDP2JX/ref=as_li_qf_asin_il_tl?ie=UTF8)
