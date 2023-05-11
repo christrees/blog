@@ -1,5 +1,31 @@
 [edit](https://github.com/christrees/blog/blob/master/wip/streamstudio.md)
 
+### Checklist
+#### take from cf macci setup
+- macci, ac cord, 
+- usb kbrd/ms, hdmi cable, machd-vga
+- USB dongle with 4 cameras
+- 3 other USB cameras
+- Black power brick with USB
+- USB trip apple charge cable
+- 2x USB trip apple, micro, type C charge cable
+- 2x iPhone8
+- 1x iPhone11
+#### take from cf catmini setup
+- cat's mac mini, ac cord,
+- mac bt keyboard
+- mac bt mousepad
+- HDMI cable
+- Logitech USB speaker/mouse
+- usb kbrd/ms, hdmi cable, machd-vga
+#### take from cf various
+- ethernet case
+- portal 8"
+- portal TV
+- fireTV cube
+- HDMI cables
+- Windows Surface, ps, dock, docps
+
 # Streaming Studio Setup
 
 ## macmini setup
