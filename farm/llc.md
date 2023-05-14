@@ -244,3 +244,11 @@ Phone: 319-231-7475
 
 Questions:
 - Valuation Discounts how to use them [video tc 27:06](https://youtu.be/xqNulmE6jtk?t=1626)
+
+---
+## Grain Marketing
+1. Set a minimum sell price based on your cost of production and set a realistic high price. 
+2. Estimate how many bushels would be 70% of your average production.
+3. In April, May and June, make seven sales (70% of production divided by 10) when prices are within your price range.
+4. On July 1, price any remaining portions of that 70%.
+5. For the remaining 30% of your grain, develop a postharvest marketing plan.  
