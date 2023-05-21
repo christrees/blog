@@ -1,3 +1,4 @@
+[edit](https://github.com/christrees/blog/edit/master/trade/README.md)
 # Market Trading links
 
 - [simple support resistance with hedge](https://www.youtube.com/watch?v=5MU_I6F8UsY)
