@@ -1,3 +1,4 @@
+[edit](https://github.com/christrees/blog/edit/master/trade/bot/README.md)
 # Trade bot development
 
 - [Binance postman api testnet](https://academy.binance.com/en/articles/binance-api-series-pt-1-spot-trading-with-postman)
