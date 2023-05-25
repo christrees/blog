@@ -1,4 +1,25 @@
+[edit](https://github.com/christrees/blog/edit/master/food/README.md)
 
+## Fit Tuber [youtube](https://www.youtube.com/watch?v=gjYVS8m91UU)
+- Hot Water
+- 4tsp Amla - 4tsp Aloe Vera - 1tsp Ginger - 9tsp Water - [youtube](https://youtu.be/gjYVS8m91UU?t=214)
+  - Amla powder [amazon](https://www.amazon.com/Certified-USDA-Organic-Powder-Amalaki/dp/B0B1Y3N8VK/ref=sr_1_24?hvadid=410021340216&hvdev=c&hvlocphy=9018109&hvnetw=g&hvqmt=e&hvrand=4662424040253479676&hvtargid=kwd-335947816064&hydadcr=21851_11240826&keywords=amla+juice+pure&qid=1685020318&sr=8-24)
+  - Aloe Vera [amazon](https://www.amazon.com/Lily-Desert-Juice-Aloe-ounces/dp/B007J6JBV2/ref=sr_1_5?keywords=aloe+juice+pure&qid=1685031861&sprefix=alow+juice+pure%2Caps%2C150&sr=8-5)
+- Barley 
+  - Barley water - (soak barley in water add lemon)
+  - Barley chapati - boil to soft like oatmeal
+  - Barley sattu - ground and softened ?
+  - Barley dalia - ?
+- Cabbage
+  - Cabbage soup
+  - Cabbage sabzi
+  - Cabbage salad
+- Moong Dal 
+  - Whole Green Moong Dal
+  - Moong Dal Sprouts [youtube](https://youtu.be/gjYVS8m91UU?t=432)
+    - 1/4 cup Soak for 5-6 hr (swells up)
+    - Tie in cloth, keep dark and warm for 10-12 hrs
+    - add chopped onion, tomato, rock salt, black pepper, grated ginger, lemon juice, coriander leaves, bhuna jeera, trace of cold pressed sesame oil
 ## Daily Shot
  - 1 Tablespoon Extra Virgin Olive Oil
  - 1 Clove Garlic crushed and let oxidize for 3 min
@@ -7,7 +28,6 @@
  - 1-2 Drizzles of Raw Honey
 
 ## Fire Cider 
-
 [Fire Cider](https://nourishedkitchen.com/fire-cider/) 
 
 Ingredients
