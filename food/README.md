@@ -49,7 +49,20 @@ Instructions
  - Store at room temperature up to 6 months and in the fridge up to 18 months.
 
 
-
+## Tooth Food [youtube](https://www.youtube.com/watch?v=XrpNrJoH4wI)
+- Coconut Oil - good to kill bad bact in mouth - 2 teaspoons 15-20min/day
+- Essential oils Cinnamon, Sweet Basil and peppermint to reduce biofilm
+- Alkaline-Antibacterial Mouthwash
+- Tongue Scraping
+- High Magnesium (juicing)
+  - 4 leave swiss chard, kale or collard greens
+  - 1/4 bunch parsley
+  - 1-2 cups cabbage
+  - 1/2 cucumber
+  - 4 celery stalks
+  - 6 carrots
+- Vit A, C, K, Ca, Fe
+- Grape Juice (CaF2)
 ## Old stuff
 
  - [old food site](./food.html)
