@@ -1,5 +1,8 @@
 [edit](https://github.com/christrees/blog/blob/master/wip/streamstudio.md)
 
+
+## Review notes
+- [epoccam - cellphone web cam](https://www.elgato.com/us/en/s/epoccam)
 ### Checklist
 #### take from cf macci setup
 - macci, ac cord, 
