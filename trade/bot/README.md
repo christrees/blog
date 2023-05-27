@@ -1,6 +1,8 @@
 [edit](https://github.com/christrees/blog/edit/master/trade/bot/README.md)
 # Trade bot development
 
+- [NEW Artificial Intelligence Indicator 10X BETTER Than Moving Average](https://www.youtube.com/watch?v=pbsnn4oB2Hs)
+- [I Built a Trading Bot with Bing and ChatGPT](https://www.youtube.com/watch?v=5G1_zRME_pY)
 - [Generate Insane Trading Returns with ChatGPT and TradingView](https://www.youtube.com/watch?v=ekz6ugJE1h0)
   - [https://github.com/KeystoneScience/WSB_stock_trade/blob/main/lambda/updateS3/index.js](https://github.com/KeystoneScience/WSB_stock_trade/blob/main/lambda/updateS3/index.js)
   - [https://stockbot.keystonescience.com/](https://stockbot.keystonescience.com/)
