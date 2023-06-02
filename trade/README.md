@@ -3,6 +3,7 @@
 
 - [simple support resistance with hedge](https://www.youtube.com/watch?v=5MU_I6F8UsY)
 - [hedge trades](https://www.youtube.com/watch?v=46voScF9VCQ)
+- [iman trading](https://www.imantrading.org/experienced) - [iman youtube](https://www.youtube.com/watch?v=4a781K2VN8w)
 
 ### Stock Daily Info
 - [Trader TV Subscription](https://www.youtube.com/c/TraderTVLive/featured)
