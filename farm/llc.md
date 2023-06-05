@@ -8,7 +8,39 @@
 - [Iowa Attorney General - steps-following-the-death-of-a-loved-one](https://www.iowaattorneygeneral.gov/for-consumers/general-consumer-information/steps-following-the-death-of-a-loved-one)
 - [tbd]()
 
+--- 
+Credit Agencies
+In the requests, include the following information about the loved one: 
 
+- Legal Name 
+- Social Security Number 
+- Date of Birth 
+- Date of Death 
+- Last known address 
+- A copy of the death certificate 
+
+Also include the following information about yourself: 
+- Legal Name 
+- Copy of identification, such as driver’s license 
+- Current Address 
+- Copy of Letters Testamentary, Power of Attorney, or other legal documentation with a court seal indicating you are the executor of the estate. 
+
+- Experian: P.O. Box 9701 Allen, TX 75013
+- Equifax: P.O. Box 105139 Atlanta, GA 30348
+- TransUnion: P.O. Box 2000 Chester, PA 19016 
+
+---
+- June 5, 2023 2.40pm - Called Haggie Ins, confirmed personal property and house coverage is paid for year $2,074.00 was in bank etf
+- June 5, 2023 2pm - Called IowaDOT 515.244.9124 - Confirmed IowaDOT has Deceased.
+  - Sanction
+    - Cust No: 568264. DL No: xxxxxx 
+    - Date: 4.18.2023 
+    - Sanction No: 4646407
+  - Re-Exam 
+    - Cust No: 568264. DL No: xxxxxx
+    - Date: 3.22.2023
+    - CaseNo: 956289
+- June 5, 2023 8am - Carla called and will be paying $7,583.64 Snyder Funeral Home
 ---
 
 - [https://www.seialaw.com/attorneys/sara-l-haas/](https://www.seialaw.com/attorneys/sara-l-haas/)
