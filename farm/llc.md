@@ -2,6 +2,7 @@
 [edit](https://github.com/christrees/blog/edit/master/farm/llc.md)
 
 ## New info
+- [LLC in Iowa - how to](https://www.legalzoom.com/articles/how-to-start-an-llc-in-iowa)
 - [A Guide to Filing Taxes after Someone Dies](https://everloved.com/articles/post-death-logistics/a-guide-to-filing-taxes-after-someone-dies/?gad=1&gclid=CjwKCAjwpayjBhAnEiwA-7ena3Yp7JuFygMVCSCUVdrfQCvCNYYF_CjPlhSiaIVp57lwq0dR7asiVhoCbhoQAvD_BwE)
 - [Limited Liability Company Federal EIN Application](https://irs-federal-ein-number.com/form/limited-liability-company)
 - [How to Report a Death to Credit Bureaus](https://everloved.com/articles/post-death-logistics/how-to-report-a-death-to-credit-bureaus/)
