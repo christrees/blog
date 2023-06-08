@@ -1,6 +1,16 @@
 # Chris's entertainment list
 [edit](https://github.com/christrees/blog/edit/master/media/README.md)
 
+- [Star Trek](https://www.youtube.com/show/SCWdVLvom3QaFGxEKNASntaA?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: TNG]()
+- [Star Trek: DS9](https://www.youtube.com/show/SCHgiEFkJpT8Byonfff1m5ow?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: Voyager](https://www.youtube.com/show/SCJuctJH3vNoYI7SLAsQha2w?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: Enterprise](https://www.youtube.com/show/SCuUF2odhW1ghoqcfBHWBklA?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: Discovery](https://www.youtube.com/show/SCNlKKUlg7mmYI48Kt2N6-YQ?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: Picard](https://www.youtube.com/show/SCMVpDY30zih2UU6bOniDeNQ?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: Strange New Worlds](https://www.youtube.com/show/SC-DnTXmHBs_tfKVoS0W7RaQ?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: Below Decks](https://www.youtube.com/show/SCDVgLqJiDpC6VxLnrM18qQw?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
+- [Star Trek: Prodigy](https://www.youtube.com/show/SC0RfhPp_6dhm6Msnx5ysi4A?sbp=GhwaGgoYVUNmSzVkcTgtWGdjbXpxUEdWS3luYnZB)
 - [Star Trek: Resurgence](https://www.youtube.com/playlist?list=PLqhgeVhyGlzVRnlMfX8TRD82Ot3VCgele)
 ## DC series
 - Arrow Season 1 (2012-2013)
