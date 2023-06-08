@@ -1,4 +1,7 @@
 # Chris's entertainment list
+[edit](https://github.com/christrees/blog/edit/master/media/README.md)
+
+- [Star Trek: Resurgence](https://www.youtube.com/playlist?list=PLqhgeVhyGlzVRnlMfX8TRD82Ot3VCgele)
 ## DC series
 - Arrow Season 1 (2012-2013)
 - Arrow Season 2 (2013-2014)
