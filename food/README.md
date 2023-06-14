@@ -68,3 +68,7 @@ Instructions
  - [old food site](./food.html)
  - [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
  - [brain melted](https://www.youtube.com/watch?v=iLuxURgAieM)
+ - [https://www.tinnitusjournal.com/articles/bimodal-stimulation-for-the-reduction-of-tinnitus-using-vibration-on-the-skin.pdf](https://www.tinnitusjournal.com/articles/bimodal-stimulation-for-the-reduction-of-tinnitus-using-vibration-on-the-skin.pdf)
+ - [https://neosensory.com/product/neosensory-duo-for-tinnitus/](https://neosensory.com/product/neosensory-duo-for-tinnitus/)
+ - [tbd]()
+ - [tbd]()
