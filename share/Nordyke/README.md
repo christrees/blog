@@ -8,6 +8,7 @@
 - need to ask about Brayden move (and storage)
 - need to ask about Stephen move (and storage)
 - remote grasshorse project
+- visa status report
 
 ## Nordyke vist 2022.09.23-25
 
