@@ -1,7 +1,7 @@
 # Nordyke
 
 ## Nordyke Fire Engine 2023.07.01
-![bradfiretruck](./images/bradfiretruck.jpeg)
+![bradfiretruck](./images/bradfiretruck.jpg)
 
 - need to fix this [bradnordyke.com](https://bradnordyke.com/) github [bradnordyke](https://github.com/bradnordyke/bradnordyke#readme)
 - need to get desktop cpu in Winfield online as plex server
