@@ -6,7 +6,18 @@
   - FH Klopfenstein Farms, LLC - Farm Land
   - ATrees Properties, LLC - Rentals
   - Trees AES, LLC - Service Management
+- Land LLC: INCOME: Cash Rent Land -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Service
+  - Expected distribution is 0% value held in capital assets
+  - Profits go to Capital Improvements to increase production margins
+- Rent LLC: INCOME: Monthly Rentals -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Services
+  - Expected distribution is 0% value held in capital assets
+  - Profits go to Capital Improvements to increase production margins
+- Service LLC: INCOME: Services -> EXPENSE: Equipment, Employee, Insurance, Inventory
+  - Expected return 0%
+  - Profits go to Equipment and Employee distribution
+  - When Employee distribution exceeds $75,000 consider restructuring as S-Corp
 
+  
 ## New info
 - [LLC in Iowa - how to](https://www.legalzoom.com/articles/how-to-start-an-llc-in-iowa)
 - [A Guide to Filing Taxes after Someone Dies](https://everloved.com/articles/post-death-logistics/a-guide-to-filing-taxes-after-someone-dies/?gad=1&gclid=CjwKCAjwpayjBhAnEiwA-7ena3Yp7JuFygMVCSCUVdrfQCvCNYYF_CjPlhSiaIVp57lwq0dR7asiVhoCbhoQAvD_BwE)
