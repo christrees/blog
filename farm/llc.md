@@ -1,6 +1,12 @@
 ## Farm LLC planning
 [edit](https://github.com/christrees/blog/edit/master/farm/llc.md)
 
+### Overview [Diagram](llc-diagram.md)
+- Three LLC
+  - FH Klopfenstein Farms, LLC - Farm Land
+  - ATrees Properties, LLC - Rentals
+  - Trees AES, LLC - Service Management
+
 ## New info
 - [LLC in Iowa - how to](https://www.legalzoom.com/articles/how-to-start-an-llc-in-iowa)
 - [A Guide to Filing Taxes after Someone Dies](https://everloved.com/articles/post-death-logistics/a-guide-to-filing-taxes-after-someone-dies/?gad=1&gclid=CjwKCAjwpayjBhAnEiwA-7ena3Yp7JuFygMVCSCUVdrfQCvCNYYF_CjPlhSiaIVp57lwq0dR7asiVhoCbhoQAvD_BwE)
