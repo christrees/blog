@@ -17,6 +17,10 @@
   - Profits go to Equipment and Employee distribution
   - When Employee distribution exceeds $75,000 consider restructuring as S-Corp
 
+### LLC Creation
+- [Iowa.gov LLC Creation Fast track](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fForm%2fCertificate-of-Organization-LLC)
+- [IRS LLC EIN registration](https://irs-federal-ein-number.com/form/limited-liability-company)
+- [Trees AES, LLC doc](https://www.rocketlawyer.com/app.rl/docManager/fb2a35c7-3d24-429a-bc4f-2d2d921c9766)
   
 ## New info
 - [LLC in Iowa - how to](https://www.legalzoom.com/articles/how-to-start-an-llc-in-iowa)
