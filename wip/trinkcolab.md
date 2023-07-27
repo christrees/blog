@@ -2,6 +2,9 @@ Colabrative projects with Trink
 
 This file has moved to
 # [https://wip.christrees.com/trinkcolab/](https://wip.christrees.com/trinkcolab/)
+moved again on 2023.07.15 to
+- [https://gitea.trink.com/cat/trinkcatchat/src/branch/main/history.md](https://gitea.trink.com/cat/trinkcatchat/src/branch/main/history.md)
+
 
 ---
 ---
