@@ -1,8 +1,7 @@
-[edit]()
+[edit](https://github.com/christrees/blog/edit/master/share/README.md)
 
 - [Dutoit](./Dutoit)
 - [Jordan](./Jordan)
-- [KeithAtPuppetJustice](./KeithAtPuppetJustice)
 - [MikeTrees](./MikeTrees)
 - [Nordyke](./Nordyke)
 - [Sander](./Sander)
@@ -18,6 +17,8 @@
     <li>Day 2: 2018.12.11 - Edgar Fish Market<br><a href='https://photos.google.com/share/AF1QipN58O2vbBGKTz5yDSLQ3hg1wUOT9OzL7jD0denf5Q0I-_oaL5BETQYGeYKeqcHyiA?key=dldtOW5yNmwxTVRHSHN2ZmQ5YkJ2dk9kR2NlTmV3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/2Vzx2x_DNi1xQmh_iCMS7QKC4jgr_Af-3f-jpi0tRWlcn-NbTDvnAgyLDdNdLzLl3mcxMxsZO_uaFfHQxkMlx3BkCmuKoPSSMXTbku_PFxv4iT28bf1jTw07Hq2TbCfU3241iijKNA=w300' />Outside Fish Market</a></li>
     <li>Day 0: 2018.12.09 - Kyle Hobbies<br><a href='https://photos.google.com/share/AF1QipPCxjDxZnqDoafSLMKRiJRdCy8_D58hYBmbd5tY-Qz56YY96yrmAoBf9DdbJrFATg?key=R2FmdDdYUmZqZzVXNUV2WkpHU0oyUlBIMGlJaWpB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/41WXN10BoDC0o8MVRRWb7E8qclAB3DZWFCAjQeaRpD5BdisV2s78uWAX9VfWsfwpFiyBszHNyew7yRIPqqMKC-65G4MUjFM-N4ZPwXGa2os9otph5VVsfVch08jmS58S2V23Qj8_7g=w500' />Outside Hobbies</a></li>
     <li>Day -4: 2018.12.05 - Shayne House, he takes me to DSM</li>
+
+- [KeithAtPuppetJustice](./KeithAtPuppetJustice)
 
 ## Older stuff
 <a href="http://christrees.com">Back to christrees.com</a>
