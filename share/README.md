@@ -20,6 +20,10 @@
 
 - [KeithAtPuppetJustice](./KeithAtPuppetJustice)
 
+![Keith and Chris on PJ](./KeithAtPuppetJustice/KeithAtPuppetJustice_WP_20200905_11_58_23_Pro.jpg)
+
+Keith and Chris on the Puppet Justice Set.
+
 ## Older stuff
 <a href="http://christrees.com">Back to christrees.com</a>
 <br><hr>
