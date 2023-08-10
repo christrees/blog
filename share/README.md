@@ -18,6 +18,8 @@
     <li>Day 0: 2018.12.09 - Kyle Hobbies<br><a href='https://photos.google.com/share/AF1QipPCxjDxZnqDoafSLMKRiJRdCy8_D58hYBmbd5tY-Qz56YY96yrmAoBf9DdbJrFATg?key=R2FmdDdYUmZqZzVXNUV2WkpHU0oyUlBIMGlJaWpB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/41WXN10BoDC0o8MVRRWb7E8qclAB3DZWFCAjQeaRpD5BdisV2s78uWAX9VfWsfwpFiyBszHNyew7yRIPqqMKC-65G4MUjFM-N4ZPwXGa2os9otph5VVsfVch08jmS58S2V23Qj8_7g=w500' />Outside Hobbies</a></li>
     <li>Day -4: 2018.12.05 - Shayne House, he takes me to DSM</li>
 
+---
+
 - [KeithAtPuppetJustice](./KeithAtPuppetJustice)
 
 ![Keith and Chris on PJ](./KeithAtPuppetJustice/KeithAtPuppetJustice_WP_20200905_11_58_23_Pro.jpg)
@@ -25,6 +27,7 @@
 Keith and Chris on the Puppet Justice Set.
 
 ## Older stuff
+
 <a href="http://christrees.com">Back to christrees.com</a>
 <br><hr>
 <h1>CAT Tails</h1>
