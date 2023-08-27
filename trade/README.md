@@ -5,7 +5,8 @@
 - [hedge trades](https://www.youtube.com/watch?v=46voScF9VCQ)
 - [iman trading](https://www.imantrading.org/experienced) - [iman youtube](https://www.youtube.com/watch?v=4a781K2VN8w)
 - [Smart Money Course](https://www.youtube.com/watch?v=m9DfD5mYEKU)
-
+- [trendlines with breaks](https://www.youtube.com/shorts/7BPJ-ljOFAQ)
+  
 ### Stock Daily Info
 - [Trader TV Subscription](https://www.youtube.com/c/TraderTVLive/featured)
 - [Trader TV Live](https://www.youtube.com/c/TraderTVLive/featured)
