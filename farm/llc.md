@@ -4,14 +4,15 @@
 ### Overview [Diagram](llc-diagram.md)
 - Three LLC
   - FH Klopfenstein Farms, LLC - Farm Land
-  - ATrees Properties, LLC - Rentals
-  - Trees AES, LLC - Service Management
+  - Trees AES, LLC - Rental Properties
+  - Fletcher Motor Company, LLC - Repair and Renovations Service
+  - Haymond, LLC - Services
 - Land LLC: INCOME: Cash Rent Land -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Service
   - Expected distribution is 0% value held in capital assets
   - Profits go to Capital Improvements to increase production margins
-- Rent LLC: INCOME: Monthly Rentals -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Services
+- Rental LLC: INCOME: Monthly Rentals -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Services
   - Expected distribution is 0% value held in capital assets
-  - Profits go to Capital Improvements to increase production margins
+  - Profits go to Capital Improvements to increase property value
 - Service LLC: INCOME: Services -> EXPENSE: Equipment, Employee, Insurance, Inventory
   - Expected return 0%
   - Profits go to Equipment and Employee distribution
