@@ -1,3 +1,8 @@
+## Welcome Loan (pronounced Lo-wan)
+LOAN came to the world, 24th of August, 4.31 pm, 3,8 kg, at the hospital of Annecy.
+
+![Loan](Welcome_Loan_IMG-20230825-WA0052.jpg)
+
 ## 2023.08.19 - Cassy and Justin
 - [Photo Album](https://photos.app.goo.gl/NLhCnTUjTzUf26te6)
 
