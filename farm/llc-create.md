@@ -36,6 +36,12 @@
   - 2/3 Majority for any changes in ownership
   - fill in ISU estate plan stuff
 
+## Property Transfer to LLC in Iowa
+- Create LLC
+- Obtain EIN for LLC
+- Setup banking account for LLC using EIN
+- Create and file Quick Claim Deed (at County Office with Members)
+  
 ### FH Klopfenstein Farms, LLC
 - [x] FH Klopfenstein Farms, LLC - [FHKlopFarms - google folder](https://drive.google.com/drive/folders/1Mmve6EB6fLKasGB5SgA9U2fpKm-usqxB)
 - [x] FH Klopfenstein Farms, LLC - [Certificate of Organization - orig](https://docs.google.com/document/d/1Mtk1Pu-2h4_POV4CH-oZEcqgs9W787CLlqtm0OFN9_I/edit)
