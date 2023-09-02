@@ -1,9 +1,9 @@
 ## Magnus - 2023.09.02
 Chris Jordan's new puppy Magnus
-![Chris-Magnus](https://photos.app.goo.gl/tM9Xv5MatysnBVhy7)
+![Chris-Magnus](./Chris-Magnus.jpg)
 
 Sharon's Josie birthday party (5th)
-![Sharon-Josie](https://photos.app.goo.gl/zrU75bf5W7iemAC18)
+![Sharon-Josie](./Lilian-JosieBirthday.jpeg)
 
 Bruce's Lambo... no photo submitted ;-)
 
