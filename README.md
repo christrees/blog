@@ -1,9 +1,10 @@
-## Magnus
+## Magnus - 2023.09.02
 Chris Jordan's new puppy Magnus
 ![magnus](https://lh3.googleusercontent.com/pw/AIL4fc_cpiNPrOzS96WZ6wNHY1hiE815ThtSBH9jo6zmhglv5abH4BVyFDEE66ARYCINpdwPipZ39aTwXTxDUAdFQBDgOwE54lIP_wKbB7KBVRRnJlo8qYwqcbmWc-ba74r478RelS6VoDMrDTML2Q5stGwg-lp4rVEN54QPMjyk2kk0agU2zMUvVrlPkkY_7rIp25e07WBiLpYVzov8h2mKLBC5s5RZMWwvhvEjqvqSFrRMmnmOvAmt0R9UaN143CgkZ9hi9riMGrX2-9PdA45JSAaQ-pVp3dbOhgtHnB9OpgBfLJDuPMUgtiYd_XXlabZxG5o8mIxXZ5tuWAaipVrJnwOvDn4o1EyMEkGc4eiVfNs-2LieBQM5241bfuM8bZPD6y7MN_QkAPykmrtwfsGClo2V-BNLNsxE3QS4BtLrM5x4DzRynRaNSXQY5lVJxaBV341uAnvGqhlJ8OW_s35Fjfwv-_LUvJ2jeEGRrysAEawoX6msr5PQyQwp5_I7K8st8VSo09CgUTgeiemBGLHNCTAUyRwn-F60YepXCrPa6Fpbr9sR6iJT4rScF5pD1TXM383oo32v_3GgSVVW7NPH6c1s4hliApZoeANTa-zabQBJ1YBzHPbdfjybWS2-hB8nc1rDimGjmwL7tMrzktCjHS0sTDmWA1yGqmIBPDtSedzbQ15NyRsi1JGzYGfGM4ST9hq3dzrewjdHDExrPmuzqJMtLCweFftgEIGVh7SF4j_MdzXE1IInXS2R_2VT_Els9sb8-RXhM_J6fowPsY3kpmg1oLZmJ4Gy4XSushxYeCZ_9lRPUwhDoYwfTmuziAbZMUJN7Re0aGOzCNqUsyu1m24KBDZMJIPMXWGeVIG57Y4f0OCZ3kXNgrtzOwcVDcBAWWiouBUMBUFMV3U=w862-h458-s-no?authuser=0)
 
-## Welcome Loan (pronounced Lo-wan)
-LOAN came to the world, 24th of August, 4.31 pm, 3,8 kg, at the hospital of Annecy.
+# Welcome Loan (pronounced Lo-wan)
+## 2023.08.24
+Loan came to the world, 24th of August, 4.31 pm, 3,8 kg, at the hospital of Annecy.  Anne and Jaque's first grandchild.
 
 ![Loan](Welcome_Loan_IMG-20230825-WA0052.jpg)
 
