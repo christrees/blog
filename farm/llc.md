@@ -18,6 +18,7 @@
   - Profits go to Equipment Capital and Employee distribution
   - When Employee distribution exceeds $75,000 consider restructuring as S-Corp
 
+## LLC Create [https://blog.christrees.com/farm/llc-create](https://blog.christrees.com/farm/llc-create)
 
 ## New info
 - [LLC in Iowa - how to](https://www.legalzoom.com/articles/how-to-start-an-llc-in-iowa)
