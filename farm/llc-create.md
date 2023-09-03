@@ -1,4 +1,23 @@
 [edit](https://github.com/christrees/blog/edit/master/farm/llc-create.md)
+
+ToDo
+- [x] Create FH Klopfenstein Farms, LLC and EIN
+- [x] Create Trees AES, LLC and EIN
+- [ ] Create Fletcher Motors Co. LLC and EIN
+- [ ] Create Haymond ?? LLC and EIN
+- [ ] Complete Real Estate Appraisals
+- [ ] Complete Inventory List and Appraisals
+- [ ] Get Sarah all above info so she can file trust docs of property transfer
+- [ ] Sign Operating and Buy-Sell Agreements for FH Klopfenstein Farms, LLC
+- [ ] Sign Operating and Buy-Sell Agreements for Trees AES, LLC
+- [ ] Quit Claim 80 to FH Klopfenstein Farms, LLC at Louisa Courthouse and notify USDA and assign Kenton as Manager
+- [ ] Quit Claim 20 to Trees AES, LLC at Henry Courthouse and notify USDA and assign Kenton as Manager
+- [ ] Split the inventory list and transfer property to the LLC's
+- [ ] Figure out long-term rental contracts with Kenton and gang for land
+- [ ] Figure out long-term rental/sale of houses
+- [ ] Go get loans on properties according to LLC mandates
+- [ ] File ATrees 2023 Taxes
+      
 # LLC Creation Iowa
 - Create a google folder for the LLC [FHKlopfensteinFarms](https://drive.google.com/drive/folders/1Mmve6EB6fLKasGB5SgA9U2fpKm-usqxB)
 - Create your Iowa.gov fast-track account [https://filings.sos.iowa.gov/Account/Signup](https://filings.sos.iowa.gov/Account/Signup)
