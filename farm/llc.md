@@ -5,9 +5,9 @@
 - Three LLC
   - FH Klopfenstein Farms, LLC - Farm Land
   - Trees AES, LLC - Rental Properties
-  - Fletcher Motor Company, LLC - Repair and Renovations Service
-  - Haymond, LLC - Services
-- Land LLC: INCOME: Cash Rent Land -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Service
+  - Fletcher Motor Co. LLC - Repair and Renovations Service
+  - Haymond, LLC - ?? Services
+- Land LLC: INCOME: Cash Rent -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Service
   - Expected distribution is 0% value held in capital assets
   - Profits go to Capital Improvements to increase production margins
 - Rental LLC: INCOME: Monthly Rentals -> EXPENSE: Capital Improvements, Capital Loans, Taxes, Services
@@ -15,32 +15,15 @@
   - Profits go to Capital Improvements to increase property value
 - Service LLC: INCOME: Services -> EXPENSE: Equipment, Employee, Insurance, Inventory
   - Expected return 0%
-  - Profits go to Equipment and Employee distribution
+  - Profits go to Equipment Capital and Employee distribution
   - When Employee distribution exceeds $75,000 consider restructuring as S-Corp
 
-### LLC Creation
-- [Iowa.gov LLC Creation Fast track](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fForm%2fCertificate-of-Organization-LLC)
-- [IRS LLC EIN registration](https://irs-federal-ein-number.com/form/limited-liability-company)
-- [Trees AES, LLC doc](https://www.rocketlawyer.com/app.rl/docManager/fb2a35c7-3d24-429a-bc4f-2d2d921c9766)
-
-### FH Klopfenstein Farms, LLC
-- [Certificate of Organization - orig](https://docs.google.com/document/d/1Mtk1Pu-2h4_POV4CH-oZEcqgs9W787CLlqtm0OFN9_I/edit)
-- [Certificate of Organization - google folder](https://drive.google.com/drive/folders/1Mmve6EB6fLKasGB5SgA9U2fpKm-usqxB)
-- [Iowa.gov LLC Creation Fast track](https://filings.sos.iowa.gov/Account/Login?ReturnUrl=%2fForm%2fCertificate-of-Organization-LLC)
-- [IRS LLC EIN registration](https://irs-federal-ein-number.com/form/limited-liability-company)
 
 ## New info
-- [Passport DS-11](https://travel.state.gov/content/travel/en/passports/how-apply/forms.html)
-- [Cedar Falls DS-11 submit location](https://iafdb.travel.state.gov/DetailsForm.aspx?AFID=737204&vs=0)
-- [Locate Facility](https://pptform.state.gov/PassportWizardMain.aspx#%7B%22__s%22%3A%22ju%2BpxjMTeGuSQcs%2B2vFluz%2FNU%2BYRJhpR7kcd7T%2BIbfiOmlKm2UUcb7MVUvrRIucSdRBW3%2BbwYRrBjvPcuLKNaQ7zt9u0EW4fN6EdvqcugTqulnlsN5rPMRQp%2Bfc%3D%22%7D)
 - [LLC in Iowa - how to](https://www.legalzoom.com/articles/how-to-start-an-llc-in-iowa)
 - [A Guide to Filing Taxes after Someone Dies](https://everloved.com/articles/post-death-logistics/a-guide-to-filing-taxes-after-someone-dies/?gad=1&gclid=CjwKCAjwpayjBhAnEiwA-7ena3Yp7JuFygMVCSCUVdrfQCvCNYYF_CjPlhSiaIVp57lwq0dR7asiVhoCbhoQAvD_BwE)
-- [Limited Liability Company Federal EIN Application](https://irs-federal-ein-number.com/form/limited-liability-company)
 - [How to Report a Death to Credit Bureaus](https://everloved.com/articles/post-death-logistics/how-to-report-a-death-to-credit-bureaus/)
 - [Iowa Attorney General - steps-following-the-death-of-a-loved-one](https://www.iowaattorneygeneral.gov/for-consumers/general-consumer-information/steps-following-the-death-of-a-loved-one)
-- [tbd]()
-- [https://help.sos.iowa.gov/how-do-i-form-llc](https://help.sos.iowa.gov/how-do-i-form-llc)
-- 
 
 --- 
 Credit Agencies
