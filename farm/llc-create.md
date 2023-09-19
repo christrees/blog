@@ -5,20 +5,20 @@ ToDo
 - [x] Create Trees AES, LLC and EIN
 - [ ] Create Fletcher Motors Co. LLC and EIN
 - [ ] Create Haymond ?? LLC and EIN
-- [x] File ATrees 2022 Taxes
+- [x] File ATrees 2022 Taxes (via TurboTax web)
 - [x] Complete Real Estate Appraisals
 - [ ] Complete Inventory List and Appraisals
 - [x] Email Sara prelim Inventory List prep for 10/9 Quitclaim
 - [ ] Get Sara all the above info before 9/29 so she can file trust docs 
 - [ ] Sign Operating and Buy-Sell Agreements for FH Klopfenstein Farms, LLC
 - [ ] Sign Operating and Buy-Sell Agreements for Trees AES, LLC
-- [ ] Quit Claim 80 to FH Klopfenstein Farms, LLC at Louisa Courthouse and notify USDA and assign Kenton as Manager
-- [ ] Quit Claim 20 to Trees AES, LLC at Henry Courthouse and notify USDA and assign Kenton as Manager
+- [ ] Quit Claim 80 to FH Klopfenstein Farms, LLC at Louisa Courthouse, notify USDA, assign Kenton as Manager
+- [ ] Quit Claim 20 to Trees AES, LLC at Henry Courthouse, notify USDA, assign Kenton as Manager
 - [ ] Split the inventory list and transfer property to the LLC's
 - [ ] Figure out long-term rental contracts with Kenton and gang for land
 - [ ] Figure out long-term rental/sale of houses
 - [ ] Go get loans on properties according to LLC mandates
-- [ ] File ATrees 2023 Taxes
+- [ ] File ATrees 2023 Taxes (via TurboTax web)
       
 # LLC Creation Iowa
 - Create a google folder for the LLC [FHKlopfensteinFarms](https://drive.google.com/drive/folders/1Mmve6EB6fLKasGB5SgA9U2fpKm-usqxB)
