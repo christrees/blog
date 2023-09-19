@@ -5,9 +5,11 @@ ToDo
 - [x] Create Trees AES, LLC and EIN
 - [ ] Create Fletcher Motors Co. LLC and EIN
 - [ ] Create Haymond ?? LLC and EIN
-- [ ] Complete Real Estate Appraisals
+- [x] File ATrees 2022 Taxes
+- [x] Complete Real Estate Appraisals
 - [ ] Complete Inventory List and Appraisals
-- [ ] Get Sarah all above info so she can file trust docs of property transfer
+- [x] Email Sara prelim Inventory List prep for 10/9 Quitclaim
+- [ ] Get Sara all the above info before 9/29 so she can file trust docs 
 - [ ] Sign Operating and Buy-Sell Agreements for FH Klopfenstein Farms, LLC
 - [ ] Sign Operating and Buy-Sell Agreements for Trees AES, LLC
 - [ ] Quit Claim 80 to FH Klopfenstein Farms, LLC at Louisa Courthouse and notify USDA and assign Kenton as Manager
