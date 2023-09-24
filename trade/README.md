@@ -1,6 +1,6 @@
 [edit](https://github.com/christrees/blog/edit/master/trade/README.md)
 
-# Workout[https://www.youtube.com/watch?v=mmq5zZfmIws]
+# [Workout](https://www.youtube.com/watch?v=mmq5zZfmIws)
 
 # Market Trading links
 
