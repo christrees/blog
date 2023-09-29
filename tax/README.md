@@ -35,3 +35,4 @@ The 1040 report is a consistant actual evalutaion point, use the 1040 data flow.
 
 ### Notes
 - RLT requires Trust and Will documents
+- [shorttermrental accel dep](./shorttermrental)
