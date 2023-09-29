@@ -2,6 +2,13 @@
 
 # [Workout](https://www.youtube.com/watch?v=mmq5zZfmIws)
 
+# Watch
+- DXY
+- USOIL
+- US10Y
+- SPX
+- QQQ
+- IWM
 # Market Trading links
 
 - [simple support resistance with hedge](https://www.youtube.com/watch?v=5MU_I6F8UsY)
