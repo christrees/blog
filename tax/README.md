@@ -36,3 +36,4 @@ The 1040 report is a consistant actual evalutaion point, use the 1040 data flow.
 ### Notes
 - RLT requires Trust and Will documents
 - [shorttermrental accel dep](./shorttermrental)
+- LLC to S-Corp when to swithch over 50K [youtube example](https://www.youtube.com/watch?v=LUpyc89bgBU)
