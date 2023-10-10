@@ -3,15 +3,17 @@
 ToDo
 - [x] Create FH Klopfenstein Farms, LLC and EIN
 - [x] Create Trees AES, LLC and EIN
-- [ ] Create Fletcher Motors Co. LLC and EIN
-- [ ] Create Haymond ?? LLC and EIN
+- [x] Create Fletcher Motor Co LLC and EIN
+- [ ] Create TH Twig Restorations LLC and EIN
 - [x] File ATrees 2022 Taxes (via TurboTax web)
 - [x] Complete Real Estate Appraisals
-- [ ] Complete Inventory List and Appraisals
+- [x] Complete Inventory List and Appraisals
 - [x] Email Sara prelim Inventory List prep for 10/9 Quitclaim
-- [ ] Get Sara all the above info before 9/29 so she can file trust docs 
+- [x] Get Sara all the above info before 10/11 so she can file trust docs 
 - [ ] Sign Operating and Buy-Sell Agreements for FH Klopfenstein Farms, LLC
 - [ ] Sign Operating and Buy-Sell Agreements for Trees AES, LLC
+- [ ] Sign Operating for Fletcher Motors Co LLC
+- [ ] Sign Operating for TH Twig Restorations LLC
 - [ ] Quit Claim 80 to FH Klopfenstein Farms, LLC at Louisa Courthouse, notify USDA, assign Kenton as Manager
 - [ ] Quit Claim 20 to Trees AES, LLC at Henry Courthouse, notify USDA, assign Kenton as Manager
 - [ ] Split the inventory list and transfer property to the LLC's
@@ -78,16 +80,16 @@ ToDo
 - [ ] Trees AES, LLC - [Operating Agreement]()
 - [ ] Trees AES, LLC - [Buy-Sell Agreement]()
 
-### Fletcher Motor Co. LLC
-- [ ] Fletcher Motor Co. LLC - [Fletcher Motor Co - google folder]()
-- [ ] Fletcher Motor Co. LLC - [Certificate of Organization - orig]()
-- [ ] Fletcher Motor Co. LLC - [IRS LLC EIN registration](2)
-- [ ] Fletcher Motor Co. LLC - [Operating Agreement]()
-- [ ] Fletcher Motor Co. LLC - [Buy-Sell Agreement]()
+### Fletcher Motor Co LLC
+- [ ] Fletcher Motor Co LLC - [Fletcher Motor Co - google folder]()
+- [ ] Fletcher Motor Co LLC - [Certificate of Organization - orig]()
+- [ ] Fletcher Motor Co LLC - [IRS LLC EIN registration](2)
+- [ ] Fletcher Motor Co LLC - [Operating Agreement]()
+- [ ] Fletcher Motor Co LLC - [Buy-Sell Agreement]()
 
-### Haymond LLC
-- [ ] Haymond LLC - [Haymond - google folder]()
-- [ ] Haymond LLC - [Certificate of Organization - orig]()
-- [ ] Haymond LLC - [IRS LLC EIN registration](2)
-- [ ] Haymond LLC - [Operating Agreement]()
-- [ ] Haymond LLC - [Buy-Sell Agreement]()
+### TH Twig Restorations LLC
+- [ ] TH Twig Restorations LLC - [Haymond - google folder]()
+- [ ] TH Twig Restorations LLC - [Certificate of Organization - orig]()
+- [ ] TH Twig Restorations LLC - [IRS LLC EIN registration](2)
+- [ ] TH Twig Restorations LLC - [Operating Agreement]()
+- [ ] TH Twig Restorations LLC - [Buy-Sell Agreement]()
