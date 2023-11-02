@@ -9,6 +9,16 @@
 - SPX
 - QQQ
 - IWM
+
+- Plot Levels and 200 day MA [video](https://www.youtube.com/watch?v=53r4_V6FUMM)
+- Anchored VWAP
+- Verify market is respecting levels, MA, VWAP
+- Confirmation
+  - Reversal candles
+  - Double bottom
+  - Trend
+  - Near VWAP
+    
 # Market Trading links
 
 - [simple support resistance with hedge](https://www.youtube.com/watch?v=5MU_I6F8UsY)
