@@ -10,6 +10,7 @@
 - QQQ
 - IWM
 
+## Trading checks
 - Plot Levels and 200 day MA [video](https://www.youtube.com/watch?v=53r4_V6FUMM)
 - Anchored VWAP
 - Verify market is respecting levels, MA, VWAP
