@@ -19,7 +19,19 @@
   - Double bottom
   - Trend
   - Near VWAP
-    
+
+## Heiken Ashi overlay
+- Smoothed Heiken Ashi [video](https://youtu.be/BLL3JindoCs?t=151)
+- Settings 5 and 5 [video](https://youtu.be/BLL3JindoCs?t=162)
+- Lagging indicator so use reversal test as entry [video](https://youtu.be/BLL3JindoCs?t=297)
+- Entry [video](https://youtu.be/BLL3JindoCs?t=357)
+  - ID a trend
+  - Look for trend change
+  - Wait for test of reversal (candles into overlay)
+  - Enter on confirmation
+- Exit [video](https://youtu.be/BLL3JindoCs?t=547)
+- Use Heiken Ashi overlay as a Trailing exit
+  
 # Market Trading links
 
 - [simple support resistance with hedge](https://www.youtube.com/watch?v=5MU_I6F8UsY)
