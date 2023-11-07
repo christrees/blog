@@ -10,6 +10,34 @@
 - QQQ
 - IWM
 
+## Futures [Etrade futures](https://us.etrade.com/what-we-offer/investment-choices/futures)
+- /ES	E-mini S&P 500	0.25	$12.50	6 p.m.–5:00 p.m.	Y	Y	H,M,U,Z	Cash
+- /MES	Micro E-mini S&P 500	0.25	$1.25	6 p.m.–5:00 p.m.	Y	Y	H,M,U,Z	Cash
+- /NQ	E-mini Nasdaq 100	0.25	$5.00	6 p.m.–5:00 p.m.	Y	Y	H,M,U,Z	Cash
+- /MNQ	Micro E-mini Nasdaq 100	0.25	$0.50	6 p.m.–5:00 p.m.	Y	Y	H,M,U,Z	Cash
+- /YM	Mini Dow	1	$5.00	6 p.m.–5:00 p.m.	Y	Y	H,M,U,Z	Cash
+- /MYM	Micro E-mini Dow	1	$0.50	6 p.m.–5:00 p.m.	N	 	H,M,U,Z	Cash
+- /RTY	E-mini Russell	0.1	$5.00	6 p.m.–5:00 p.m.	Y	Y	H,M,U,Z	Cash
+- /M2K	Micro E-mini Russell 2000	0.10	$0.50	6 p.m.–5:00 p.m.	Y	 	H,M,U,Z	Cash
+- /EMD	E-mini S&P Midcap	0.1	$10.00	6 p.m.–5:00 p.m.	N	Y	H,M,U,Z	Cash
+- /VX	CBOE S&P 500 VIX	0.05	$50.00	6 p.m.–5:00 p.m. (15 min. trading halt 4:15 p.m.–4:30 p.m)	 	 	ALL	Cash
+- /VXM	Mini Cboe Volatility Index 	0.05	$5.00	6 p.m.–5:00 p.m. (15 min. trading halt 4:15 p.m.–4:30 p.m)	 	 	ALL	Cash
+- /NKD	Nikkei 225	5	$25.00	6 p.m.–5:15 p.m.	 	 	H,M,U,Z	Cash
+- /NIY	Nikkei 226	5	$25.00	7 p.m.–5:15 p.m.	 	 	H,M,U,Z	Cash
+- /B5	Nano Bloomberg US Large Cap Index Futures	0.01	$1.00	6 p.m.–5:00 p.m.	 	 	H,M,U,Z	Cash
+
+### Grains Sun-Fri 8 p.m.–8:45 a.m. and Mon-Fri, 9:30 a.m.–2:20 p.m.	H,K,N,U,Z	Physical
+- /ZC	Corn	0.25	$12.50	Sun-Fri 8 p.m.–8:45 a.m. and
+- /ZS	Soybeans	0.25	$12.50	Sun-Fri 8 p.m.–8:45 a.m. and
+- /ZW	Wheat	0.25	$12.50	Sun-Fri 8 p.m.–8:45 a.m. and
+- /KE	Kansas City Wheat	0.25	$12.50	Sun-Fri 8 p.m.–8:45 a.m. and
+- /ZL	Soybean Oil	0.01	$6.00	Sun-Fri 8 p.m.–8:45 a.m. and
+- /ZM	Soybean Meal	0.1	$10.00	Sun-Fri 8 p.m.–8:45 a.m. and
+- /ZO	Oats	0.25	$12.50	Sun-Fri 8 p.m.–8:45 a.m. and
+- /XC	Mini Corn	0.125	$1.25	Sun-Fri 8 p.m.–8:45 a.m. and
+- /XK	Mini Soybeans	0.125	$1.25	Sun-Fri 8 p.m.–8:45 a.m. and
+- /XW	Mini Wheat	0.125	$1.25	Sun-Fri 8 p.m.–8:45 a.m. and
+
 ## Trading checks
 - Plot Levels and 200 day MA [video](https://www.youtube.com/watch?v=53r4_V6FUMM)
 - Anchored VWAP
