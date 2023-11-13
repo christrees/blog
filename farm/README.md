@@ -1,6 +1,9 @@
 # Farm stuff
 
+- Farm Chat [Video Link](https://meet.google.com/efv-bzzx-pqa)
+  
 ## Daily Weekly News
+- Weekly JFT / FH Klop Operations meeting 8PM Sunday
 - [ProFarmer.com](https://www.profarmer.com/) [ProFarmer Daily Advice Monitor](https://www.profarmer.com/news/advice-monitor/pro-farmers-daily-advice-monitor)
     - [ProFarmer.com Nov-2023](https://cdn.farmjournal.com/2023-11/Pro%20Farmer%20-%20November%2011,%202023.pdf)
 - [Grain Markets - Youtube](https://www.youtube.com/channel/UCcy6azn7vrHgCC-tDMnk6FQ/videos)
