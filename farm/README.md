@@ -1,6 +1,8 @@
 # Farm stuff
 
 ## Daily Weekly News
+- [ProFarmer.com](https://www.profarmer.com/) [ProFarmer Daily Advice Monitor](https://www.profarmer.com/news/advice-monitor/pro-farmers-daily-advice-monitor)
+    - [ProFarmer.com Nov-2023](https://cdn.farmjournal.com/2023-11/Pro%20Farmer%20-%20November%2011,%202023.pdf)
 - [Grain Markets - Youtube](https://www.youtube.com/channel/UCcy6azn7vrHgCC-tDMnk6FQ/videos)
 - [Farm Progress Daily](https://www.youtube.com/user/FarmProgressDaily/videos)
 - [USDA Market News Daily](https://www.ams.usda.gov/mnreports/nw_gr110.txt)
