@@ -49,3 +49,4 @@ The 1040 report is a consistant actual evalutaion point, use the 1040 data flow.
 - [Medicad recipient claw back - Life Insurance](https://wisconsinexaminer.com/2021/11/11/draft-bill-would-limit-what-state-can-claw-back-when-medicaid-recipients-die/)
 - Why a Living Trust which explains the above diagram [youtube](https://www.youtube.com/watch?v=je9Z1BJSCAU)
 - Why Life Insurance as Bank [youtube](https://www.youtube.com/watch?v=j--cvfqcwxo)
+- [Live Insurance Dividends explained](https://www.forbes.com/advisor/life-insurance/life-insurance-dividends/)
