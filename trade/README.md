@@ -59,7 +59,11 @@
   - Enter on confirmation
 - Exit [video](https://youtu.be/BLL3JindoCs?t=547)
 - Use Heiken Ashi overlay as a Trailing exit
-  
+
+## Eliot wave
+- [elliottwave - youtube](https://www.youtube.com/watch?v=22dh7Ukp_aA)
+- [https://www.elliottwave.com](https://www.elliottwave.com)
+
 # Market Trading links
 
 - [simple support resistance with hedge](https://www.youtube.com/watch?v=5MU_I6F8UsY)
