@@ -7,7 +7,8 @@ Chris Jordan's new puppy Magnus
 Sharon's Josie birthday party (5th)
 ![Sharon-Josie](./Lilian-JosieBirthday.jpeg)
 
-Bruce's Lambo... no photo submitted ;-)
+Bruce's Lambeau
+![Bruce-Lambeau](./Bruce-Lambeau.jpg)
 
 # Welcome Loan (pronounced Lo-wan)
 ## 2023.08.24
