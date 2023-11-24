@@ -8,7 +8,7 @@ Sharon's Josie birthday party (5th)
 ![Sharon-Josie](./Lilian-JosieBirthday.jpeg)
 
 Bruce's Lambeau
-![Bruce-Lambeau](./Bruce-Lambeau.jpg)
+![Bruce-Lambeau](./Bruce-Lambeau.jpeg)
 
 # Welcome Loan (pronounced Lo-wan)
 ## 2023.08.24
