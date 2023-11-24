@@ -1,5 +1,5 @@
 ## [Turkey Day 2023 - Jordan](https://photos.app.goo.gl/pMbiR1xXonBQbxgV9)
-![Jordan-Turkey](https://photos.app.goo.gl/AdQcPvoQeLXgeEqN9)
+![Jordan-Turkey](./Jordan-Turkey-2023.jpg)
 
 ## Magnus - 2023.09.02
 Chris Jordan's new puppy Magnus
