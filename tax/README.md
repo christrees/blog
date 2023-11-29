@@ -50,3 +50,8 @@ The 1040 report is a consistant actual evalutaion point, use the 1040 data flow.
 - Why a Living Trust which explains the above diagram [youtube](https://www.youtube.com/watch?v=je9Z1BJSCAU)
 - Why Life Insurance as Bank [youtube](https://www.youtube.com/watch?v=j--cvfqcwxo)
 - [Live Insurance Dividends explained](https://www.forbes.com/advisor/life-insurance/life-insurance-dividends/)
+- [About Form 1310, Statement of Person Claiming Refund Due a Deceased Taxpayer](https://www.irs.gov/forms-pubs/about-form-1310)
+- [IRS form 1065 K1 - Partnership](https://www.irs.gov/pub/irs-pdf/i1065sk1.pdf)
+- [tbd]()
+
+
