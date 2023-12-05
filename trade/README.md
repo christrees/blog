@@ -25,6 +25,8 @@
 - /NKD	Nikkei 225	5	$25.00	6 p.m.–5:15 p.m.	 	 	H,M,U,Z	Cash
 - /NIY	Nikkei 226	5	$25.00	7 p.m.–5:15 p.m.	 	 	H,M,U,Z	Cash
 - /B5	Nano Bloomberg US Large Cap Index Futures	0.01	$1.00	6 p.m.–5:00 p.m.	 	 	H,M,U,Z	Cash
+- GBTC - Grayscale Bitcoin Trust
+- ETHE - Grayscale Ethereum Trust
 
 ### Grains Sun-Fri 8 p.m.–8:45 a.m. and Mon-Fri, 9:30 a.m.–2:20 p.m.	H,K,N,U,Z	Physical
 - /ZC	Corn	0.25	$12.50	Sun-Fri 8 p.m.–8:45 a.m. and
