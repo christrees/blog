@@ -2,7 +2,7 @@
 
 - [food youtube](https://www.youtube.com/@frischerezepte)
 - [Health Doc youtube](https://www.youtube.com/@motivationaldoc/videos)
-- [Blueprint Protocal - Bryan Jonson](https://protocol.bryanjohnson.com)
+- [Blueprint Protocal - Bryan Jonson](https://protocol.bryanjohnson.com) - [youtube video](https://youtu.be/ECTBg2AtOfc)
 - [tbd]()
 
 
