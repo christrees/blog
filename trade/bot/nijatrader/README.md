@@ -13,6 +13,12 @@
 - [Backtesting](https://youtu.be/IYYQZ3ERAKI?t=561)
 
 ## TadingView NijaTrader [Captain Backtest Model TFO - TradingView](https://www.tradingview.com/script/tOQ8gnxj-Captain-Backtest-Model-TFO/)
+
+1. Mark the highest high and the lowest low of 0600 and 969.  This is the playground.  You could also look to see if it took out the prev d or weekly hi/lo as confluence.
+2. After 1000 wait for one of the hi/lo to get taken out.  This is the bias and it doesn't change period.  This needs to happen before 1115.  If it doesn't happen before 1115 abort any trades for the day.  The day is showing chop.
+3. Wait for it to retrace and on the m5 candle have an alert set on prev m5 hi/lo.  To meet the entry criteria a close above/below that must happen.  You can enter with a buy/sell stop at that level or jump to a ltf to get a more ideal entry.  The key is entry 5/8
+
+![CaptianBacktest](./CaptianBacktest.png)
 - [Captain Backtest Model TFO - TradingView](https://www.tradingview.com/script/tOQ8gnxj-Captain-Backtest-Model-TFO/)
 - [TV Source code - TV-CapBacktest.pine](./TV-CapBacktest.pine)
 - [Code Part 1](https://youtu.be/WC3HBlhIbjI?t=1844)
