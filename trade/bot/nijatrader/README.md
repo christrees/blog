@@ -20,7 +20,8 @@
 
 ![CaptainBacktest](./CaptainBacktest.png)
 - [cat TradingView](https://www.tradingview.com/chart/wvwO4ekm/?symbol=CME_MINI%3ANQ1%21)
-
+- [catSenseUnlocked.cs for Ninjia Trader](./catSenseUnlocked.cs)
+  
 ### Captain Backtest ninj
 - [Captain Backtest Model TFO - TradingView](https://www.tradingview.com/script/tOQ8gnxj-Captain-Backtest-Model-TFO/)
 - [TV Source code - TV-CapBacktest.pine](./TV-CapBacktest.pine)
@@ -39,10 +40,10 @@
 - [Code Part 13 - NinjaScriptProperty](https://youtu.be/WC3HBlhIbjI?t=147)
 - [Code Part 14 - took_trade](https://youtu.be/WC3HBlhIbjI?t=167)
 - [Code Part 15 - took_trade](https://youtu.be/WC3HBlhIbjI?t=179)
-- [Code Part 16 - took_trade]()
-- [Code Part 17 - took_trade]()
-- [Code Part 18 - took_trade]()
-- [Code Part 19 - took_trade]()
+- [Code Part 16 - tbd]()
+- [Code Part 17 - tbd]()
+- [Code Part 18 - tbd]()
+- [Code Part 19 - tbd]()
 
 ### Reference
 - [TFO - Trading For Opp - youtube](https://www.youtube.com/@TradeForOpp/videos)
