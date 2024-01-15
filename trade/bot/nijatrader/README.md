@@ -13,7 +13,8 @@
 - [Backtesting](https://youtu.be/IYYQZ3ERAKI?t=561)
 
 ## TadingView NijaTrader [Captain Backtest Model TFO - TradingView](https://www.tradingview.com/script/tOQ8gnxj-Captain-Backtest-Model-TFO/)
-- Trading View 
+- [Captain Backtest Model TFO - TradingView](https://www.tradingview.com/script/tOQ8gnxj-Captain-Backtest-Model-TFO/)
+- [TV Source code - TV-CapBacktest.pine](./TV-CapBacktest.pine)
 - [Code Part 1](https://youtu.be/WC3HBlhIbjI?t=1844)
 - [Code Part 2  - OnStateChange if](https://youtu.be/WC3HBlhIbjI?t=1849)
 - [Code Part 3  - OnStateChange else if](https://youtu.be/WC3HBlhIbjI?t=1864)
