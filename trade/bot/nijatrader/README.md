@@ -19,6 +19,9 @@
 3. Wait for it to retrace and on the m5 candle have an alert set on prev m5 hi/lo.  To meet the entry criteria a close above/below that must happen.  You can enter with a buy/sell stop at that level or jump to a ltf to get a more ideal entry.  The key is entry 5/8
 
 ![CaptainBacktest](./CaptainBacktest.png)
+- [cat TradingView](https://www.tradingview.com/chart/wvwO4ekm/?symbol=CME_MINI%3ANQ1%21)
+
+### Captain Backtest ninj
 - [Captain Backtest Model TFO - TradingView](https://www.tradingview.com/script/tOQ8gnxj-Captain-Backtest-Model-TFO/)
 - [TV Source code - TV-CapBacktest.pine](./TV-CapBacktest.pine)
 - [Code Part 1](https://youtu.be/WC3HBlhIbjI?t=1844)
