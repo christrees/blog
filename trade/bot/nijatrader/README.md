@@ -50,7 +50,8 @@
   - [TFO - Make a BOT - Ninja Trader Beginner](https://www.youtube.com/watch?v=IYYQZ3ERAKI)
   - [TFO - Indicator to BOT - Part 1](https://www.youtube.com/watch?v=3RtoarHIFTo)
   - [TFO - Indicator to BOT - Part 2](https://www.youtube.com/watch?v=WC3HBlhIbjI)
-- [NijaTrader Training Videos](https://support.ninjatrader.com/s/video-guides?language=en_US)
+- [NinjaTrader Training Videos](https://support.ninjatrader.com/s/video-guides?language=en_US)
+- [NinjaTrader - Market Depth API](https://ninjatrader.com/support/helpGuides/nt8/NT%20HelpGuide%20English.html?creating_your_own_level_ii_dat.htm)
 
 #### Looked at maybe revisit
 - [Do this Every Morning for Trading](https://www.youtube.com/watch?v=YaiLhrUfexY)
