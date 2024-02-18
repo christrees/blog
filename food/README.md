@@ -5,7 +5,13 @@
 - [Blueprint Protocal - Bryan Jonson](https://protocol.bryanjohnson.com) - [youtube video](https://youtu.be/ECTBg2AtOfc)
 - [tbd]()
 
-
+## Good for Liver
+- Leafy Greens, Artichokes, Radishes, Garlic, Onions, Scallions, Broccoli Sprouts, Broccoli, Brussel Sprouts, Kale, Cabbage, Eggs, Mushrooms, Wild Salmon, Oily Fish, Walnuts.
+- Pumpkin with fatty meals
+- Avocado
+- Teaspoon of Tumeric in Coffee
+- 1 liter of mineral water per day (with fresh lemon or lime juice)
+- Celery (6 stalks) Lemon (1 whole) little bit of Honey
 ## Fit Tuber [youtube](https://www.youtube.com/watch?v=gjYVS8m91UU)
 - Hot Water
 - 4tsp Amla - 4tsp Aloe Vera - 1tsp Ginger - 9tsp Water - [youtube](https://youtu.be/gjYVS8m91UU?t=214)
