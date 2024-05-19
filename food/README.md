@@ -1,8 +1,11 @@
 [edit](https://github.com/christrees/blog/edit/master/food/README.md)
 
-- [food youtube](https://www.youtube.com/@frischerezepte)
+- [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
 - [Health Doc youtube](https://www.youtube.com/@motivationaldoc/videos)
 - [Blueprint Protocal - Bryan Jonson](https://protocol.bryanjohnson.com) - [youtube video](https://youtu.be/ECTBg2AtOfc)
+- [Dr Ellie Phillips - Dental Health](https://www.youtube.com/@dr.elliephillips)
+- [Dental Health](https://www.youtube.com/@gabearruda2874)
+- [food youtube](https://www.youtube.com/@frischerezepte)
 - [tbd]()
 
 ## Good for Liver
