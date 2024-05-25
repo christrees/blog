@@ -1,6 +1,7 @@
 [edit](https://github.com/christrees/blog/edit/master/food/README.md)
 
 - [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
+  - [Hamburger Diet and Bloodwork](https://www.youtube.com/watch?v=2foYhMX8mMc)
 - [Health Doc youtube](https://www.youtube.com/@motivationaldoc/videos)
 - [Blueprint Protocal - Bryan Jonson](https://protocol.bryanjohnson.com) - [youtube video](https://youtu.be/ECTBg2AtOfc)
 - [Dr Ellie Phillips - Dental Health](https://www.youtube.com/@dr.elliephillips)
