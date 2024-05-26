@@ -1,7 +1,8 @@
 [edit](https://github.com/christrees/blog/edit/master/trade/README.md)
 
 # [Workout](https://www.youtube.com/watch?v=mmq5zZfmIws)
-
+- [t-bills](https://www.youtube.com/watch?v=g6P6XXBeGQ4)
+- 
 # Watch
 - DXY
 - USOIL
