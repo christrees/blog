@@ -3,6 +3,7 @@
 # [Workout](https://www.youtube.com/watch?v=mmq5zZfmIws)
 - [t-bills](https://www.youtube.com/watch?v=g6P6XXBeGQ4)
 - [crypto long trend](https://www.youtube.com/watch?v=olo3YPpGwA8)
+- [multiple time frame expansions](https://www.youtube.com/watch?v=a5JIDBcEdY0)
 # Watch
 - DXY
 - USOIL
