@@ -1,3 +1,5 @@
+## gusCamp2024 June 28-30 https://gus.conversehouse.com
+
 ## Jordan2024-Wedding [more Photos](https://photos.app.goo.gl/b7G6pWN1Mph7MEJL7)
 ![Jordan2024-Wedding](./Jordan2024-Wedding.jpg)
 
