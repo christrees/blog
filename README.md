@@ -1,17 +1,14 @@
-## [Jordan2024-Wedding](https://photos.app.goo.gl/b7G6pWN1Mph7MEJL7)
+## Jordan2024-Wedding [more Photos](https://photos.app.goo.gl/b7G6pWN1Mph7MEJL7)
 ![Jordan2024-Wedding](./Jordan2024-Wedding.jpg)
 
 ## 2024 New Year Doughnut Day [more Photos](https://photos.app.goo.gl/7JEw8cuZbKCLLCa79)
 ![2024 Donut Day](./DonutDay2024.jpg)
 
-## [KlopChristmas2023](https://photos.app.goo.gl/GPhfqj4RqGBXcMjG8)
+## KlopChristmas2023 [more Photos](https://photos.app.goo.gl/GPhfqj4RqGBXcMjG8)
 ![Klop2023-Christmas](./Klop2023-Christmas.jpg)
 
-## [Turkey Day 2023 - Jordan](https://photos.app.goo.gl/pMbiR1xXonBQbxgV9)
+##[Turkey Day 2023 - Jordan [more Photos](https://photos.app.goo.gl/pMbiR1xXonBQbxgV9)
 ![Jordan-Turkey](./Jordan-Turkey-2023.jpg)
-
-## [Trees2023-Wedding](https://photos.app.goo.gl/yFQf9g2woBCoz8uY8)
-![Trees2023-Wedding](./Trees2023-Wedding.jpg)
 
 ## Magnus - 2023.09.02
 Chris Jordan's new puppy Magnus
@@ -29,8 +26,8 @@ Loan came to the world, 24th of August, 4.31 pm, 3,8 kg, at the hospital of Anne
 
 ![Loan](Welcome_Loan_IMG-20230825-WA0052.jpg)
 
-## 2023.08.19 - Cassy and Justin
-- [Photo Album](https://photos.app.goo.gl/NLhCnTUjTzUf26te6)
+## 2023.08.19 - Cassy and Justi [more Photos](https://photos.app.goo.gl/NLhCnTUjTzUf26te6)
+![Trees2023-Wedding](./Trees2023-Wedding.jpg)
 
 ## 2023.08.11 - Klopfenstein four generations
 - [link to album Klopfenstein four generations](https://photos.app.goo.gl/y7cunwdANcU1M9fu9)
