@@ -1,6 +1,8 @@
 ## gusCamp2024 June 28-30 
-- More info at https://gus.conversehouse.com
-- BooBoo's Pinball Rampage https://gus.conversehouse.com/booboo/
+- More info at
+  - https://gus.conversehouse.com
+- BooBoo's Pinball Rampage
+  - https://gus.conversehouse.com/booboo/
 
 ## Jordan2024-Wedding [more Photos](https://photos.app.goo.gl/b7G6pWN1Mph7MEJL7)
 ![Jordan2024-Wedding](./Jordan2024-Wedding.jpg)
