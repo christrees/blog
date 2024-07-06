@@ -1,3 +1,9 @@
+## July 4 2024
+- The frenchie July 4th
+![Frenchie-July4-1](./Frenchie-July4-20240704_201254.jpg)
+![Frenchie-July4-2](./Frenchie-July4-20240704_201934.jpg)
+- [gus-a-july2025 Pictures](https://photos.app.goo.gl/YGpJxWJangXc1TEG9) from [gus.conversehouse.com](https://gus.conversehouse.com)
+
 ## gusCamp2024 June 28-30 
 - More info at
   - https://gus.conversehouse.com
