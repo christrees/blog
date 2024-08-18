@@ -1,6 +1,9 @@
 # Chris's entertainment list
 [edit](https://github.com/christrees/blog/edit/master/media/README.md)
 
+## Look at
+- [The IT Crowd](https://en.wikipedia.org/wiki/The_IT_Crowd)
+- [Scrubs](https://en.wikipedia.org/wiki/Scrubs_(TV_series)
 - [Stan Against Evil - PlutoTV IFC](https://pluto.tv/en/live-tv/5e82547b6b3df60007fec2b5?utm_source=google&utm_medium=paidsearch&utm_content=SLLTV&gclid=CjwKCAjw2K6lBhBXEiwA5RjtCTP39x1BKX2hWPN5x0RiVBk8Q7AQOexf4-GjLLj3W6serifqLOYpmxoCzkwQAvD_BwE)
 
 - [Stan Against Evil - short](https://pluto.tv/en/live-tv/5e82547b6b3df60007fec2b5)
