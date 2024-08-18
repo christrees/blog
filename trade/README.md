@@ -68,13 +68,14 @@
 - [elliottwave - youtube](https://www.youtube.com/watch?v=22dh7Ukp_aA)
 - [https://www.elliottwave.com](https://www.elliottwave.com)
 
-## Market cycle
+## Market cycle pattern
 - [Trade Arts](https://www.youtube.com/watch?v=cpLbjknDsNU)
 - 1 - Contraction - determine fair value / average price
 - 2 - Expansion - determine new trend
 - 3 - Distribution - profit distribution that begins contraction
 - use higher timeframe to determing distribution leg
 - use lower timeframe to work 2 and 3 deviation from htf average price
+- master pattern [youtube](https://www.youtube.com/watch?v=Au8S-npP0Dk)
  
 # Market Trading links
 
