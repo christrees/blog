@@ -16,6 +16,15 @@
 - Teaspoon of Tumeric in Coffee
 - 1 liter of mineral water per day (with fresh lemon or lime juice)
 - Celery (6 stalks) Lemon (1 whole) little bit of Honey
+
+## [youtube](https://www.youtube.com/watch?v=e_qG4f6n3pw)
+- Green, matcha and ulong teas [youtube](https://youtu.be/e_qG4f6n3pw?t=1386)
+- Coffee (chlorogenic acid) [youtube](https://youtu.be/e_qG4f6n3pw?t=1552)
+- Tomato juice (licopine) [youtube](https://youtu.be/e_qG4f6n3pw?t=1670)
+- Watermelon juice [youtube](https://youtu.be/e_qG4f6n3pw?t=1848)
+- drink water [YouTube](https://youtu.be/e_qG4f6n3pw?t=2148)
+- tbd
+
 ## Fit Tuber [youtube](https://www.youtube.com/watch?v=gjYVS8m91UU)
 - Hot Water
 - 4tsp Amla - 4tsp Aloe Vera - 1tsp Ginger - 9tsp Water - [youtube](https://youtu.be/gjYVS8m91UU?t=214)
