@@ -7,6 +7,7 @@
 - [Dr Ellie Phillips - Dental Health](https://www.youtube.com/@dr.elliephillips)
 - [Dental Health](https://www.youtube.com/@gabearruda2874)
 - [food youtube](https://www.youtube.com/@frischerezepte)
+- [Switchel - The Farmer's Gatorade](https://www.youtube.com/watch?v=zBGg4Svd8HI)
 - [tbd]()
 
 ## Good for Liver
