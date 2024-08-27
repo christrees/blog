@@ -8,6 +8,9 @@
 - [Dental Health](https://www.youtube.com/@gabearruda2874)
 - [food youtube](https://www.youtube.com/@frischerezepte)
 - [Switchel - The Farmer's Gatorade](https://www.youtube.com/watch?v=zBGg4Svd8HI)
+- [Dr. Ellie Phillips - Healthy Teeth - Youtube](https://www.youtube.com/watch?v=tXZbmz6kBUU)
+- [Dr. Ellie Phillips - Reverse Cavity](https://www.youtube.com/watch?v=4wlRM-YgRQ8)
+- [Dr. Ellie Phillips - Amazon Store](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRBNi11bXBsZFR3QlBHM2RyMTNoNmJ6VWtud3xBQ3Jtc0tsdzRMRWUxNjZFcUpON1ZJZnZhdG9SazdNUlFDSjIzSXJWMG5PSVZZRE1xeVh6bEM1RU1BLVBFVThJWkpESGZjUWtDMnJaalNmU29DbVBvN2t5SnJ3OXg5cTNrQ3NGVWNyc3JmLWRhYloxUG1FNWNXYw&q=https%3A%2F%2Fwww.amazon.com%2Fshop%2Fdr.elliephillips&v=tXZbmz6kBUU)
 - [tbd]()
 
 ## Good for Liver
