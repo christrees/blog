@@ -1,3 +1,7 @@
+## July 14 2024
+- [MARay visit photos](https://photos.app.goo.gl/FXiHNqH4DtwRFiYq6)
+- also [MARay share](./share/maray/)
+
 ## July 4 2024
 - The __new__ frenchie (Loan) first July 4th
 ![Loan July4](Frenchie-July4-Lowan-IMG-20240704-WA0015.jpg)
