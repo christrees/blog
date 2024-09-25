@@ -1,5 +1,8 @@
 ## September 25 2024 - Bin Fix
-- [Bin fix]9https://photos.app.goo.gl/9oGtvabexYrscFQx6)
+- [Bin fix](https://photos.app.goo.gl/9oGtvabexYrscFQx6)
+
+## September 3 2024 - FH Klop Farm Fix
+- [](https://photos.app.goo.gl/Mioot17PVCStDaMS8)
 
 ## August 11 2024 Iowa State Fair
 - [2024 Iowa State Fair Photos](https://photos.app.goo.gl/fUn4M4mZLxwyrk1U9)
