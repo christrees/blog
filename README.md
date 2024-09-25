@@ -1,3 +1,6 @@
+## September 25 2024 - Bin Fix
+- [Bin fix]9https://photos.app.goo.gl/9oGtvabexYrscFQx6)
+
 ## August 11 2024 Iowa State Fair
 - [2024 Iowa State Fair Photos](https://photos.app.goo.gl/fUn4M4mZLxwyrk1U9)
 - Trink, Brad, Carol, Emma, Ryley, ChrisJ and ChrisT(me)
