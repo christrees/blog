@@ -3,7 +3,7 @@
 - Trink, Brad, Carol, Emma, Ryley, ChrisJ and ChrisT(me)
 
 ## August 4 2024 Klopfenstein Ice Cream
-- [Klopfenstein Ice Cream Photos](https://photos.app.goo.gl/mggpMiBTbhjMzwu59
+- [Klopfenstein Ice Cream Photos](https://photos.app.goo.gl/mggpMiBTbhjMzwu59)
 
 ## July 24 2024 - RAGBRAI Trink rides again
 - [2024 RAGBRAI photos](https://photos.app.goo.gl/2XLdstnn5kw6XrqL6)
