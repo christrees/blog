@@ -1,3 +1,22 @@
+## August 11 2024 Iowa State Fair
+- [2024 Iowa State Fair Photos](https://photos.app.goo.gl/fUn4M4mZLxwyrk1U9)
+- Trink, Brad, Carol, Emma, Ryley, ChrisJ and ChrisT(me)
+
+## August 4 2024 Klopfenstein Ice Cream
+- [Klopfenstein Ice Cream Photos](https://photos.app.goo.gl/mggpMiBTbhjMzwu59
+
+## July 24 2024 - RAGBRAI Trink rides again
+- [2024 RAGBRAI photos](https://photos.app.goo.gl/2XLdstnn5kw6XrqL6)
+
+## July 22 2024 - Trink in SL with Gus
+- [Trink eats in SL](https://photos.app.goo.gl/dQkFnebuCfDZjdpa8)
+
+## July 21 2024 - Grasshorse move my shit...
+- [Grasshorse move my shit...](https://photos.app.goo.gl/7wqaSySDc8Sf9eob9)
+
+## July 20 2024 - Ron and Candy 50th
+- [Ron and Candy 50th](https://photos.app.goo.gl/66TUjzwfYiyaYjAt5)
+
 ## July 14 2024
 - [MARay visit photos](https://photos.app.goo.gl/FXiHNqH4DtwRFiYq6)
 - also [MARay share](./share/maray/)
