@@ -120,10 +120,11 @@
 - [Future Money](./futureMoney)
 - [Trade Psychology](./tradePsychology)
 
-## Stock
+## Brokerage
 - [E-Trade](http://etrade.com/)
 - [TDAmeritrade](https://www.tdameritrade.com/)
 - [TradingView](https://www.tradingview.com/)
+- [NinjaTrader](https://account.ninjatrader.com/welcome)
 
 ### Reference
 - [Game of Trades - Market Overviews](https://www.youtube.com/c/GameofTrades/videos)
