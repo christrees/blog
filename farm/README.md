@@ -1,5 +1,7 @@
 # Farm stuff
 
+- Vote for Zach [Dept of Agriculture Nominee](https://discourse.nomineesforthepeople.com/t/zach-johnson/13418)
+- File BOI [https://www.fincen.gov/boi](File BOI https://www.fincen.gov/boi)
 - Farm Chat [Video Link](https://meet.google.com/efv-bzzx-pqa)
 - Weekly JFT / FH Klop Farms Operations meeting 8PM Sunday
   
