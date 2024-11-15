@@ -1,8 +1,17 @@
+## November 11 UNI game
+- [UNI vs it was more about the BAND](https://photos.app.goo.gl/BnHhdUvGj3i1wQmh8)
+
+## November 5 - Fletcher Floor
+- [Fletcher Floor finishing](https://photos.app.goo.gl/Q9DSuzQfnReKB4qW7)
+  
+## October 11 - November 2 - Guscamp
+- [Guscamp Fall edition](https://photos.app.goo.gl/EMj38MoP3ukbrG2t6)
+
 ## September 25 2024 - Bin Fix
 - [Bin fix](https://photos.app.goo.gl/9oGtvabexYrscFQx6)
 
 ## September 3 2024 - FH Klop Farm Fix
-- [](https://photos.app.goo.gl/Mioot17PVCStDaMS8)
+- [FH Farm approach fix](https://photos.app.goo.gl/Mioot17PVCStDaMS8)
 
 ## August 11 2024 Iowa State Fair
 - [2024 Iowa State Fair Photos](https://photos.app.goo.gl/fUn4M4mZLxwyrk1U9)
