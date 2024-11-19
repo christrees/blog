@@ -13,6 +13,15 @@
 - [Dr. Ellie Phillips - Amazon Store](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRBNi11bXBsZFR3QlBHM2RyMTNoNmJ6VWtud3xBQ3Jtc0tsdzRMRWUxNjZFcUpON1ZJZnZhdG9SazdNUlFDSjIzSXJWMG5PSVZZRE1xeVh6bEM1RU1BLVBFVThJWkpESGZjUWtDMnJaalNmU29DbVBvN2t5SnJ3OXg5cTNrQ3NGVWNyc3JmLWRhYloxUG1FNWNXYw&q=https%3A%2F%2Fwww.amazon.com%2Fshop%2Fdr.elliephillips&v=tXZbmz6kBUU)
 - [tbd]()
 
+## Eyes
+- Eye Wash [yt](https://youtu.be/4eBw7gmJ0Kg?t=448)
+  - 1/2 teaspoon of Golden Seal
+  - 1/2 teaspoon of eyebright
+  - 1 cup boiling water (make tea)
+  - Cool and strain
+  - use to hydrate eyes
+- Castral Oil one drop over eyelids twice daily helps with cataracts [yt](https://youtu.be/4eBw7gmJ0Kg?t=371)
+  
 ## Good for Liver
 - Leafy Greens, Artichokes, Radishes, Garlic, Onions, Scallions, Broccoli Sprouts, Broccoli, Brussel Sprouts, Kale, Cabbage, Eggs, Mushrooms, Wild Salmon, Oily Fish, Walnuts.
 - Pumpkin with fatty meals
