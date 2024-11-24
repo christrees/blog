@@ -1,3 +1,8 @@
+## November 24
+- opt-out of ebay data shareing [toggle to out](https://www.ebay.com/adchoice/ccpa) after loging into your ebay account
+- File BOI [https://www.fincen.gov/boi](https://www.fincen.gov/boi)
+- Vote [zach-johnson](https://discourse.nomineesforthepeople.com/t/zach-johnson/13418)
+
 ## November 11 UNI game
 - [UNI vs it was more about the BAND](https://photos.app.goo.gl/BnHhdUvGj3i1wQmh8)
 
