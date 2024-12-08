@@ -52,6 +52,6 @@ The 1040 report is a consistant actual evalutaion point, use the 1040 data flow.
 - [Live Insurance Dividends explained](https://www.forbes.com/advisor/life-insurance/life-insurance-dividends/)
 - [About Form 1310, Statement of Person Claiming Refund Due a Deceased Taxpayer](https://www.irs.gov/forms-pubs/about-form-1310)
 - [IRS form 1065 K1 - Partnership](https://www.irs.gov/pub/irs-pdf/i1065sk1.pdf)
-- [tbd]()
+- [CAT Logic](./cat-logic.md) how to not go insane...
 
 
