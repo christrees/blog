@@ -27,12 +27,15 @@
 - Castral Oil one drop over eyelids twice daily helps with cataracts [yt](https://youtu.be/4eBw7gmJ0Kg?t=371)
   
 ## Good for Liver
-- Leafy Greens, Artichokes, Radishes, Garlic, Onions, Scallions, Broccoli Sprouts, Broccoli, Brussel Sprouts, Kale, Cabbage, Eggs, Mushrooms, Wild Salmon, Oily Fish, Walnuts.
+- Leafy Greens, arugula, Artichokes, Radishes, Garlic, Onions, Scallions, Broccoli Sprouts, Broccoli, Brussel Sprouts, Kale, Cabbage, Eggs, Mushrooms, Wild Salmon, Oily Fish, Walnuts.
+- ginger, turmeric, cinnamon, dandelion root, green tea, cloves, milk thistle, reishi mushrooms
 - Pumpkin with fatty meals
 - Avocado
 - Teaspoon of Tumeric in Coffee
 - 1 liter of mineral water per day (with fresh lemon or lime juice)
 - Celery (6 stalks) Lemon (1 whole) little bit of Honey
+- purified bile supplements TKA bile salts or enzymes containing ox bile in morning on empty stomach
+- fasting
 
 ## [youtube](https://www.youtube.com/watch?v=e_qG4f6n3pw)
 - Green, matcha and ulong teas [youtube](https://youtu.be/e_qG4f6n3pw?t=1386)
