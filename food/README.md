@@ -1,6 +1,7 @@
 [edit](https://github.com/christrees/blog/edit/master/food/README.md)
 
 - [Feral Foraging](https://www.youtube.com/@FeralForaging/videos)
+- [Some Cook BrianLagerstrom](https://www.youtube.com/@BrianLagerstrom)
 - [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
   - [Hamburger Diet and Bloodwork](https://www.youtube.com/watch?v=2foYhMX8mMc)
 - [Health Doc youtube](https://www.youtube.com/@motivationaldoc/videos)
