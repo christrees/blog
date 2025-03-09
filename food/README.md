@@ -110,6 +110,11 @@ Instructions
   - 6 carrots
 - Vit A, C, K, Ca, Fe
 - Grape Juice (CaF2)
+
+## Fasting
+- [100 hr Fast](https://www.youtube.com/watch?v=3XUp7_eir18)
+
+
 ## Old stuff
 
  - [old food site](./food.html)
