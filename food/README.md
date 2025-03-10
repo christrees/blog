@@ -113,6 +113,7 @@ Instructions
 
 ## Fasting
 - [100 hr Fast](https://www.youtube.com/watch?v=3XUp7_eir18)
+- [Stufff to use](https://www.youtube.com/watch?v=rOp27W33gBU)
 
 
 ## Old stuff
