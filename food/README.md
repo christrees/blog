@@ -115,9 +115,10 @@ Instructions
 - [100 hr Fast](https://www.youtube.com/watch?v=3XUp7_eir18)
 - [Stufff to use](https://www.youtube.com/watch?v=rOp27W33gBU)
 - [Poop Magic](https://www.youtube.com/watch?v=zRE-ziGjoS8)
-  - [Psyllium Husk Fiber](https://www.amazon.com/Organic-India-Psyllium-Herbal-Powder/dp/B0016AXN7A)
-  - [Organic Ground Flaxseed](https://www.amazon.com/Spectrum-Essentials-Organic-Ground-Flaxseed/dp/B00DOKFLYI)
-  - [Vitamin C with Calcium, Mag and Pot](https://www.amazon.com/dp/B005IZIXC4)
+  - 5 grams [Psyllium Husk Fiber](https://www.amazon.com/Organic-India-Psyllium-Herbal-Powder/dp/B0016AXN7A)
+  - 2 Tablespoons [Organic Ground Flaxseed](https://www.amazon.com/Spectrum-Essentials-Organic-Ground-Flaxseed/dp/B00DOKFLYI)
+  - 400mg calcium 200mg magnesium [Vitamin C with Calcium, Mag and Pot](https://www.amazon.com/dp/B005IZIXC4)
+  - 16 oz of spring water
   - Fats to use:
     - Olive Oil
     - Avocado Oil
