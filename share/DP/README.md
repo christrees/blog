@@ -51,3 +51,8 @@ Projects
 
 
 ## [DP chores](./DPchores)
+
+## Notes
+- Hanauma Hike [Link](https://maps.app.goo.gl/DxWCMXU9w6EQ4ZfA6) to [Hanauma Bay State Park](https://hanaumabaystatepark.com/hanauma-bay-history/)
+- DP neighborhood Hike [Link](https://maps.app.goo.gl/kZGW6qSNsashgSXSA)
+- Public Beach Hike [Link](https://maps.app.goo.gl/PC5yYnen51jMH7Hn6)
