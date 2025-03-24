@@ -1,3 +1,13 @@
+## 2025 tour
+- BooBoo at Work 2025 Visit Photos
+- Leighton and Matt [2025 Visit Photos](https://photos.app.goo.gl/AXRReaxSM8z9S6Ef7)
+- Taed and Suzanne [2025 Visit Photos](https://photos.app.goo.gl/MWmTx5p31v71qPpF6)
+- Ken (missed Lilly) [2025 Visit Photos](https://photos.app.goo.gl/Ay9tQo1SmAGqvF7A6)
+- Trink and DanK [2025 Visit Photos](https://photos.app.goo.gl/CimVmofbbevTLvfA7)
+- Karen and DP [2025 Visit Photos](https://photos.app.goo.gl/NkQjC6SeVSKBGaVj8)
+- Carmen and Brad 2025 Visit Photos
+- 
+
 ## November 24
 - opt-out of ebay data shareing [toggle to out](https://www.ebay.com/adchoice/ccpa) after loging into your ebay account
 - File BOI [https://www.fincen.gov/boi](https://www.fincen.gov/boi)
