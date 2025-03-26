@@ -1,3 +1,5 @@
+[edit](https://github.com/christrees/blog/edit/master/share/DP/README.md)
+
 # DP
 Darrell Preece (DP) 
 160 Nawiliwili St
@@ -19,7 +21,6 @@ Projects
 - 2 4x6 Storage Tote Rack
   - [Website ](https://www.ana-white.com/woodworking-projects/free-diy-tote-storage-rack-configurator-and-plans-ana-white)
   - Done [Pictures](https://photos.app.goo.gl/8TR5h2wcZffJWqHz6)
-  - tbd
 - Install under Cabinet lighting
   - Clear shelfs to access electrical
   - Setup test strips
@@ -27,13 +28,13 @@ Projects
   - Drill and route
   - Wire and test
   - Mount lights
-  - InProgress [Pictures]()
+  - InProgress [Pictures](https://photos.app.goo.gl/4R7sKfe2Rduqd4iEA)
 - Robot Pool
   - [Seagull pro knob issue](https://www.google.com/search?q=aiper+seagull+pro+knob+won+t+turn&sca_esv=c6dd72dbb1931884&sxsrf=AHTn8zpwTVkeJH-vcJq-v9HzUCvugjR7bg%3A1742581009371&ei=Ea3dZ9a2FoT6kPIPp9TVkQw&oq=aiper+seagull+pro+cannot+turn&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWFpcGVyIHNlYWd1bGwgcHJvIGNhbm5vdCB0dXJuKgIIAjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYogQYiQUyCBAAGKIEGIkFSNR1UJIPWMNMcAF4AZABAJgBnwGgAeAMqgEEMC4xMrgBAcgBAPgBAZgCDaACvw3CAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICDhAAGLADGOQCGNYE2AEBwgIWEC4YgAQYsAMYQxjlBBjIAxiKBdgBAcICGRAuGIAEGLADGNEDGEMYxwEYyAMYigXYAQHCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAgUQABiABMICChAAGIAEGBQYhwLCAg4QLhiABBixAxiDARjlBMICBBAAGAPCAh0QLhiABBixAxiDARjlBBiXBRjcBBjeBBjgBNgBAcICBRAhGKABmAMAiAYBkAYTugYGCAEQARgJkgcEMS4xMqAHsVWyBwQwLjEyuAe3DQ&sclient=gws-wiz-serp)
   - Pool bot [bearing replacement](https://www.ifixit.com/Guide/Aiper+Seagull+Pro:+Button+bearing+replacement/177344)
   - Pool bot [bearing picture](https://guide-images.cdn.ifixit.com/igi/xyMEtmhBToKOGZcR.huge)
   - Pool bot [repair breakdown](https://www.youtube.com/watch?v=iu2WZWz4rhU)
-  - NA [Pictures]() push ring up and down to get bearing to release, I'm guessing it just gets stuff into it
+  - NA push ring up and down to get bearing to release, I'm guessing it just gets stuff into it
 - Garage Ref Fix
   - Samsung: RF23HCEDBSR/AAff
   - Sounds like DP's issue [FixDefrost](https://www.justanswer.com/appliance/bylb7-samsung-refrigerator-rf23hcedbsr-aa-it-s.html)
@@ -42,10 +43,19 @@ Projects
   - Samsung refrigerator [ice maker freezing up issue finally FIXED](https://www.youtube.com/watch?v=ND-2Nkp1ItM)
   - Samsung refrigerator [Permanently stop your Samsung French door refrigerator from freezing and icing up - Super Cheap Fix](https://www.youtube.com/watch?v=l5beJp8amJU)
   - InProgress [Pictures](https://photos.app.goo.gl/tf4KZxibs4HxitcF7)
+- Dryer Cleanup
+  - Mainly cleanup motor and runner bearings...
+  - InProgress [Pictures](https://photos.app.goo.gl/hLx1D3SMV8G8rLBx5)
+- Tool Box Cleanup
+  - Couldn't find stuff to fix other stuff... so
+  - Sort Tools [Pictures](https://photos.app.goo.gl/fQ5QAgksq5mWspXz6)
+- Squeeky Chair Fix
+  - Disassembly [video](https://www.youtube.com/watch?v=U7lxOD9n8SQ)
+  - InProgress [Pictures](https://photos.app.goo.gl/kYSnJvwDCvP1Epio8)
 - Move garage light
-  - Find Electrical breaker
+  - Find Electrical breaker [Pictures](https://photos.app.goo.gl/oveUqfNVhTXgi5Vm9)
   - Find wire trace
-  - Move
+  - Not started [Pictures](https://photos.app.goo.gl/oveUqfNVhTXgi5Vm9)
 
 
 
