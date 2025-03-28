@@ -39,6 +39,9 @@ Projects
   - Samsung: RF23HCEDBSR/AAff
   - Sounds like DP's issue [FixDefrost](https://www.justanswer.com/appliance/bylb7-samsung-refrigerator-rf23hcedbsr-aa-it-s.html)
   - [Manual](https://www.manualslib.com/manual/1228428/Samsung-Rf28hmedbsr.html?page=54#manual)
+  - Samsung refrigerator [Ice Maker Seal with Al-Tape youtoube tc:06:25](https://youtu.be/ND-2Nkp1ItM?t=385)
+    - Image Icemaker seal
+    - ![icemaker02](./DPProject-Refig-SealIceMaker02-Capture.JPG )
   - Samsung refrigerator [Bens Appliance and Junk](https://www.youtube.com/@bensappliancesandjunk/search?query=Samsung%3A%20RF23HCEDBSR)
   - Samsung refrigerator [ice maker freezing up issue finally FIXED](https://www.youtube.com/watch?v=ND-2Nkp1ItM)
   - Samsung refrigerator [Permanently stop your Samsung French door refrigerator from freezing and icing up - Super Cheap Fix](https://www.youtube.com/watch?v=l5beJp8amJU)
