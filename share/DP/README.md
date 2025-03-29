@@ -57,6 +57,12 @@ Projects
   - Samsung refrigerator [ice maker freezing up issue finally FIXED](https://www.youtube.com/watch?v=ND-2Nkp1ItM)
   - Samsung refrigerator [Permanently stop your Samsung French door refrigerator from freezing and icing up - Super Cheap Fix](https://www.youtube.com/watch?v=l5beJp8amJU)
   - DONE [Pictures](https://photos.app.goo.gl/tf4KZxibs4HxitcF7)
+  - Force Defrost [youtube-tc2:29](https://youtu.be/l5beJp8amJU?t=149)
+    - Press Freezer and Lighting for over 3 sec
+    - Press Lighting untill code
+      - rd (refrig defrost)
+      - Fd (Full defrost)
+    - 
 - Dryer Cleanup
   - Mainly cleanup motor and runner bearings...
   - DONE [Pictures](https://photos.app.goo.gl/hLx1D3SMV8G8rLBx5)
