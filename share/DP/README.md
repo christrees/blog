@@ -28,7 +28,18 @@ Projects
   - Drill and route
   - Wire and test
   - Mount lights
-  - InProgress [Pictures](https://photos.app.goo.gl/4R7sKfe2Rduqd4iEA)
+  - DONE [Pictures](https://photos.app.goo.gl/4R7sKfe2Rduqd4iEA)
+- Kitchen fixes
+  - Dimmer for under cab leds
+  - Remove old Tfrm power
+  - Fix wall and ceiling patcher (Mud)
+  - Sand and smooth (pre-paint prep)
+  - Clean lights, caulk backsplash
+  - InProgress Pictures
+- DP / guest bath
+  - clean calcium
+  - calk backsplash
+  - ToDo Pictures
 - Robot Pool
   - [Seagull pro knob issue](https://www.google.com/search?q=aiper+seagull+pro+knob+won+t+turn&sca_esv=c6dd72dbb1931884&sxsrf=AHTn8zpwTVkeJH-vcJq-v9HzUCvugjR7bg%3A1742581009371&ei=Ea3dZ9a2FoT6kPIPp9TVkQw&oq=aiper+seagull+pro+cannot+turn&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWFpcGVyIHNlYWd1bGwgcHJvIGNhbm5vdCB0dXJuKgIIAjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMggQABgWGAoYHjILEAAYgAQYhgMYigUyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYogQYiQUyCBAAGKIEGIkFSNR1UJIPWMNMcAF4AZABAJgBnwGgAeAMqgEEMC4xMrgBAcgBAPgBAZgCDaACvw3CAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICDhAAGLADGOQCGNYE2AEBwgIWEC4YgAQYsAMYQxjlBBjIAxiKBdgBAcICGRAuGIAEGLADGNEDGEMYxwEYyAMYigXYAQHCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAgUQABiABMICChAAGIAEGBQYhwLCAg4QLhiABBixAxiDARjlBMICBBAAGAPCAh0QLhiABBixAxiDARjlBBiXBRjcBBjeBBjgBNgBAcICBRAhGKABmAMAiAYBkAYTugYGCAEQARgJkgcEMS4xMqAHsVWyBwQwLjEyuAe3DQ&sclient=gws-wiz-serp)
   - Pool bot [bearing replacement](https://www.ifixit.com/Guide/Aiper+Seagull+Pro:+Button+bearing+replacement/177344)
@@ -45,16 +56,22 @@ Projects
   - Samsung refrigerator [Bens Appliance and Junk](https://www.youtube.com/@bensappliancesandjunk/search?query=Samsung%3A%20RF23HCEDBSR)
   - Samsung refrigerator [ice maker freezing up issue finally FIXED](https://www.youtube.com/watch?v=ND-2Nkp1ItM)
   - Samsung refrigerator [Permanently stop your Samsung French door refrigerator from freezing and icing up - Super Cheap Fix](https://www.youtube.com/watch?v=l5beJp8amJU)
-  - InProgress [Pictures](https://photos.app.goo.gl/tf4KZxibs4HxitcF7)
+  - DONE [Pictures](https://photos.app.goo.gl/tf4KZxibs4HxitcF7)
 - Dryer Cleanup
   - Mainly cleanup motor and runner bearings...
-  - InProgress [Pictures](https://photos.app.goo.gl/hLx1D3SMV8G8rLBx5)
+  - DONE [Pictures](https://photos.app.goo.gl/hLx1D3SMV8G8rLBx5)
 - Tool Box Cleanup
   - Couldn't find stuff to fix other stuff... so
   - Sort Tools [Pictures](https://photos.app.goo.gl/fQ5QAgksq5mWspXz6)
+  - Need final boxOcrap sort
 - Squeeky Chair Fix
   - Disassembly [video](https://www.youtube.com/watch?v=U7lxOD9n8SQ)
+  - ISSUE: squeak is between insert and base
+  - ISSUE: Reapolster back
   - InProgress [Pictures](https://photos.app.goo.gl/kYSnJvwDCvP1Epio8)
+- Move lumber to deck attic
+  - Put as much reusable lumber as possible into attic
+  - InProgress [Pictures](https://photos.app.goo.gl/Wfi4ijArtsJxDo7p6)
 - Move garage light
   - Find Electrical breaker [Pictures](https://photos.app.goo.gl/oveUqfNVhTXgi5Vm9)
   - Find wire trace
