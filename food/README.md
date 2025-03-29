@@ -45,6 +45,9 @@
 - purified bile supplements TKA bile salts or enzymes containing ox bile in morning on empty stomach
 - fasting
 
+## Chickpea chetos
+ - [youtube](https://www.youtube.com/watch?v=ATyUZCWUCPE)
+
 ## [youtube](https://www.youtube.com/watch?v=e_qG4f6n3pw)
 - Green, matcha and ulong teas [youtube](https://youtu.be/e_qG4f6n3pw?t=1386)
 - Coffee (chlorogenic acid) [youtube](https://youtu.be/e_qG4f6n3pw?t=1552)
