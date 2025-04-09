@@ -13,6 +13,24 @@
 - [Dr. Ellie Phillips - Healthy Teeth - Youtube](https://www.youtube.com/watch?v=tXZbmz6kBUU)
 - [Dr. Ellie Phillips - Reverse Cavity](https://www.youtube.com/watch?v=4wlRM-YgRQ8)
 - [Dr. Ellie Phillips - Amazon Store](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRBNi11bXBsZFR3QlBHM2RyMTNoNmJ6VWtud3xBQ3Jtc0tsdzRMRWUxNjZFcUpON1ZJZnZhdG9SazdNUlFDSjIzSXJWMG5PSVZZRE1xeVh6bEM1RU1BLVBFVThJWkpESGZjUWtDMnJaalNmU29DbVBvN2t5SnJ3OXg5cTNrQ3NGVWNyc3JmLWRhYloxUG1FNWNXYw&q=https%3A%2F%2Fwww.amazon.com%2Fshop%2Fdr.elliephillips&v=tXZbmz6kBUU)
+- [Dental health store](https://www.reverseautoimmune.com/reversecavitystore/) - [youtube](https://www.youtube.com/watch?v=XrpNrJoH4wI)
+  - Coconut Oil pulling [tc 20:55](https://youtu.be/XrpNrJoH4wI?t=1255)
+    - 2 teaspoons
+    - 15-20 min
+    - 1-2x daily
+  - Essential oils [tc 23:30](https://youtu.be/XrpNrJoH4wI?t=1422)
+    - Cinnamon, Oregano, Broom Weed, Rosemary leaf, Coriander
+  - Tongue Scraping [tc 28:40](https://youtu.be/XrpNrJoH4wI?t=1722)
+  - Juicing [tc 39:50](https://youtu.be/XrpNrJoH4wI?t=2390)
+    - 4 midsize Swiss Chard, Kale or Collard Greens
+    - 1/4 bunch parsley
+    - 1-2 cups cabbage
+    - 1/2 cucumber
+    - 4 celery stalks
+    - 6 carrots
+  - Vitamin D get over 50ng/mL [tc 53:33](https://youtu.be/XrpNrJoH4wI?t=3213)
+    - 5000 IU / day supplement
+- [tbd]()
 - [tbd]()
 
 ## Health portals
@@ -25,6 +43,7 @@
 - [yt- Cook from Frozen](https://www.youtube.com/watch?v=_jKYjg35Cm0)
 - [tbd]()
 - [tbd]()
+
 ## Eyes
 - Eye Wash [yt](https://youtu.be/4eBw7gmJ0Kg?t=448)
   - 1/2 teaspoon of Golden Seal
