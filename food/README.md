@@ -30,7 +30,7 @@
     - 6 carrots
   - Vitamin D get over 50ng/mL [tc 53:33](https://youtu.be/XrpNrJoH4wI?t=3213)
     - 5000 IU / day supplement
-- [tbd]()
+- [Light for toenails](https://hewelth.com/offer/Hewelth/checkout/22433?Affid=10&s4=379&s5=6176672244c44491a140302261db2bc5&_ef_transaction_id=6176672244c44491a140302261db2bc5&domain1=www.bsjs23tr.com)
 - [tbd]()
 
 ## Health portals
