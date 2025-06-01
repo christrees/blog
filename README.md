@@ -1,3 +1,10 @@
+## Teddy
+Darrell and Karen lost my sunset watching (and overnight footwarmer) buddy, Teddy.
+- Some of my [Teddy pictures](https://photos.app.goo.gl/ufDP6xfQx2gAarwFA)
+- Save me a spot on your couch Teddy!
+![TeddySunset1](TeddySunset1-PXL_20250322_042255951.jpg)
+![TeddySunset2](TeddySunset2-PXL_20250322_041808874.jpg)
+
 ## 2025 tour
 - BooBoo at Work [2025 Visit Photos](https://photos.app.goo.gl/6hhj3K4cyGqgwYoz6)
 - Leighton and Matt [2025 Visit Photos](https://photos.app.goo.gl/AXRReaxSM8z9S6Ef7)
