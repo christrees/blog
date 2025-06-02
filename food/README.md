@@ -1,5 +1,11 @@
 [edit](https://github.com/christrees/blog/edit/master/food/README.md)
 
+# hacks
+- Savory Breakfast
+- Vinegar once a dau
+- Veggie starters
+- Movement after eating
+
 - [Feral Foraging](https://www.youtube.com/@FeralForaging/videos)
 - [Some Cook BrianLagerstrom](https://www.youtube.com/@BrianLagerstrom)
 - [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
