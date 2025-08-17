@@ -1,3 +1,7 @@
+[farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
+## Fireworks PGI 2025.08.08
+![20250808-Fireworks](20250808-Fireworks.JPG)
+
 ## Teddy
 Darrell and Karen lost my sunset watching (and overnight footwarmer) buddy, Teddy.
 - Some of my [Teddy pictures](https://photos.app.goo.gl/ufDP6xfQx2gAarwFA)
