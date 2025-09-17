@@ -17,6 +17,12 @@ Darrell and Karen lost my sunset watching (and overnight footwarmer) buddy, Tedd
 ![TeddySunset1](TeddySunset1-PXL_20250322_042255951.jpg)
 ![TeddySunset2](TeddySunset2-PXL_20250322_041808874.jpg)
 
+## DP Power 2025.03.23
+- [Power routes](https://photos.app.goo.gl/oveUqfNVhTXgi5Vm9)
+
+## DP Tote Rack 2025.03.12
+- [DP Tote Rack share](https://photos.app.goo.gl/8TR5h2wcZffJWqHz6)
+  
 ## 2025 tour
 - BooBoo at Work [2025 Visit Photos](https://photos.app.goo.gl/6hhj3K4cyGqgwYoz6)
 - Leighton and Matt [2025 Visit Photos](https://photos.app.goo.gl/AXRReaxSM8z9S6Ef7)
