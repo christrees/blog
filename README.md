@@ -10,6 +10,9 @@
 - [2025 Fireworks Share](https://photos.app.goo.gl/LZQr8KZPBtwWMM467)
 ![20250808-Fireworks](20250808-Fireworks.JPG)
 
+## Joe Backhoe Rebuild 2025.07.23
+- [Joe Backhoe Rebuild share](https://photos.app.goo.gl/EkL87EPsKGAdWuA37)
+  
 ## Teddy
 Darrell and Karen lost my sunset watching (and overnight footwarmer) buddy, Teddy.
 - Some of my [Teddy pictures](https://photos.app.goo.gl/ufDP6xfQx2gAarwFA)
