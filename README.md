@@ -15,6 +15,9 @@
   
 ## Joe Backhoe Rebuild 2025.07.23
 - [Joe Backhoe Rebuild share](https://photos.app.goo.gl/EkL87EPsKGAdWuA37)
+
+## Trink visit 2025
+- [Trink 2025 share](https://photos.app.goo.gl/DhHtKZ7BHp6vPKNV6)
   
 ## Teddy
 Darrell and Karen lost my sunset watching (and overnight footwarmer) buddy, Teddy.
