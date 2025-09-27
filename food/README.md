@@ -1,5 +1,24 @@
 [edit](https://github.com/christrees/blog/edit/master/food/README.md)
 
+# eating
+- 650ml warm water in AM in few min
+- Eat Veg, Meat then Carbs (order)
+- Eat fermented foods
+- Eat to 80% full
+- Eat 5 colors
+- 18 hr fast 6hr eat window (36hr fast once a month)
+- Warm foods to aid digestion
+
+# eye health
+- sweet potatos
+- wild salmon
+- goji berries
+- organic egg yolks
+- bilberries (anthocyanoside)
+- black currants (vit C and GLA)
+- saffron (crocin and crocertin)
+- raw cacao (epicatechin a flavanol increases bloodflow and eye nurions)
+
 # hacks
 - Savory Breakfast
 - Vinegar once a dau
