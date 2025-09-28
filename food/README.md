@@ -9,7 +9,7 @@
 - 18 hr fast 6hr eat window (36hr fast once a month)
 - Warm foods to aid digestion
 
-# eye health
+# eye health [yt](https://www.youtube.com/watch?v=nCnZX8zs4LI)
 - sweet potatos
 - wild salmon
 - goji berries
