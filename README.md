@@ -1,5 +1,8 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
 
+## Wisconsin trip 2025.10.11-12
+- [Fall Color Map](https://www.travelwisconsin.com/fall-color-report)
+
 ## [Winfield Historical Society](http://www.winfieldhistoricalsociety.com/) restoration
 - [WHS-NB restoration](http://www.winfieldhistoricalsociety.com/northbuilding.htm)
 ![WHS-NB-01](./WHS-NB-01.jpg)
