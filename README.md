@@ -1,5 +1,9 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
 
+## Anne and Jacque visit 2025.10.31 - 11.09 [calendar](https://calendar.google.com/calendar/u/0?cid=NzVjMGMxMWU0ZmMwNDdkM2EzMjg2ODExZDA4ZDRiYTMwNzY2MGYwN2ZkNTU5Nzc5ODBmY2UzOTI3OGExNWQ3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Sister Joe and bro-n-law Jacque invade Iowa
+- Sister Carol's [Anne and Jacque Events](https://calendar.google.com/calendar/u/0?cid=NzVjMGMxMWU0ZmMwNDdkM2EzMjg2ODExZDA4ZDRiYTMwNzY2MGYwN2ZkNTU5Nzc5ODBmY2UzOTI3OGExNWQ3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 ## Wisconsin trip 2025.10.11-12
 - [Fall Color Map](https://www.travelwisconsin.com/fall-color-report)
 
