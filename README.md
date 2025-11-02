@@ -1,7 +1,7 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
 
 ## 2025.11.01 - Ashes
-- Chris's pics [link]()
+- Chris's pics [link](https://photos.app.goo.gl/p35Sy6zGadJruzv6A)
 ![20251101-Belmond-Gravesite](20251101-Belmond-Gravesite-IMG_1933.jpg)
 
 ## 2025.10.31 - Halloween
