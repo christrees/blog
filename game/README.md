@@ -1,4 +1,13 @@
 [edit](https://github.com/christrees/blog/edit/master/game/README.md)
+
+# To Read
+- [Culture series - Iain Banks](https://en.wikipedia.org/wiki/Culture_series)
+- tbd
+
+# To watch
+- [Perfect Days](https://en.wikipedia.org/wiki/Perfect_Days)
+- tbd
+
 # Custom js and chrome hacks
 - [load runner web](https://loderunnerwebgame.com/game/)
 - [packman doodle](https://www.google.com/logos/2010/pacman10-i.html)
