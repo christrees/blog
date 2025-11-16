@@ -1,4 +1,8 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
+## 2025-11-15 to 29 Brad-cation
+- Every so often vacation with Brad
+- [2025 Brad-cation pictures](https://photos.app.goo.gl/9KbyvJk5bFoAL7qr7)
+![2025Bradcation](./2025Bradcation.jpg)
 
 ## 2025-11-02 - Happy Birthday big sis
 ![2023-Ashes](2023-Ashes-PXL_20230422_172118802.jpg)
