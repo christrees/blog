@@ -3,6 +3,7 @@
 - Every so often vacation with Brad
 - [2025 Brad-cation pictures](https://photos.app.goo.gl/9KbyvJk5bFoAL7qr7)
 ![2025Bradcation](./2025Bradcation.jpg)
+![2025BradcationHogwarts](./2025BradcationHogwarts.jpg)
 
 ## 2025-11-02 - Happy Birthday big sis
 ![2023-Ashes](2023-Ashes-PXL_20230422_172118802.jpg)
