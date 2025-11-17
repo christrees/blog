@@ -1,7 +1,8 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
 ## 2025-11-15 to 29 Brad-cation
 - Every so often vacation with Brad
-- [2025 Brad-cation pictures](https://photos.app.goo.gl/9KbyvJk5bFoAL7qr7)
+- [2025 Brad-cation pictures](https://photos.app.goo.gl/9KbyvJk5bFoAL7qr7) Chris
+- [2025 Brad-cation pictures](https://photos.app.goo.gl/e7XSz3b6crnCugBX7) Brad
 ![2025Bradcation](./2025Bradcation.jpg)
 ![2025BradcationHogwarts](./2025BradcationHogwarts.jpg)
 
