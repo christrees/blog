@@ -3,6 +3,7 @@
 ![FHKlopFarms-OldTileLineSketch-PXL_20230816_181224945.jpg](FHKlopFarms-OldTileLineSketch-PXL_20230816_181224945.jpg)
 
 # Farm stuff
+- Fert plant [Bocking 14 Comfrey](https://www.youtube.com/watch?v=OQvm6sQfiAI)
 - [ISU-CustomRates-2025-FM1698.pdf](./ISU-CustomRates-2025-FM1698.pdf) ISU link [ISU-CustomRates-2025-FM1698.pdf](https://isuaamncus122stg.blob.core.windows.net/shop/FM1698.pdf)
 - Vote for Zach [Dept of Agriculture Nominee](https://discourse.nomineesforthepeople.com/t/zach-johnson/13418)
 - File BOI [https://www.fincen.gov/boi](File BOI https://www.fincen.gov/boi)
