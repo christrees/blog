@@ -8,8 +8,8 @@
 | AA 2753 | 5:15 AM | 2026.02.06 Fri | CID DFW | 7:46 AM |
 | AA 2753 | 8:45 AM | 2026.02.06 | DFW HOU | 10:05 AM |
 
-- Flight [American Airlines ](https://www.aa.com/reservation/findReservationAccess.do?recordLocator=DQCDTN&c=EML|PDP|20241211|MKT|USMCOC|CX|TRF|US_TRAN_EVG_TRAVEL_REMINDER_SSR_GSA)
-  - Your American Airlines flight to Houston is confirmed with confirmation code DQCDTN for February 6, and you're advised to use your AAdvantage login for in-flight experiences and to manage your trip via the app.
+- Flight [American Airlines Reservation](https://www.aa.com/reservation/findReservationAccess.do?recordLocator=DQCDTN&c=EML|PDP|20241211|MKT|USMCOC|CX|TRF|US_TRAN_EVG_TRAVEL_REMINDER_SSR_GSA)
+  - Confirmation code DQCDTN
 - Hotel Galveston [Booking](https://secure.booking.com/confirmation.en-us.html?bn=5024269187&pbsource=conf_email_modify&pbtrack=email_mainCTA&source=conf_email&from_conf_email_tracking=1&from_conf_email_source=1&blockout_source=1&from_conf_email_apps=1&mp_blockout_cta_track_non_pbb=non_pbb_button_change_book_cta) Confirmation: 5024269187 <!-- 0181 -->
   - Reservation details
   - Check-in	Friday, February 6, 2026 (from 4:00 PM)
