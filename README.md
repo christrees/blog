@@ -1,4 +1,10 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
+
+## 2026-01-25 Snowapocalypse at Gus's
+- Link to [Snowapocalypse photos](https://photos.app.goo.gl/wqMcLuXtw1FEBuPj8)
+![2026_Snoapocalyse_DriveCleared](./2026_Snoapocalyse_Begin_IMG_2945.jpg)
+![2026_Snoapocalyse_DriveCleared](./2026_Snoapocalyse_End-DriveCleared_IMG_2991.jpg)
+
 ## 2025-11-15 to 29 Brad-cation
 - Every so often vacation with Brad
 - [2025 Brad-cation pictures](https://photos.app.goo.gl/9KbyvJk5bFoAL7qr7) Chris
