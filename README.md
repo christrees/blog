@@ -12,6 +12,7 @@
 - Link to [Andi Share Photos - not up]()
 - Line to [Brad Share Photos - not up]()
 ![2026-Gulf-Cruise-IMG_3121](./2026-Gulf-Cruise-IMG_3121.jpg)
+![cat-20260211-Cruise-NordykeDinner-IMG_3263](./cat-20260211-Cruise-NordykeDinner-IMG_3263.jpg)
 
 ## 2026-01-25 Snowapocalypse at Gus's
 - Link to [Snowapocalypse photos](https://photos.app.goo.gl/wqMcLuXtw1FEBuPj8)
