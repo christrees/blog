@@ -25,6 +25,7 @@
 - Veggie starters
 - Movement after eating
 
+- [1930 Survival Kitchen](https://www.youtube.com/@1930sSurvivalKitchen)
 - [Feral Foraging](https://www.youtube.com/@FeralForaging/videos)
 - [Some Cook BrianLagerstrom](https://www.youtube.com/@BrianLagerstrom)
 - [Dr. Eric Berg DC](https://www.youtube.com/c/DrEricBergDC)
