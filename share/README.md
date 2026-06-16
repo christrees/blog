@@ -6,6 +6,7 @@
 - [Nordyke](./Nordyke)
 - [Sander](./Sander)
 - [TaedWynnell](./TaedWynnell)
+- [BruceE](./BruceE)
 - [Trink](./Trink)
 - [Tu](./Tu)
 
