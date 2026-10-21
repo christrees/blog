@@ -8,6 +8,7 @@
 
 - [ahouse](./ahouse/)
   - [ahouse/electrical](./ahouse/electrical/)
+  - [ahouse/microwave](./ahouse/microwave.md)
 
 ## Reference
 - [HP Envy 6 Ultrabook](./HPEnvy6Ultrabook/)
