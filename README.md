@@ -1,5 +1,14 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
 
+## 2026-11-12 SpaceX 
+- https://www.starbaseevents.com/road-closures
+- https://www.starbaseevents.com/where-to-watch
+- https://www.starbase.texas.gov/
+- https://www.spacelaunchschedule.com/viewing-locations/isla-blanca-park/
+- https://www.cameroncountytx.gov/parks-coastal-parks__trashed/parks-isla-blanca/
+- https://share.google/dbuAdMTz1kcXQoItU
+- tbd
+
 ## 2026-05-01 ISU Wendell Sander Event
 - [All Chris's Pictures](https://photos.app.goo.gl/p8NjKcsJ1Qjhr6fD6)
 
