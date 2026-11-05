@@ -9,6 +9,11 @@
 - https://share.google/dbuAdMTz1kcXQoItU
 - tbd
 
+## 2026-06-16/20 Gus Camp 2026
+- [Chris's Pictures](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
+
+![guscamp-2026](./guscamp-2026-IMG_4019.jpg)
+
 ## 2026-05-01 ISU Wendell Sander Event
 - [All Chris's Pictures](https://photos.app.goo.gl/p8NjKcsJ1Qjhr6fD6)
 
