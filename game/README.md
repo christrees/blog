@@ -10,6 +10,9 @@
 
 # To Play
 - https://weeklyarcade.games/best-browser-games-2026/
+- Cut the Rope https://www.crazygames.com/game/cut-the-rope-ebx
+- https://www.crazygames.com/game/ragdoll-archers
+- https://www.bored.com/free-online-games/
 - tbd
   
 # Custom js and chrome hacks
