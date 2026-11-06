@@ -9,6 +9,10 @@
 - https://share.google/dbuAdMTz1kcXQoItU
 - tbd
 
+## 2026-10-23/26 Farm
+- [Chris's Pictures](https://photos.app.goo.gl/xupg9Pr9c7RsDuCUA)
+- Machine Down Mon 10/26
+  
 ## 2026-10-09 Converse House
 - [Chris's Pictures](https://photos.app.goo.gl/4DXNcW76TYfU5v6P7)
 
