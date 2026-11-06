@@ -9,6 +9,12 @@
 - https://share.google/dbuAdMTz1kcXQoItU
 - tbd
 
+## 2026-10-09 Converse House
+- [Chris's Pictures](https://photos.app.goo.gl/4DXNcW76TYfU5v6P7)
+
+## 2029-08-29 Von's BDay
+- [Chris's Pictures](https://photos.app.goo.gl/iAfTYfB4AAjECuUw8)
+
 ## 2026-06-16/20 Gus Camp 2026
 - [Chris's Pictures](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
 
