@@ -8,6 +8,10 @@
 - [Perfect Days](https://en.wikipedia.org/wiki/Perfect_Days)
 - tbd
 
+# To Play
+- https://weeklyarcade.games/best-browser-games-2026/
+- tbd
+  
 # Custom js and chrome hacks
 - [load runner web](https://loderunnerwebgame.com/game/)
 - [packman doodle](https://www.google.com/logos/2010/pacman10-i.html)
