@@ -4,6 +4,12 @@
 - [Culture series - Iain Banks](https://en.wikipedia.org/wiki/Culture_series)
 - tbd
 
+# To Listen
+- https://librivox.org/
+- [Isaac Asimov](https://librivox.org/author/656?primary_key=656&search_category=author&search_page=1&search_form=get_results&search_order=alpha)
+- https://librivox.org/great-explorers-in-space-by-various/
+- tbd
+  
 # To watch
 - [Perfect Days](https://en.wikipedia.org/wiki/Perfect_Days)
 - tbd
