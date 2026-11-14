@@ -1,6 +1,8 @@
 [farm](./farm/) - [food](./food/) - [fix](./fix/) - [friends](./share/) - [fun](./game/)
 
 ## 2026-11-13 Friday [SpaceX Flight 15](https://www.spacex.com/launches/starship-flight-15) 
+- [Chris Photos](https://photos.app.goo.gl/r5XhoNEdKeyHPrKx9)
+- [Brad Photos]() tbd
 - https://www.starbaseevents.com/road-closures
 - https://www.starbaseevents.com/where-to-watch
 - https://www.starbase.texas.gov/
