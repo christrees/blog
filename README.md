@@ -2,7 +2,7 @@
 
 ## 2026-11-13 Friday [SpaceX Flight 15](https://www.spacex.com/launches/starship-flight-15) 
 - [Chris Photos](https://photos.app.goo.gl/r5XhoNEdKeyHPrKx9)
-- [Brad Photos]() tbd
+- [Brad Photos](https://photos.app.goo.gl/xfzFGsXGEue7Mh5j7)
 - https://www.starbaseevents.com/road-closures
 - https://www.starbaseevents.com/where-to-watch
 - https://www.starbase.texas.gov/
