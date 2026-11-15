@@ -13,6 +13,17 @@
 
 ## 2026-10-23/26 Farm
 - [Chris's Pictures](https://photos.app.goo.gl/xupg9Pr9c7RsDuCUA)
+- Field I [Cole-Calabrate](https://youtu.be/iFt7CNbIUSE?t=273)
+- Field II [Cole-Truck](https://youtu.be/iFt7CNbIUSE?t=535)
+- Field II [Cole-Dump](https://youtu.be/iFt7CNbIUSE?t=894)
+- Field II [Cole-hybridchange](https://youtu.be/iFt7CNbIUSE?t=923)
+- Field II [Cole-DoneAtNight](https://youtu.be/iFt7CNbIUSE?t=1168)
+- Field III [Cole-HyWayFarm-Begin](https://youtu.be/iFt7CNbIUSE?t=1257)
+- Field III [Cole-Chris](https://youtu.be/iFt7CNbIUSE?t=1340)
+- Field IV [Cole-LUNCH](https://youtu.be/iFt7CNbIUSE?t=1590)
+- Field IV [Cole-DINNER](https://youtu.be/iFt7CNbIUSE?t=1659)
+- Field IV [Cole-DONE](https://youtu.be/iFt7CNbIUSE?t=1691)
+- Field V [Cole-xxx]()
 - Machine Down Mon 10/26
   
 ## 2026-10-09 Converse House
